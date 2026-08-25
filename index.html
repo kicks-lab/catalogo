@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>KICKSLAB — Catalogo modelli e colorway</title>
+<meta name="description" content="KICKSLAB: l'indice dei modelli. Marca, modello, tutte le colorway in una scheda sola. Nessun doppione, nessun rumore.">
+<meta name="theme-color" content="#f3f0e8">
+<meta property="og:title" content="KICKSLAB — The Shoe Index">
+<meta property="og:description" content="Marca, modello, colorway. Il catalogo senza doppioni.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="noise" aria-hidden="true"></div>
+
+<!-- ====================== HEADER ====================== -->
+<header class="topbar">
+  <button class="icon-btn topbar__left" id="menuOpen" aria-expanded="false" aria-controls="drawer">
+    <b>≡</b> Menu
+  </button>
+  <a class="logo" href="#top">KICKSLAB<span>.</span></a>
+  <nav class="topbar__nav" aria-label="Principale">
+    <a href="#catalogo">Catalogo</a>
+    <a href="#marche">Marche</a>
+    <a href="#selezione">Selezione</a>
+    <a href="#info">Come funziona</a>
+  </nav>
+  <div class="topbar__right">
+    <button class="icon-btn icon-btn--solid" id="searchOpen"><b>⌕</b> Cerca</button>
+  </div>
+</header>
+
+<!-- ====================== DRAWER ====================== -->
+<div class="drawer" id="drawer" data-open="false" aria-hidden="true">
+  <div class="drawer__top">
+    <span class="logo">KICKSLAB<span>.</span></span>
+    <button class="drawer__close" id="menuClose">Chiudi ×</button>
+  </div>
+  <nav class="drawer__nav" aria-label="Menu">
+    <a href="#catalogo" data-close>Catalogo</a>
+    <a href="#marche" data-close>Marche</a>
+    <a href="#selezione" data-close>Selezione</a>
+    <a href="#info" data-close>Come funziona</a>
+  </nav>
+  <div class="drawer__sections">
+    <p class="kicker" style="color:#8d8b83">Vai a una categoria</p>
+    <div class="drawer__chips" id="drawerSections"></div>
+  </div>
+  <p class="drawer__foot">Catalogo di sola consultazione. Nessuna vendita, nessun prezzo, nessun carrello.</p>
+</div>
+
+<main id="top">
+
+  <!-- ====================== HERO ====================== -->
+  <section class="hero">
+    <div class="hero__main">
+      <p class="hero__count"><strong id="heroModels">000</strong> modelli · <span id="heroVariants">000</span> colorway</p>
+      <h1>Cerca il modello.<br><em>Non il rumore.</em></h1>
+      <p class="hero__lead">Ogni scheda è un modello: dentro trovi tutte le sue colorway. Niente doppioni, niente venti voci per la stessa scarpa.</p>
+      <div class="hero__cta">
+        <a class="btn btn--primary" href="#catalogo">Apri il catalogo <span>↓</span></a>
+        <a class="btn btn--ghost" href="#marche">Sfoglia per marca <span>→</span></a>
+      </div>
+    </div>
+    <aside class="hero__side" id="heroIndex" aria-label="Marche principali"></aside>
+    <div class="hero__strip" aria-hidden="true">
+      <span>UN MODELLO.</span><span>TUTTE LE COLORWAY.</span><span>ZERO DOPPIONI.</span>
+    </div>
+  </section>
+
+  <!-- ====================== SELEZIONE ====================== -->
+  <section class="section" id="selezione">
+    <div class="section__head">
+      <div>
+        <p class="kicker">Selezione</p>
+        <h2>Parti<br>da qui.</h2>
+      </div>
+      <p class="section__intro">Le silhouette che reggono da sole: icone, daily pair, modelli che non hanno bisogno di essere spiegati.</p>
+    </div>
+    <div class="rail" id="railFeatured"></div>
+  </section>
+
+  <!-- ====================== MANIFESTO ====================== -->
+  <section class="manifesto">
+    <p>Guarda il <em>modello.</em><br>Confronta i <em>colori.</em></p>
+    <p>La scarpa giusta non ha bisogno di essere spiegata troppo. Qui c'è solo l'indice: tu decidi cosa ti piace davvero.</p>
+  </section>
+
+  <!-- ====================== CATALOGO ====================== -->
+  <section class="catalog" id="catalogo">
+    <div class="catalog__head">
+      <p class="kicker">Catalogo completo</p>
+      <h2 class="display" style="font-size:clamp(40px,11vw,72px);margin-top:12px">Trova<br>la tua.</h2>
+    </div>
+
+    <div class="toolbar">
+      <label class="toolbar__search">
+        <span class="sr-only">Cerca nel catalogo</span>
+        <input id="filterInput" type="search" placeholder="Cerca modello, marca, colore…" autocomplete="off">
+        <span aria-hidden="true">⌕</span>
+      </label>
+      <div class="chiprow chiprow--sections" id="sectionChips" role="group" aria-label="Categoria"></div>
+      <div class="chiprow chiprow--brands" id="brandChips" role="group" aria-label="Marca"></div>
+    </div>
+
+    <div class="catalog__meta">
+      <span id="resultCount">0 modelli</span>
+      <button class="catalog__reset" id="resetFilters" hidden>Azzera filtri</button>
+    </div>
+
+    <div class="grid" id="grid"></div>
+    <div class="loadwrap"><button class="btn btn--ghost" id="loadMore" hidden>Mostra altri <span>↓</span></button></div>
+  </section>
+
+  <!-- ====================== MARCHE ====================== -->
+  <section class="section" id="marche">
+    <div class="section__head">
+      <div>
+        <p class="kicker">Indice marche</p>
+        <h2>Tutte le<br>marche.</h2>
+      </div>
+      <p class="section__intro">Tocca una marca per filtrare il catalogo. Il numero indica quanti modelli e quante colorway ci sono dentro.</p>
+    </div>
+    <div class="brandlist" id="brandList"></div>
+  </section>
+
+  <!-- ====================== INFO ====================== -->
+  <section class="info" id="info">
+    <p class="kicker">Come funziona</p>
+    <h2>Tre livelli,<br>zero confusione.</h2>
+    <ol>
+      <li><div><strong>Marca</strong><span>Il filtro più veloce. Sta in alto nel catalogo e nell'indice qui sotto.</span></div></li>
+      <li><div><strong>Modello</strong><span>Una scheda per silhouette. Le collaborazioni restano schede separate perché sono scarpe diverse.</span></div></li>
+      <li><div><strong>Colorway</strong><span>Dentro la scheda del modello. Tocchi il colore e cambia la foto.</span></div></li>
+      <li><div><strong>Da identificare</strong><span>Quando il colore non è certo lo scriviamo, invece di inventarci un nome.</span></div></li>
+    </ol>
+  </section>
+
+</main>
+
+<footer>
+  <a class="logo" href="#top">KICKSLAB<span>.</span></a>
+  <span id="footerMeta">The Shoe Index</span>
+  <span id="footerYear">2026</span>
+</footer>
+
+<!-- ====================== SHEET DETTAGLIO ====================== -->
+<div class="sheet" id="sheet" data-open="false" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+  <div class="sheet__scrim" data-sheet-close></div>
+  <div class="sheet__panel">
+    <div class="sheet__grab">
+      <i aria-hidden="true"></i>
+      <button class="sheet__share" id="sheetShare">Copia link</button>
+      <button class="sheet__close" data-sheet-close>Chiudi ×</button>
+    </div>
+    <div class="sheet__media" id="sheetMedia"></div>
+    <div class="sheet__body">
+      <p class="sheet__brand" id="sheetBrand"></p>
+      <h2 class="sheet__title" id="sheetTitle"></h2>
+      <p id="sheetCollabWrap" hidden><span class="sheet__collab" id="sheetCollab"></span></p>
+      <p class="sheet__label" id="sheetVarLabel">Colorway</p>
+      <div class="varlist" id="sheetVariants"></div>
+      <div class="sheet__specs">
+        <div><span>Marca</span><strong id="sheetSpecBrand"></strong></div>
+        <div><span>Categoria</span><strong id="sheetSpecSection"></strong></div>
+        <div><span>Colorway disponibili</span><strong id="sheetSpecCount"></strong></div>
+      </div>
+      <p class="sheet__note">Catalogo di consultazione: nessun prezzo, nessuna vendita. Serve solo a capire quale modello e quale colore ti interessa.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ====================== RICERCA ====================== -->
+<div class="search" id="search" data-open="false" role="dialog" aria-modal="true" aria-label="Ricerca">
+  <div class="search__top">
+    <span class="kicker">Ricerca rapida</span>
+    <button class="search__close" id="searchClose">Chiudi ×</button>
+  </div>
+  <div class="search__field">
+    <label class="sr-only" for="searchInput">Cerca</label>
+    <input id="searchInput" type="search" placeholder="Air Force, 3XL, B22, Kayano…" autocomplete="off">
+  </div>
+  <div class="search__results" id="searchResults"></div>
+</div>
+
+<script src="catalogo.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
