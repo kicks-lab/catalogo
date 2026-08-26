@@ -64,10 +64,9 @@
   }
 
   function marcaChip(m) {
-    return '<span class="brandFilter">' +
-      '<button class="chip" data-marca="' + esc(m.nome) + '" aria-pressed="false">' +
-      '<span>' + esc(m.nome) + '</span><i>' + m.n + '</i></button>' +
-      '</span>';
+    return '<option value="' + esc(m.nome) + '">' +
+      esc(m.nome) + ' (' + m.n + ')' +
+      '</option>';
   }
 
   function card(p) {
@@ -121,14 +120,24 @@
     $('#loadMoreWrap').hidden = risultati.length <= stato.mostrati;
     $('#resetFilters').hidden = !stato.marca && !stato.testo;
 
-    document.querySelectorAll('#brandChips .chip, #drawerBrands button').forEach(function (c) {
+    var brandSelect = $('#brandSelect');
+    if (brandSelect) brandSelect.value = stato.marca || '';
+
+    document.querySelectorAll('#drawerBrands button').forEach(function (c) {
       c.setAttribute('aria-pressed', String(c.dataset.marca === stato.marca));
     });
   }
 
   /* --- Chip marche, elenco marche, marche nel menu --------------------------- */
   function costruisciStatici() {
-    $('#brandChips').innerHTML = MARCHE.map(marcaChip).join('');
+    $('#brandChips').innerHTML =
+      '<label class="brandSelect" for="brandSelect">' +
+        '<span>Scegli marca</span>' +
+        '<select id="brandSelect">' +
+          '<option value="">Tutte le marche</option>' +
+          MARCHE.map(marcaChip).join('') +
+        '</select>' +
+      '</label>';
 
     $('#brandList').innerHTML = MARCHE.map(function (m) {
       return '<button data-marca="' + esc(m.nome) + '"><strong>' + esc(m.nome) +
@@ -273,9 +282,16 @@
       disegna();
     });
 
+    $('#brandSelect').addEventListener('change', function (e) {
+      stato.marca = e.target.value || null;
+      stato.mostrati = PER_PAGINA;
+      disegna();
+    });
+
     $('#resetFilters').addEventListener('click', function () {
       stato.testo = ''; stato.marca = null; stato.mostrati = PER_PAGINA;
       $('#filterInput').value = '';
+      $('#brandSelect').value = '';
       disegna();
     });
 

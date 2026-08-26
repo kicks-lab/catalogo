@@ -48,8 +48,8 @@
      1 — HEADER
      ========================================================================== -->
 <header class="topbar">
-  <button class="icon-btn topbar__left" type="button" id="menuOpen" aria-expanded="false" aria-controls="drawer">
-    <b aria-hidden="true">&#8801;</b> Menu
+  <button class="icon-btn topbar__left" type="button" id="menuOpen" aria-label="Apri menu" aria-expanded="false" aria-controls="drawer">
+    <b aria-hidden="true">&#9776;</b><span class="icon-btn__label">Menu</span>
   </button>
 
   <a class="logo" href="#top">KICKSLAB<span>.</span></a>
@@ -62,7 +62,9 @@
   </nav>
 
   <div class="topbar__right">
-    <a class="icon-btn icon-btn--solid" href="catalogo.html"><b aria-hidden="true">&#8981;</b> Catalogo</a>
+    <a class="icon-btn icon-btn--solid" href="catalogo.html#catalogo" aria-label="Cerca nel catalogo">
+      <b aria-hidden="true">&#128269;</b><span class="icon-btn__label">Cerca</span>
+    </a>
   </div>
 </header>
 
@@ -178,7 +180,7 @@
         <span class="btn__tg" aria-hidden="true">
           <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M9.6 15.6 9.4 19c.4 0 .6-.2.8-.4l1.9-1.8 3.9 2.9c.7.4 1.2.2 1.4-.7l2.6-12.1c.2-1-.4-1.4-1.1-1.2L3.3 10.3c-1 .4-1 .9-.2 1.2l4.2 1.3 9.7-6.1c.5-.3.9-.1.5.2z"/></svg>
         </span>
-        <span id="ctaTelegramLabel">@KeKKo0202</span>
+        <span id="ctaTelegramLabel">Scrivimi su Telegram</span>
         <span aria-hidden="true">&rarr;</span>
       </a>
     </div>
@@ -250,7 +252,7 @@
   var tg = "https://t.me/" + TELEGRAM;
   $('ctaTelegram').href  = tg;
   $('ctaTelegram2').href = tg;
-  $('ctaTelegramLabel').textContent = "@" + TELEGRAM;
+  $('ctaTelegramLabel').textContent = "Scrivimi su Telegram";
   $('footerYear').textContent = new Date().getFullYear();
 
   /* --- 3. Render ------------------------------------------------------------ */

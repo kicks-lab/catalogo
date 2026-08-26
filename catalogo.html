@@ -49,8 +49,8 @@
      1 — HEADER
      ========================================================================== -->
 <header class="topbar">
-  <button class="icon-btn topbar__left" type="button" id="menuOpen" aria-expanded="false" aria-controls="drawer">
-    <b aria-hidden="true">&#8801;</b> Menu
+  <button class="icon-btn topbar__left" type="button" id="menuOpen" aria-label="Apri menu" aria-expanded="false" aria-controls="drawer">
+    <b aria-hidden="true">&#9776;</b><span class="icon-btn__label">Menu</span>
   </button>
 
   <a class="logo" href="index.html">KICKSLAB<span>.</span></a>
@@ -63,7 +63,9 @@
   </nav>
 
   <div class="topbar__right">
-    <button class="icon-btn icon-btn--solid" type="button" id="searchOpen"><b aria-hidden="true">&#8981;</b> Cerca</button>
+    <button class="icon-btn icon-btn--solid" type="button" id="searchOpen" aria-label="Cerca nel catalogo">
+      <b aria-hidden="true">&#128269;</b><span class="icon-btn__label">Cerca</span>
+    </button>
   </div>
 </header>
 
@@ -109,7 +111,7 @@
       <label class="toolbar__search">
         <span class="sr-only">Cerca nel catalogo</span>
         <input id="filterInput" type="search" placeholder="Marca o modello&hellip;" autocomplete="off">
-        <span aria-hidden="true">&#8981;</span>
+        <span class="toolbar__icon" aria-hidden="true">&#128269;</span>
       </label>
     </div>
 
