@@ -246,7 +246,7 @@ img{max-width:100%;display:block}
 .catalog__reset{border-bottom:1px solid var(--ink);color:var(--ink)}
 
 .grid{
-  display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:0 var(--pad);
+  display:grid;grid-template-columns:1fr;gap:10px;padding:0 var(--pad);
 }
 .grid .card{content-visibility:auto;contain-intrinsic-size:280px}
 .empty{grid-column:1/-1;padding:50px 0;text-align:center}
