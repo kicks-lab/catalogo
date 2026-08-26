@@ -1,193 +1,305 @@
 <!doctype html>
+<!-- =============================================================================
+     KICKSLAB — HOME
+     -----------------------------------------------------------------------------
+     Ordine della pagina:
+       1. HEADER     barra + menu hamburger (con le marche)
+       2. HERO
+       3. IN EVIDENZA   prodotti scelti a mano (array IN_EVIDENZA, in fondo)
+       4. MARCHE
+       5. MANIFESTO
+       6. DOVE       solo "Salerno", niente indirizzo
+       7. CONTATTI   solo Telegram
+       8. FOOTER + SCRIPT
+
+     La home non carica catalogo.js (2 MB): i prodotti in evidenza sono un
+     piccolo elenco scritto a mano in fondo alla pagina.
+     ========================================================================== -->
 <html lang="it">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>KICKSLAB — Catalogo modelli e colorway</title>
-<meta name="description" content="KICKSLAB: l'indice dei modelli. Marca, modello, tutte le colorway in una scheda sola. Nessun doppione, nessun rumore.">
-<meta name="theme-color" content="#f3f0e8">
-<meta property="og:title" content="KICKSLAB — The Shoe Index">
-<meta property="og:description" content="Marca, modello, colorway. Il catalogo senza doppioni.">
-<meta property="og:type" content="website">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+
+  <!-- ---------- Documento ---------- -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>KICKSLAB — Salerno</title>
+  <meta name="description" content="KICKSLAB, Salerno. Sneaker selezionate, pezzi singoli. Scrivimi su Telegram.">
+  <meta name="theme-color" content="#f3f0e8">
+
+  <!-- ---------- Condivisione (Open Graph) ---------- -->
+  <meta property="og:site_name" content="KICKSLAB">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="KICKSLAB — Salerno">
+  <meta property="og:description" content="Sneaker selezionate. Salerno.">
+
+  <!-- ---------- Risorse ---------- -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+
 </head>
 <body>
-<div class="noise" aria-hidden="true"></div>
 
-<!-- ====================== HEADER ====================== -->
+<div class="noise" aria-hidden="true"></div>
+<a class="sr-only" href="#top">Vai al contenuto</a>
+
+<!-- =============================================================================
+     1 — HEADER
+     ========================================================================== -->
 <header class="topbar">
-  <button class="icon-btn topbar__left" id="menuOpen" aria-expanded="false" aria-controls="drawer">
-    <b>≡</b> Menu
+  <button class="icon-btn topbar__left" type="button" id="menuOpen" aria-expanded="false" aria-controls="drawer">
+    <b aria-hidden="true">&#8801;</b> Menu
   </button>
+
   <a class="logo" href="#top">KICKSLAB<span>.</span></a>
+
   <nav class="topbar__nav" aria-label="Principale">
-    <a href="#catalogo">Catalogo</a>
+    <a href="catalogo.html">Catalogo</a>
+    <a href="#evidenza">In evidenza</a>
     <a href="#marche">Marche</a>
-    <a href="#selezione">Selezione</a>
-    <a href="#info">Come funziona</a>
+    <a href="#contatti">Contatti</a>
   </nav>
+
   <div class="topbar__right">
-    <button class="icon-btn icon-btn--solid" id="searchOpen"><b>⌕</b> Cerca</button>
+    <a class="icon-btn icon-btn--solid" href="catalogo.html"><b aria-hidden="true">&#8981;</b> Catalogo</a>
   </div>
 </header>
 
-<!-- ====================== DRAWER ====================== -->
+<!-- ---------- Menu hamburger: sotto "Catalogo" le marche ---------- -->
 <div class="drawer" id="drawer" data-open="false" aria-hidden="true">
   <div class="drawer__top">
     <span class="logo">KICKSLAB<span>.</span></span>
-    <button class="drawer__close" id="menuClose">Chiudi ×</button>
+    <button class="drawer__close" type="button" id="menuClose">Chiudi &times;</button>
   </div>
+
   <nav class="drawer__nav" aria-label="Menu">
-    <a href="#catalogo" data-close>Catalogo</a>
-    <a href="#marche" data-close>Marche</a>
-    <a href="#selezione" data-close>Selezione</a>
-    <a href="#info" data-close>Come funziona</a>
+    <a href="catalogo.html">Catalogo</a>
+    <a href="#evidenza" data-close>In evidenza</a>
+    <a href="#contatti" data-close>Contatti</a>
   </nav>
+
   <div class="drawer__sections">
-    <p class="kicker" style="color:#8d8b83">Vai a una categoria</p>
-    <div class="drawer__chips" id="drawerSections"></div>
+    <p class="kicker" style="color:#8d8b83">Marche</p>
+    <div class="drawer__chips" id="drawerBrands"></div>
   </div>
-  <p class="drawer__foot">Catalogo di sola consultazione. Nessuna vendita, nessun prezzo, nessun carrello.</p>
+
+  <p class="drawer__foot">Salerno. Si prova prima di pagare.</p>
 </div>
 
+<!-- =============================================================================
+     2 — MAIN
+     ========================================================================== -->
 <main id="top">
 
-  <!-- ====================== HERO ====================== -->
-  <section class="hero">
+  <!-- ---------- 2.1 Hero ---------- -->
+  <section class="hero" aria-labelledby="heroTitle">
     <div class="hero__main">
-      <p class="hero__count"><strong id="heroModels">000</strong> modelli · <span id="heroVariants">000</span> colorway</p>
-      <h1>Cerca il modello.<br><em>Non il rumore.</em></h1>
-      <p class="hero__lead">Ogni scheda è un modello: dentro trovi tutte le sue colorway. Niente doppioni, niente venti voci per la stessa scarpa.</p>
+      <p class="kicker">Salerno</p>
+      <h1 id="heroTitle">Guarda.<br><em>Poi scrivi.</em></h1>
+      <p class="hero__lead">Pezzi singoli, taglie che finiscono. Quello che vedi &egrave; quello che c'&egrave;.</p>
       <div class="hero__cta">
-        <a class="btn btn--primary" href="#catalogo">Apri il catalogo <span>↓</span></a>
-        <a class="btn btn--ghost" href="#marche">Sfoglia per marca <span>→</span></a>
+        <a class="btn btn--primary" href="catalogo.html">Apri il catalogo <span aria-hidden="true">&rarr;</span></a>
+        <a class="btn btn--ghost" id="ctaTelegram" target="_blank" rel="noopener">Scrivimi su Telegram <span aria-hidden="true">&rarr;</span></a>
       </div>
     </div>
-    <aside class="hero__side" id="heroIndex" aria-label="Marche principali"></aside>
     <div class="hero__strip" aria-hidden="true">
-      <span>UN MODELLO.</span><span>TUTTE LE COLORWAY.</span><span>ZERO DOPPIONI.</span>
+      <span>PEZZI SINGOLI.</span><span>SI PROVA PRIMA.</span><span>RITIRO A MANO.</span>
     </div>
   </section>
 
-  <!-- ====================== SELEZIONE ====================== -->
-  <section class="section" id="selezione">
+  <!-- ---------- 2.2 In evidenza ----------
+       I prodotti si scelgono dall'array IN_EVIDENZA in fondo alla pagina.
+       ---------------------------------------------------------------------- -->
+  <section class="section" id="evidenza" aria-labelledby="evidenzaTitle">
     <div class="section__head">
       <div>
-        <p class="kicker">Selezione</p>
-        <h2>Parti<br>da qui.</h2>
+        <p class="kicker">In evidenza</p>
+        <h2 id="evidenzaTitle">Quelle<br>che girano.</h2>
       </div>
-      <p class="section__intro">Le silhouette che reggono da sole: icone, daily pair, modelli che non hanno bisogno di essere spiegati.</p>
     </div>
-    <div class="rail" id="railFeatured"></div>
+
+    <div class="grid grid--home" id="gridEvidenza"></div>
+
+    <div class="hero__cta" style="margin-bottom:0">
+      <a class="btn btn--ghost" href="catalogo.html">Vedi tutto il catalogo <span aria-hidden="true">&rarr;</span></a>
+    </div>
   </section>
 
-  <!-- ====================== MANIFESTO ====================== -->
-  <section class="manifesto">
-    <p>Guarda il <em>modello.</em><br>Confronta i <em>colori.</em></p>
-    <p>La scarpa giusta non ha bisogno di essere spiegata troppo. Qui c'è solo l'indice: tu decidi cosa ti piace davvero.</p>
-  </section>
-
-  <!-- ====================== CATALOGO ====================== -->
-  <section class="catalog" id="catalogo">
-    <div class="catalog__head">
-      <p class="kicker">Catalogo completo</p>
-      <h2 class="display" style="font-size:clamp(40px,11vw,72px);margin-top:12px">Trova<br>la tua.</h2>
-    </div>
-
-    <div class="toolbar">
-      <label class="toolbar__search">
-        <span class="sr-only">Cerca nel catalogo</span>
-        <input id="filterInput" type="search" placeholder="Cerca modello, marca, colore…" autocomplete="off">
-        <span aria-hidden="true">⌕</span>
-      </label>
-      <div class="chiprow chiprow--sections" id="sectionChips" role="group" aria-label="Categoria"></div>
-      <div class="chiprow chiprow--brands" id="brandChips" role="group" aria-label="Marca"></div>
-    </div>
-
-    <div class="catalog__meta">
-      <span id="resultCount">0 modelli</span>
-      <button class="catalog__reset" id="resetFilters" hidden>Azzera filtri</button>
-    </div>
-
-    <div class="grid" id="grid"></div>
-    <div class="loadwrap"><button class="btn btn--ghost" id="loadMore" hidden>Mostra altri <span>↓</span></button></div>
-  </section>
-
-  <!-- ====================== MARCHE ====================== -->
-  <section class="section" id="marche">
+  <!-- ---------- 2.3 Marche ----------
+       Ogni voce apre il catalogo gia' filtrato: catalogo.html?marca=...
+       ---------------------------------------------------------------------- -->
+  <section class="section" id="marche" aria-labelledby="marcheTitle">
     <div class="section__head">
       <div>
-        <p class="kicker">Indice marche</p>
-        <h2>Tutte le<br>marche.</h2>
+        <p class="kicker">Marche</p>
+        <h2 id="marcheTitle">Da dove<br>parti.</h2>
       </div>
-      <p class="section__intro">Tocca una marca per filtrare il catalogo. Il numero indica quanti modelli e quante colorway ci sono dentro.</p>
     </div>
-    <div class="brandlist" id="brandList"></div>
+
+    <div class="brandlist" id="marcheHome"></div>
+
+    <div class="hero__cta" style="margin-bottom:0">
+      <a class="btn btn--ghost" href="catalogo.html#marche">Tutte le marche <span aria-hidden="true">&rarr;</span></a>
+    </div>
   </section>
 
-  <!-- ====================== INFO ====================== -->
-  <section class="info" id="info">
-    <p class="kicker">Come funziona</p>
-    <h2>Tre livelli,<br>zero confusione.</h2>
-    <ol>
-      <li><div><strong>Marca</strong><span>Il filtro più veloce. Sta in alto nel catalogo e nell'indice qui sotto.</span></div></li>
-      <li><div><strong>Modello</strong><span>Una scheda per silhouette. Le collaborazioni restano schede separate perché sono scarpe diverse.</span></div></li>
-      <li><div><strong>Colorway</strong><span>Dentro la scheda del modello. Tocchi il colore e cambia la foto.</span></div></li>
-      <li><div><strong>Da identificare</strong><span>Quando il colore non è certo lo scriviamo, invece di inventarci un nome.</span></div></li>
-    </ol>
+  <!-- ---------- 2.4 Manifesto ---------- -->
+  <section class="manifesto" aria-label="Manifesto">
+    <p>Quelle che hai<br><em>addosso</em><br>parlano di te.</p>
+    <p>Se le vedi addosso a un altro, &egrave; colpa tua.</p>
+  </section>
+
+  <!-- ---------- 2.5 Dove ----------
+       Solo la citta': niente indirizzo, niente orari.
+       ---------------------------------------------------------------------- -->
+  <section class="info" id="dove" aria-labelledby="doveTitle">
+    <p class="kicker">Dove</p>
+    <h2 id="doveTitle">Salerno.</h2>
+    <p class="info__lead">Consegna a mano, si prova prima di pagare.<br>
+       Per il punto d'incontro e gli orari scrivimi su Telegram.</p>
+  </section>
+
+  <!-- ---------- 2.6 Contatti ----------
+       Un solo canale: Telegram.
+       ---------------------------------------------------------------------- -->
+  <section class="section" id="contatti" aria-labelledby="contattiTitle">
+    <div class="section__head">
+      <div>
+        <p class="kicker">Contatti</p>
+        <h2 id="contattiTitle">Scrivi.</h2>
+      </div>
+    </div>
+
+    <p class="section__intro">Rispondo su Telegram. Dimmi il modello che ti interessa e ti dico taglia e disponibilit&agrave;.</p>
+
+    <div class="hero__cta" style="margin-bottom:0">
+      <a class="btn btn--primary btn--tg" id="ctaTelegram2" target="_blank" rel="noopener">
+        <span class="btn__tg" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M9.6 15.6 9.4 19c.4 0 .6-.2.8-.4l1.9-1.8 3.9 2.9c.7.4 1.2.2 1.4-.7l2.6-12.1c.2-1-.4-1.4-1.1-1.2L3.3 10.3c-1 .4-1 .9-.2 1.2l4.2 1.3 9.7-6.1c.5-.3.9-.1.5.2z"/></svg>
+        </span>
+        <span id="ctaTelegramLabel">@KeKKo0202</span>
+        <span aria-hidden="true">&rarr;</span>
+      </a>
+    </div>
   </section>
 
 </main>
 
+<!-- =============================================================================
+     3 — FOOTER
+     ========================================================================== -->
 <footer>
   <a class="logo" href="#top">KICKSLAB<span>.</span></a>
-  <span id="footerMeta">The Shoe Index</span>
+  <span>Salerno</span>
   <span id="footerYear">2026</span>
 </footer>
 
-<!-- ====================== SHEET DETTAGLIO ====================== -->
-<div class="sheet" id="sheet" data-open="false" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
-  <div class="sheet__scrim" data-sheet-close></div>
-  <div class="sheet__panel">
-    <div class="sheet__grab">
-      <i aria-hidden="true"></i>
-      <button class="sheet__share" id="sheetShare">Copia link</button>
-      <button class="sheet__close" data-sheet-close>Chiudi ×</button>
-    </div>
-    <div class="sheet__media" id="sheetMedia"></div>
-    <div class="sheet__body">
-      <p class="sheet__brand" id="sheetBrand"></p>
-      <h2 class="sheet__title" id="sheetTitle"></h2>
-      <p id="sheetCollabWrap" hidden><span class="sheet__collab" id="sheetCollab"></span></p>
-      <p class="sheet__label" id="sheetVarLabel">Colorway</p>
-      <div class="varlist" id="sheetVariants"></div>
-      <div class="sheet__specs">
-        <div><span>Marca</span><strong id="sheetSpecBrand"></strong></div>
-        <div><span>Categoria</span><strong id="sheetSpecSection"></strong></div>
-        <div><span>Colorway disponibili</span><strong id="sheetSpecCount"></strong></div>
-      </div>
-      <p class="sheet__note">Catalogo di consultazione: nessun prezzo, nessuna vendita. Serve solo a capire quale modello e quale colore ti interessa.</p>
-    </div>
-  </div>
-</div>
+<!-- =============================================================================
+     4 — SCRIPT
+     ========================================================================== -->
+<script>
+/* =============================================================================
+   HOME — script minimo, nessuna dipendenza esterna.
+     1. CONFIGURAZIONE   Telegram, marche del menu, prodotti in evidenza
+     2. LINK             pulsanti Telegram e anno nel footer
+     3. RENDER           prodotti in evidenza, elenco marche, marche nel menu
+     4. DRAWER           apertura e chiusura del menu hamburger
+   ========================================================================== */
+(function () {
+  'use strict';
 
-<!-- ====================== RICERCA ====================== -->
-<div class="search" id="search" data-open="false" role="dialog" aria-modal="true" aria-label="Ricerca">
-  <div class="search__top">
-    <span class="kicker">Ricerca rapida</span>
-    <button class="search__close" id="searchClose">Chiudi ×</button>
-  </div>
-  <div class="search__field">
-    <label class="sr-only" for="searchInput">Cerca</label>
-    <input id="searchInput" type="search" placeholder="Air Force, 3XL, B22, Kayano…" autocomplete="off">
-  </div>
-  <div class="search__results" id="searchResults"></div>
-</div>
+  /* --- 1. Configurazione ---------------------------------------------------- */
 
-<script src="catalogo.js"></script>
-<script src="app.js"></script>
+  // Telegram: solo lo username, senza chiocciola.
+  var TELEGRAM = "KeKKo0202";
+
+  // Marche mostrate in home e nel menu hamburger.
+  // ATTENZIONE: devono essere scritte esattamente come in catalogo.js,
+  // altrimenti il filtro ?marca= non trova niente.
+  var MARCHE = [
+    "Nike Air Force AF1",
+    "Nike Air Jordan 1 AJ1",
+    "Nike DUNK SB",
+    "New Balance NB",
+    "Adidas Samba",
+    "Adidas Yeezy",
+    "Louis Vuitton LV",
+    "Balenciaga",
+    "Dior"
+  ];
+
+  // Prodotti in evidenza. Da scegliere: prendi id, marca, nome e foto da
+  // catalogo.js e incollali qui. L'ordine e' quello in cui vengono mostrati.
+  var IN_EVIDENZA = [
+    { id: "187859060", marca: "Nike Air Force AF1",     nome: "Nike Air Force 1 Low",       foto: "catalogo/img-scontornate/Nike Air Force AF1/187859060_nike-af1-air-force-1-low-01.webp" },
+    { id: "214881322", marca: "Louis Vuitton LV",       nome: "Louis Vuitton Skate",        foto: "catalogo/img-scontornate/Louis Vuitton LV/214881322_louis-vuitton-skate-01.webp" },
+    { id: "244084744", marca: "Nike Air Jordan 4 AJ4",  nome: "Jordan 4 White Thunder GS",  foto: "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084744_jordanair-jordan-4-retro-white-thunder-gs-01.webp" },
+    { id: "245565811", marca: "Nike Air Jordan 1 AJ1",  nome: "Travis Scott Velvet Brown",  foto: "catalogo/img-scontornate/Nike Air Jordan 1 AJ1/245565811_jordan-x-travis-scott-air-jordan-1-low-9-0-velvet-brown-01.webp" }
+  ];
+
+  /* --- Scorciatoie ---------------------------------------------------------- */
+  var $ = function (id) { return document.getElementById(id); };
+  var esc = function (t) {
+    return String(t == null ? '' : t)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  };
+
+  /* --- 2. Link -------------------------------------------------------------- */
+  var tg = "https://t.me/" + TELEGRAM;
+  $('ctaTelegram').href  = tg;
+  $('ctaTelegram2').href = tg;
+  $('ctaTelegramLabel').textContent = "@" + TELEGRAM;
+  $('footerYear').textContent = new Date().getFullYear();
+
+  /* --- 3. Render ------------------------------------------------------------ */
+
+  // Prodotti in evidenza: la card apre la scheda sul catalogo (?p=id)
+  $('gridEvidenza').innerHTML = IN_EVIDENZA.map(function (p) {
+    return '<a class="card" href="catalogo.html?p=' + encodeURIComponent(p.id) + '">' +
+      '<span class="card__media">' +
+        '<img src="' + esc(p.foto) + '" alt="' + esc(p.marca + ' ' + p.nome) + '" loading="lazy" decoding="async">' +
+      '</span>' +
+      '<span class="card__body">' +
+        '<span class="card__brand">' + esc(p.marca) + '</span>' +
+        '<span class="card__name">' + esc(p.nome) + '</span>' +
+      '</span>' +
+    '</a>';
+  }).join('');
+
+  // Elenco marche
+  $('marcheHome').innerHTML = MARCHE.map(function (m) {
+    return '<a href="catalogo.html?marca=' + encodeURIComponent(m) + '">' +
+           '<strong>' + esc(m) + '</strong><span>Vedi tutto &rarr;</span></a>';
+  }).join('');
+
+  // Stesse marche nel menu hamburger
+  $('drawerBrands').innerHTML = MARCHE.map(function (m) {
+    return '<a href="catalogo.html?marca=' + encodeURIComponent(m) + '">' + esc(m) + '</a>';
+  }).join('');
+
+  /* --- 4. Drawer ------------------------------------------------------------ */
+  var drawer = $('drawer');
+  var apri   = $('menuOpen');
+
+  function stato(aperto) {
+    drawer.dataset.open = String(aperto);
+    drawer.setAttribute('aria-hidden', String(!aperto));
+    apri.setAttribute('aria-expanded', String(aperto));
+    document.body.classList.toggle('is-locked', aperto);
+  }
+
+  apri.addEventListener('click', function () { stato(true); });
+  $('menuClose').addEventListener('click', function () { stato(false); });
+  drawer.querySelectorAll('[data-close]').forEach(function (a) {
+    a.addEventListener('click', function () { stato(false); });
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && drawer.dataset.open === 'true') stato(false);
+  });
+})();
+</script>
+
 </body>
 </html>

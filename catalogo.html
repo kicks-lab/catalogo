@@ -1,0 +1,227 @@
+<!doctype html>
+<!-- =============================================================================
+     KICKSLAB — CATALOGO (pagina a se')
+     -----------------------------------------------------------------------------
+     Ordine della pagina:
+       1. HEADER     barra + menu hamburger con tutte le marche sotto "Catalogo"
+       2. TESTATA    titolo e conteggio prodotti
+       3. TOOLBAR    ricerca + chip delle marche (resta appiccicata in alto)
+       4. GRIGLIA    prodotti + "mostra altri"
+       5. MARCHE     elenco completo
+       6. FOOTER
+       7. OVERLAY    scheda prodotto e ricerca a tutto schermo
+       8. SCRIPT     catalogo.js (dati) poi app.js (logica)
+
+     I contenitori vuoti li riempie app.js: non togliere gli id.
+       #heroModels #brandChips #drawerBrands #brandList #grid #resultCount
+       #loadMore #resetFilters #filterInput #searchResults #footerYear #sheet*
+     ========================================================================== -->
+<html lang="it">
+<head>
+
+  <!-- ---------- Documento ---------- -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>KICKSLAB — Catalogo</title>
+  <meta name="description" content="Il catalogo KICKSLAB. Sfoglia per marca o cerca il modello.">
+  <meta name="theme-color" content="#f3f0e8">
+
+  <!-- ---------- Condivisione (Open Graph) ---------- -->
+  <meta property="og:site_name" content="KICKSLAB">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="KICKSLAB — Catalogo">
+  <meta property="og:description" content="Sfoglia per marca o cerca il modello.">
+
+  <!-- ---------- Risorse ---------- -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+<div class="noise" aria-hidden="true"></div>
+<a class="sr-only" href="#grid">Vai ai prodotti</a>
+
+<!-- =============================================================================
+     1 — HEADER
+     ========================================================================== -->
+<header class="topbar">
+  <button class="icon-btn topbar__left" type="button" id="menuOpen" aria-expanded="false" aria-controls="drawer">
+    <b aria-hidden="true">&#8801;</b> Menu
+  </button>
+
+  <a class="logo" href="index.html">KICKSLAB<span>.</span></a>
+
+  <nav class="topbar__nav" aria-label="Principale">
+    <a href="index.html">Home</a>
+    <a href="#catalogo">Catalogo</a>
+    <a href="#marche">Marche</a>
+    <a href="index.html#contatti">Contatti</a>
+  </nav>
+
+  <div class="topbar__right">
+    <button class="icon-btn icon-btn--solid" type="button" id="searchOpen"><b aria-hidden="true">&#8981;</b> Cerca</button>
+  </div>
+</header>
+
+<!-- ---------- Menu hamburger: tutte le marche sotto "Catalogo" ----------
+     #drawerBrands lo riempie app.js con le marche presenti nei dati.
+     -------------------------------------------------------------------- -->
+<div class="drawer" id="drawer" data-open="false" aria-hidden="true">
+  <div class="drawer__top">
+    <span class="logo">KICKSLAB<span>.</span></span>
+    <button class="drawer__close" type="button" id="menuClose">Chiudi &times;</button>
+  </div>
+
+  <nav class="drawer__nav" aria-label="Menu">
+    <a href="index.html">Home</a>
+    <a href="#catalogo" data-close>Catalogo</a>
+    <a href="index.html#contatti">Contatti</a>
+  </nav>
+
+  <div class="drawer__sections">
+    <p class="kicker" style="color:#8d8b83">Catalogo &mdash; marche</p>
+    <div class="drawer__chips" id="drawerBrands"></div>
+  </div>
+
+  <p class="drawer__foot">Salerno. Si prova prima di pagare.</p>
+</div>
+
+<!-- =============================================================================
+     2 — MAIN
+     ========================================================================== -->
+<main id="top">
+
+  <section class="catalog" id="catalogo" aria-labelledby="catalogoTitle">
+
+    <!-- ---------- 2.1 Testata ---------- -->
+    <div class="catalog__head">
+      <p class="kicker">Catalogo</p>
+      <h1 class="display" id="catalogoTitle">Tutte<br>le scarpe.</h1>
+      <p class="hero__count"><strong id="heroModels">000</strong> prodotti disponibili</p>
+    </div>
+
+    <!-- ---------- 2.2 Toolbar (sticky) ---------- -->
+    <div class="toolbar">
+      <label class="toolbar__search">
+        <span class="sr-only">Cerca nel catalogo</span>
+        <input id="filterInput" type="search" placeholder="Marca o modello&hellip;" autocomplete="off">
+        <span aria-hidden="true">&#8981;</span>
+      </label>
+    </div>
+
+    <div class="catalog__layout">
+      <aside class="brandSidebar" aria-label="Filtra per marca">
+        <div class="brandSidebar__top">
+          <span class="kicker">Marche</span>
+        </div>
+        <div class="chiprow chiprow--brands" id="brandChips" role="group" aria-label="Filtra per marca"></div>
+      </aside>
+
+      <div class="catalog__results">
+        <!-- ---------- 2.3 Risultati ---------- -->
+        <div class="catalog__meta">
+          <span id="resultCount" role="status">0 prodotti</span>
+          <button class="catalog__reset" type="button" id="resetFilters" hidden>Azzera filtri</button>
+        </div>
+
+        <!-- ---------- 2.4 Griglia ---------- -->
+        <div class="grid" id="grid"></div>
+        <div class="loadwrap" id="loadMoreWrap">
+          <button class="btn btn--ghost" type="button" id="loadMore" hidden>Mostra altri <span aria-hidden="true">&darr;</span></button>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ---------- 2.5 Marche ----------
+       Elenco completo: un click filtra la griglia e risale al catalogo.
+       ---------------------------------------------------------------------- -->
+  <section class="section" id="marche" aria-labelledby="marcheTitle">
+    <div class="section__head">
+      <div>
+        <p class="kicker">Marche</p>
+        <h2 id="marcheTitle">Tutte le<br>marche.</h2>
+      </div>
+    </div>
+
+    <div class="brandlist" id="brandList"></div>
+  </section>
+
+</main>
+
+<!-- =============================================================================
+     3 — FOOTER
+     ========================================================================== -->
+<footer>
+  <a class="logo" href="index.html">KICKSLAB<span>.</span></a>
+  <span>Salerno</span>
+  <span id="footerYear">2026</span>
+</footer>
+
+<!-- =============================================================================
+     4 — OVERLAY
+     ========================================================================== -->
+
+<!-- ---------- 4.1 Scheda prodotto ----------
+     Essenziale: foto grande, nome, "ti interessa?" e pulsante Telegram.
+     -------------------------------------------------------------------- -->
+<div class="sheet" id="sheet" data-open="false" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+  <div class="sheet__scrim" data-sheet-close></div>
+
+  <div class="sheet__panel">
+    <div class="sheet__grab">
+      <i aria-hidden="true"></i>
+      <button class="sheet__share" type="button" id="sheetShare">Copia link</button>
+      <button class="sheet__close" type="button" data-sheet-close>Chiudi &times;</button>
+    </div>
+
+    <div class="sheet__media" id="sheetMedia"></div>
+
+    <div class="sheet__body">
+      <p class="sheet__brand" id="sheetBrand"></p>
+      <h2 class="sheet__title" id="sheetTitle"></h2>
+
+      <div class="sheet__ask">
+        <p class="sheet__askline">Ti interessa?</p>
+        <a class="btn btn--primary btn--tg" id="sheetTelegram" target="_blank" rel="noopener">
+          <span class="btn__tg" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M9.6 15.6 9.4 19c.4 0 .6-.2.8-.4l1.9-1.8 3.9 2.9c.7.4 1.2.2 1.4-.7l2.6-12.1c.2-1-.4-1.4-1.1-1.2L3.3 10.3c-1 .4-1 .9-.2 1.2l4.2 1.3 9.7-6.1c.5-.3.9-.1.5.2z"/></svg>
+          </span>
+          <span>Scrivimi su Telegram</span>
+          <span aria-hidden="true">&rarr;</span>
+        </a>
+        <p class="sheet__note">Ti copio il link del prodotto: incollalo in chat e ti dico taglia e disponibilit&agrave;.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ---------- 4.2 Ricerca a tutto schermo ---------- -->
+<div class="search" id="search" data-open="false" role="dialog" aria-modal="true" aria-label="Ricerca">
+  <div class="search__top">
+    <span class="kicker">Cerca</span>
+    <button class="search__close" type="button" id="searchClose">Chiudi &times;</button>
+  </div>
+
+  <div class="search__field">
+    <label class="sr-only" for="searchInput">Cerca</label>
+    <input id="searchInput" type="search" placeholder="Air Force, Samba, B22, Kayano&hellip;" autocomplete="off">
+  </div>
+
+  <div class="search__results" id="searchResults"></div>
+</div>
+
+<!-- =============================================================================
+     5 — SCRIPT
+     catalogo.js espone window.CATALOGO, app.js lo legge: l'ordine conta.
+     ========================================================================== -->
+<script src="catalogo.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
