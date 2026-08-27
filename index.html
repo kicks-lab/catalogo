@@ -9,7 +9,7 @@
        4. MARCHE
        5. MANIFESTO
        6. DOVE       solo "Salerno", niente indirizzo
-       7. CONTATTI   solo Telegram
+       7. CONTATTI   solo WhatsApp
        8. FOOTER + SCRIPT
 
      La home non carica catalogo.js (2 MB): i prodotti in evidenza sono un
@@ -22,7 +22,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <title>KICKSLAB — Salerno</title>
-  <meta name="description" content="KICKSLAB, Salerno. Sneaker selezionate, pezzi singoli. Scrivimi su Telegram.">
+  <meta name="description" content="KICKSLAB, Salerno. Sneaker selezionate, pezzi singoli. Scrivimi su WhatsApp.">
   <meta name="theme-color" content="#f3f0e8">
 
   <!-- ---------- Condivisione (Open Graph) ---------- -->
@@ -102,7 +102,7 @@
       <p class="hero__lead">Pezzi singoli, taglie che finiscono. Quello che vedi &egrave; quello che c'&egrave;.</p>
       <div class="hero__cta">
         <a class="btn btn--primary" href="catalogo.html">Apri il catalogo <span aria-hidden="true">&rarr;</span></a>
-        <a class="btn btn--ghost" id="ctaTelegram" target="_blank" rel="noopener">Scrivimi su Telegram <span aria-hidden="true">&rarr;</span></a>
+        <a class="btn btn--ghost" id="ctaWhatsapp" href="#" target="_blank" rel="noopener">Scrivimi su WhatsApp <span aria-hidden="true">&rarr;</span></a>
       </div>
     </div>
     <div class="hero__strip" aria-hidden="true">
@@ -159,11 +159,11 @@
     <p class="kicker">Dove</p>
     <h2 id="doveTitle">Salerno.</h2>
     <p class="info__lead">Consegna a mano, si prova prima di pagare.<br>
-       Per il punto d'incontro e gli orari scrivimi su Telegram.</p>
+       Per il punto d'incontro e gli orari scrivimi su WhatsApp.</p>
   </section>
 
   <!-- ---------- 2.6 Contatti ----------
-       Un solo canale: Telegram.
+       Un solo canale: WhatsApp.
        ---------------------------------------------------------------------- -->
   <section class="section" id="contatti" aria-labelledby="contattiTitle">
     <div class="section__head">
@@ -173,14 +173,14 @@
       </div>
     </div>
 
-    <p class="section__intro">Rispondo su Telegram. Dimmi il modello che ti interessa e ti dico taglia e disponibilit&agrave;.</p>
+    <p class="section__intro">Rispondo su WhatsApp. Dimmi il modello che ti interessa e ti dico taglia e disponibilit&agrave;.</p>
 
     <div class="hero__cta" style="margin-bottom:0">
-      <a class="btn btn--primary btn--tg" id="ctaTelegram2" target="_blank" rel="noopener">
-        <span class="btn__tg" aria-hidden="true">
-          <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M9.6 15.6 9.4 19c.4 0 .6-.2.8-.4l1.9-1.8 3.9 2.9c.7.4 1.2.2 1.4-.7l2.6-12.1c.2-1-.4-1.4-1.1-1.2L3.3 10.3c-1 .4-1 .9-.2 1.2l4.2 1.3 9.7-6.1c.5-.3.9-.1.5.2z"/></svg>
+      <a class="btn btn--primary btn--wa" id="ctaWhatsapp2" href="#" target="_blank" rel="noopener">
+        <span class="btn__wa" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.7 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1.1.1-1.8-.1-.4-.1-1-.3-1.7-.6-3-1.3-5-4.3-5.1-4.5-.1-.2-1.2-1.6-1.2-3.1s.8-2.2 1.1-2.5c.3-.3.6-.4.8-.4h.6c.2 0 .5 0 .7.5.2.6.8 2 .9 2.1.1.2.1.4 0 .6-.1.2-.2.3-.4.5-.2.2-.3.4-.5.5-.2.2-.4.4-.2.7.2.3.8 1.3 1.8 2.1 1.2 1.1 2.2 1.4 2.5 1.6.3.1.6.1.7-.1.2-.2.8-.9 1-1.2.2-.3.4-.3.7-.2.3.1 1.8.9 2.1 1 .3.2.5.2.6.4.1.1.1.8-.1 1.4z"/></svg>
         </span>
-        <span id="ctaTelegramLabel">Scrivimi su Telegram</span>
+        <span id="ctaWhatsappLabel">Scrivimi su WhatsApp</span>
         <span aria-hidden="true">&rarr;</span>
       </a>
     </div>
@@ -203,8 +203,8 @@
 <script>
 /* =============================================================================
    HOME — script minimo, nessuna dipendenza esterna.
-     1. CONFIGURAZIONE   Telegram, marche del menu, prodotti in evidenza
-     2. LINK             pulsanti Telegram e anno nel footer
+     1. CONFIGURAZIONE   WhatsApp, marche del menu, prodotti in evidenza
+     2. LINK             pulsanti WhatsApp e anno nel footer
      3. RENDER           prodotti in evidenza, elenco marche, marche nel menu
      4. DRAWER           apertura e chiusura del menu hamburger
    ========================================================================== */
@@ -213,8 +213,15 @@
 
   /* --- 1. Configurazione ---------------------------------------------------- */
 
-  // Telegram: solo lo username, senza chiocciola.
-  var TELEGRAM = "KeKKo0202";
+  function numeroWhatsapp() {
+    return [54,62,54,60,62,54,55,53,61,53,62,61].map(function (n) {
+      return String.fromCharCode(n - 3);
+    }).join('');
+  }
+
+  function linkWhatsapp() {
+    return ['https://', 'wa', '.me/'].join('') + numeroWhatsapp();
+  }
 
   // Marche mostrate in home e nel menu hamburger.
   // ATTENZIONE: devono essere scritte esattamente come in catalogo.js,
@@ -249,11 +256,15 @@
   };
 
   /* --- 2. Link -------------------------------------------------------------- */
-  var tg = "https://t.me/" + TELEGRAM;
-  $('ctaTelegram').href  = tg;
-  $('ctaTelegram2').href = tg;
-  $('ctaTelegramLabel').textContent = "Scrivimi su Telegram";
+  $('ctaWhatsappLabel').textContent = "Scrivimi su WhatsApp";
   $('footerYear').textContent = new Date().getFullYear();
+
+  ['ctaWhatsapp', 'ctaWhatsapp2'].forEach(function (id) {
+    $(id).addEventListener('click', function (e) {
+      e.preventDefault();
+      window.open(linkWhatsapp(), '_blank', 'noopener');
+    });
+  });
 
   /* --- 3. Render ------------------------------------------------------------ */
 

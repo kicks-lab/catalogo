@@ -13,7 +13,6 @@
   'use strict';
 
   /* --- Da modificare -------------------------------------------------------- */
-  var TELEGRAM = "KeKKo0202";      // username Telegram, senza chiocciola
   var PER_PAGINA = 24;             // quante card prima di "Mostra altri"
 
   var DATI = Array.isArray(window.CATALOGO) ? window.CATALOGO : [];
@@ -31,6 +30,16 @@
       .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
       .replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
   };
+
+  function numeroWhatsapp() {
+    return [54,62,54,60,62,54,55,53,61,53,62,61].map(function (n) {
+      return String.fromCharCode(n - 3);
+    }).join('');
+  }
+
+  function baseWhatsapp() {
+    return ['https://', 'wa', '.me/'].join('') + numeroWhatsapp();
+  }
 
   /* --- Stato ---------------------------------------------------------------- */
   var stato = { testo: '', marca: null, mostrati: PER_PAGINA };
@@ -157,16 +166,18 @@
   /* --- Scheda prodotto ------------------------------------------------------- */
   var sheet = $('#sheet');
   var apertoDa = null;
+  var prodottoAperto = null;
 
   function apriScheda(id) {
     var p = DATI.filter(function (x) { return x.id === id; })[0];
     if (!p) return;
     apertoDa = document.activeElement;
+    prodottoAperto = p;
 
     $('#sheetBrand').textContent = p.marca;
     $('#sheetTitle').textContent = p.nome;
     $('#sheetMedia').innerHTML = media(p);
-    $('#sheetTelegram').href = 'https://t.me/' + TELEGRAM;
+    $('#sheetWhatsapp').setAttribute('href', '#');
 
     sheet.dataset.open = 'true';
     document.body.classList.add('is-locked');
@@ -191,6 +202,14 @@
       b.textContent = 'Link copiato';
       setTimeout(function () { b.textContent = 'Copia link'; }, 1800);
     }, function () { /* appunti negati dal browser: pazienza */ });
+  }
+
+  function apriWhatsappProdotto() {
+    if (!prodottoAperto) return;
+    var testo = 'Ciao, mi interessa questo prodotto: ' + prodottoAperto.marca + ' ' +
+      prodottoAperto.nome + ' - ' + location.origin + location.pathname + '?p=' +
+      encodeURIComponent(prodottoAperto.id);
+    window.open(baseWhatsapp() + '?text=' + encodeURIComponent(testo), '_blank', 'noopener');
   }
 
   /* --- Ricerca a tutto schermo ----------------------------------------------- */
@@ -266,10 +285,9 @@
         return;
       }
 
-      // Telegram non accetta un messaggio precompilato: copio il link del
-      // prodotto negli appunti, cosi' il cliente lo incolla in chat.
-      if (e.target.closest('#sheetTelegram')) {
-        copiaLink();
+      if (e.target.closest('#sheetWhatsapp')) {
+        e.preventDefault();
+        apriWhatsappProdotto();
         return;
       }
 

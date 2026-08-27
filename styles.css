@@ -431,7 +431,7 @@ footer .logo{font-size:16px}
 }
 
 /* ==========================================================================
-   AGGIUNTE — home riorganizzata, menu marche, scheda prodotto, Telegram
+   AGGIUNTE - home riorganizzata, menu marche, scheda prodotto, WhatsApp
    ========================================================================== */
 
 /* ---------- elenco marche: in home sono link, non bottoni ---------- */
@@ -471,12 +471,12 @@ footer .logo{font-size:16px}
 /* ---------- blocco DOVE ---------- */
 .info__lead{margin:0;max-width:40ch;font-size:15px;color:#3a3a24}
 
-/* ---------- pulsante Telegram ---------- */
-.btn--tg{justify-content:flex-start;gap:12px}
-.btn--tg span:last-child{margin-left:auto}
-.btn__tg{display:flex;align-items:center;justify-content:center;width:26px;height:26px;
+/* ---------- pulsante WhatsApp ---------- */
+.btn--wa{justify-content:flex-start;gap:12px}
+.btn--wa span:last-child{margin-left:auto}
+.btn__wa{display:flex;align-items:center;justify-content:center;width:26px;height:26px;
   border-radius:50%;background:var(--ink);color:var(--acid);flex:none}
-.btn__tg svg{width:15px;height:15px;margin-left:-1px}
+.btn__wa svg{width:15px;height:15px}
 
 /* ---------- scheda prodotto, versione essenziale ---------- */
 .sheet__media{background:#f0ede5}
