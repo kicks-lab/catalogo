@@ -32,7 +32,7 @@
   };
 
   function numeroWhatsapp() {
-    return [54,62,54,60,62,54,55,53,61,53,62,61].map(function (n) {
+    return [54,60,54,58,60,54,53,51,59,51,60,59].map(function (n) {
       return String.fromCharCode(n - 3);
     }).join('');
   }
@@ -209,7 +209,7 @@
     var testo = 'Ciao, mi interessa questo prodotto: ' + prodottoAperto.marca + ' ' +
       prodottoAperto.nome + ' - ' + location.origin + location.pathname + '?p=' +
       encodeURIComponent(prodottoAperto.id);
-    window.open(baseWhatsapp() + '?text=' + encodeURIComponent(testo), '_blank', 'noopener');
+    $('#sheetWhatsapp').href = baseWhatsapp() + '?text=' + encodeURIComponent(testo);
   }
 
   /* --- Ricerca a tutto schermo ----------------------------------------------- */
@@ -286,7 +286,6 @@
       }
 
       if (e.target.closest('#sheetWhatsapp')) {
-        e.preventDefault();
         apriWhatsappProdotto();
         return;
       }

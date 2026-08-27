@@ -217,7 +217,7 @@
   /* --- 1. Configurazione ---------------------------------------------------- */
 
   function numeroWhatsapp() {
-    return [54,62,54,60,62,54,55,53,61,53,62,61].map(function (n) {
+    return [54,60,54,58,60,54,53,51,59,51,60,59].map(function (n) {
       return String.fromCharCode(n - 3);
     }).join('');
   }
@@ -264,8 +264,7 @@
 
   ['ctaWhatsapp', 'ctaWhatsapp2'].forEach(function (id) {
     $(id).addEventListener('click', function (e) {
-      e.preventDefault();
-      window.open(linkWhatsapp(), '_blank', 'noopener');
+      this.href = linkWhatsapp();
     });
   });
 
