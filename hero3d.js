@@ -202,30 +202,46 @@ async function avvia() {
   const polvere = new THREE.Points(geoPolvere, new THREE.PointsMaterial({ color: ACIDO, size: 0.045, transparent: true, opacity: 0.7, depthWrite: false }));
   mondo.add(polvere);
 
-  /* --- Dimensioni: scala la scena in base alla larghezza visibile ---------- */
-  let camZ = 13, scalaMondo = 1, alto = 0, kAnello = 1;
+  /* --- Dimensioni: la scena sta nello spazio libero sopra titolo e pulsanti -- */
+  // Altezza dell'anello (scarpe davanti comprese) a scala piena, in unita' 3D
+  const ALTEZZA_SCENA = 6.4;
+  const uiSopra = hero.querySelector('.hero3d__top');
+  const uiSotto = hero.querySelector('.hero3d__bottom');
+  let camZ = 13, scalaMondo = 1, kAnello = 1;
   function ridimensiona() {
     const w = hero.clientWidth, h = hero.clientHeight;
+    if (!w || !h) return;
     renderer.setSize(w, h, false);
     camera.aspect = w / h;
     camZ = camera.aspect < 0.8 ? 15 : 13;
-    camera.updateProjectionMatrix();
     // La nebbia segue la camera, altrimenti su telefono (camera piu' lontana) le scarpe spariscono
     scena.fog.near = camZ - 2;
     scena.fog.far = camZ + 17;
     // Su telefono l'anello e' piu' grande della scritta: le scarpe escono dai bordi, ma si vedono
     kAnello = camera.aspect < 0.8 ? 1.45 : 1;
-    // Larghezza visibile a z=0
+
+    // Spazio libero in pixel tra i testi in alto e il blocco titolo + pulsanti
+    const base = hero.getBoundingClientRect().top;
+    const libSu = uiSopra.getBoundingClientRect().bottom - base + 8;
+    const libGiu = uiSotto.getBoundingClientRect().top - base - 12;
+    const libero = Math.max(120, libGiu - libSu);
+
+    // Larghezza e altezza visibili a z=0, e quanti pixel vale un'unita' 3D
     const vistaH = 2 * camZ * Math.tan(THREE.MathUtils.degToRad(camera.fov / 2));
     const vistaW = vistaH * camera.aspect;
-    // Su schermi bassi la scena si rimpicciolisce per lasciare spazio ai testi
-    scalaMondo = Math.min(1, (vistaW * 0.94) / TESTO_L, h / 1050);
-    alto = camera.aspect < 0.8 ? 1.4 : 1.15;     // la scena sale sopra titolo e pulsanti
+    const pxUnita = h / vistaH;
+    scalaMondo = Math.min(1, (vistaW * 0.94) / TESTO_L, libero / (ALTEZZA_SCENA * kAnello * pxUnita));
     mondo.scale.setScalar(scalaMondo);
-    mondo.position.y = alto;
+
+    // Sposto l'inquadratura: il centro della scena finisce al centro dello spazio libero
+    const sposta = h / 2 - (libSu + libero / 2);
+    camera.setViewOffset(w, h, 0, sposta, w, h);
+    camera.updateProjectionMatrix();
   }
   ridimensiona();
-  window.addEventListener('resize', ridimensiona);
+  // Osservo l'hero (barra del browser su telefono) e il blocco testi (caricamento del font)
+  new ResizeObserver(ridimensiona).observe(hero);
+  new ResizeObserver(ridimensiona).observe(uiSotto);
 
   /* --- Input ------------------------------------------------------------------ */
   const mouse = new THREE.Vector2(0, 0);       // -1..1 per la parallasse
@@ -335,7 +351,7 @@ async function avvia() {
     camera.position.x += (cx - camera.position.x) * 0.05;
     camera.position.y += (cy - camera.position.y) * 0.05;
     camera.position.z += (camZ - scroll * 3 - camera.position.z) * 0.08;
-    camera.lookAt(0, alto * 0.6, 0);
+    camera.lookAt(0, 0, 0);
 
     renderer.render(scena, camera);
   }
