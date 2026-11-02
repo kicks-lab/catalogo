@@ -27,7 +27,7 @@
   <meta http-equiv="Expires" content="0">
   <title>KICKSLAB — Catalogo</title>
   <meta name="description" content="Il catalogo KICKSLAB. Sfoglia per marca o cerca il modello.">
-  <meta name="theme-color" content="#f3f0e8">
+  <meta name="theme-color" content="#0a0a0a">
 
   <!-- ---------- Condivisione (Open Graph) ---------- -->
   <meta property="og:site_name" content="KICKSLAB">
@@ -37,13 +37,14 @@
   <meta property="og:description" content="Sfoglia per marca o cerca il modello.">
 
   <!-- ---------- Risorse ---------- -->
+  <script>document.documentElement.classList.add('js');</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260827-1">
+  <link rel="stylesheet" href="styles.css?v=20261102-6">
 
 </head>
-<body>
+<body class="page-catalogo">
 
 <div class="noise" aria-hidden="true"></div>
 <a class="sr-only" href="#grid">Vai ai prodotti</a>
@@ -67,7 +68,7 @@
 
   <div class="topbar__right">
     <button class="icon-btn icon-btn--solid" type="button" id="searchOpen" aria-label="Cerca nel catalogo">
-      <b aria-hidden="true">&#128269;</b><span class="icon-btn__label">Cerca</span>
+      <b aria-hidden="true">&#9906;</b><span class="icon-btn__label">Cerca</span>
     </button>
   </div>
 </header>
@@ -88,7 +89,7 @@
   </nav>
 
   <div class="drawer__sections">
-    <p class="kicker" style="color:#8d8b83">Catalogo &mdash; marche</p>
+    <p class="kicker">Catalogo &mdash; marche</p>
     <div class="drawer__chips" id="drawerBrands"></div>
   </div>
 
@@ -104,8 +105,9 @@
 
     <!-- ---------- 2.1 Testata ---------- -->
     <div class="catalog__head">
+      <div class="floor" aria-hidden="true"></div>
       <p class="kicker">Catalogo</p>
-      <h1 class="display" id="catalogoTitle">Tutte<br>le scarpe.</h1>
+      <h1 class="display" id="catalogoTitle">Tutte<br><em>le scarpe.</em></h1>
       <p class="hero__count"><strong id="heroModels">000</strong> prodotti disponibili</p>
     </div>
 
@@ -114,7 +116,7 @@
       <label class="toolbar__search">
         <span class="sr-only">Cerca nel catalogo</span>
         <input id="filterInput" type="search" placeholder="Marca o modello&hellip;" autocomplete="off">
-        <span class="toolbar__icon" aria-hidden="true">&#128269;</span>
+        <span class="toolbar__icon" aria-hidden="true">&#9906;</span>
       </label>
     </div>
 
@@ -226,7 +228,8 @@
      catalogo.js espone window.CATALOGO, app.js lo legge: l'ordine conta.
      ========================================================================== -->
 <script src="catalogo.js?v=20260827-1"></script>
-<script src="app.js?v=20260827-1"></script>
+<script src="app.js?v=20261102-6"></script>
+<script src="fx.js?v=20261102-6"></script>
 
 </body>
 </html>

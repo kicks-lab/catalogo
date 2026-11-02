@@ -4,16 +4,17 @@
      -----------------------------------------------------------------------------
      Ordine della pagina:
        1. HEADER     barra + menu hamburger (con le marche)
-       2. HERO
-       3. IN EVIDENZA   prodotti scelti a mano (array IN_EVIDENZA, in fondo)
-       4. MARCHE
-       5. MANIFESTO
-       6. DOVE       solo "Salerno", niente indirizzo
-       7. CONTATTI   solo WhatsApp
+       2. HERO 3D    scena Three.js (hero3d.js): wordmark estruso + anello di scarpe
+       3. NASTRI     due nastri incrociati in prospettiva
+       4. IN EVIDENZA   prodotti scelti a mano (array IN_EVIDENZA, in fondo)
+       5. MARCHE     cilindro 3D (fx.js) + elenco
+       6. MANIFESTO
+       7. DOVE + CONTATTI   Salerno, WhatsApp e scatola da scarpe 3D
        8. FOOTER + SCRIPT
 
      La home non carica catalogo.js (2 MB): i prodotti in evidenza sono un
-     piccolo elenco scritto a mano in fondo alla pagina.
+     piccolo elenco scritto a mano in fondo alla pagina. Le scarpe della scena
+     3D sono in hero3d.js (immagini leggere in assets/hero/).
      ========================================================================== -->
 <html lang="it">
 <head>
@@ -26,7 +27,7 @@
   <meta http-equiv="Expires" content="0">
   <title>KICKSLAB — Salerno</title>
   <meta name="description" content="KICKSLAB, Salerno. Sneaker selezionate, pezzi singoli. Scrivimi su WhatsApp.">
-  <meta name="theme-color" content="#f3f0e8">
+  <meta name="theme-color" content="#0a0a0a">
 
   <!-- ---------- Condivisione (Open Graph) ---------- -->
   <meta property="og:site_name" content="KICKSLAB">
@@ -36,16 +37,18 @@
   <meta property="og:description" content="Sneaker selezionate. Salerno.">
 
   <!-- ---------- Risorse ---------- -->
+  <script>document.documentElement.classList.add('js');</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260827-1">
+  <link rel="stylesheet" href="styles.css?v=20261102-6">
+  <link rel="modulepreload" href="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js" crossorigin>
 
 </head>
-<body>
+<body class="page-home">
 
 <div class="noise" aria-hidden="true"></div>
-<a class="sr-only" href="#top">Vai al contenuto</a>
+<a class="sr-only" href="#evidenza">Vai al contenuto</a>
 
 <!-- =============================================================================
      1 — HEADER
@@ -66,7 +69,7 @@
 
   <div class="topbar__right">
     <a class="icon-btn icon-btn--solid" href="catalogo.html#catalogo" aria-label="Cerca nel catalogo">
-      <b aria-hidden="true">&#128269;</b><span class="icon-btn__label">Cerca</span>
+      <b aria-hidden="true">&#9906;</b><span class="icon-btn__label">Cerca</span>
     </a>
   </div>
 </header>
@@ -81,11 +84,12 @@
   <nav class="drawer__nav" aria-label="Menu">
     <a href="catalogo.html">Catalogo</a>
     <a href="#evidenza" data-close>In evidenza</a>
+    <a href="#marche" data-close>Marche</a>
     <a href="#contatti" data-close>Contatti</a>
   </nav>
 
   <div class="drawer__sections">
-    <p class="kicker" style="color:#8d8b83">Marche</p>
+    <p class="kicker">Marche</p>
     <div class="drawer__chips" id="drawerBrands"></div>
   </div>
 
@@ -97,95 +101,135 @@
      ========================================================================== -->
 <main id="top">
 
-  <!-- ---------- 2.1 Hero ---------- -->
-  <section class="hero" aria-labelledby="heroTitle">
-    <div class="hero__main">
-      <p class="kicker">Salerno</p>
-      <h1 id="heroTitle">Guarda.<br><em>Poi scrivi.</em></h1>
-      <p class="hero__lead">Pezzi singoli, taglie che finiscono. Quello che vedi &egrave; quello che c'&egrave;.</p>
-      <div class="hero__cta">
-        <a class="btn btn--primary" href="catalogo.html">Apri il catalogo <span aria-hidden="true">&rarr;</span></a>
-        <a class="btn btn--ghost" id="ctaWhatsapp" href="#" target="_blank" rel="noopener">Scrivimi su WhatsApp <span aria-hidden="true">&rarr;</span></a>
+  <!-- ---------- 2.1 Hero 3D ----------
+       hero3d.js disegna nel canvas e aggiunge .is-ready quando e' pronto.
+       Senza WebGL resta visibile il fallback in CSS.
+       ---------------------------------------------------------------------- -->
+  <section class="hero3d" id="hero" aria-labelledby="heroTitle">
+    <canvas id="heroCanvas" aria-hidden="true"></canvas>
+    <div class="hero3d__fallback" aria-hidden="true"><strong>KICKSLAB</strong></div>
+    <span class="hero3d__label" id="heroLabel" aria-hidden="true"></span>
+
+    <div class="hero3d__ui">
+      <div class="hero3d__top">
+        <p class="kicker kicker--acid">Salerno &mdash; sneaker lab</p>
+        <p class="hero3d__meta">Pezzi singoli<br><b>Si prova prima</b></p>
       </div>
-    </div>
-    <div class="hero__strip" aria-hidden="true">
-      <span>PEZZI SINGOLI.</span><span>SI PROVA PRIMA.</span><span>RITIRO A MANO.</span>
+
+      <div class="hero3d__bottom">
+        <div>
+          <h1 class="hero3d__title" id="heroTitle"><span class="sr-only">KICKSLAB &mdash; </span>Guarda.<br><em>Poi scrivi.</em></h1>
+          <p class="hero3d__lead">Pezzi singoli, taglie che finiscono. Quello che vedi &egrave; quello che c'&egrave;.</p>
+        </div>
+        <div>
+          <div class="cta">
+            <a class="btn btn--primary" href="catalogo.html">Apri il catalogo <span aria-hidden="true">&rarr;</span></a>
+            <a class="btn btn--ghost" id="ctaWhatsapp" href="#" target="_blank" rel="noopener">Scrivimi su WhatsApp <span aria-hidden="true">&rarr;</span></a>
+          </div>
+          <p class="hero3d__hint" style="margin:16px 0 0">Trascina per girare &middot; clicca una scarpa <i></i></p>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- ---------- 2.2 In evidenza ----------
+  <!-- ---------- 2.2 Nastri ---------- -->
+  <div class="tapes" aria-hidden="true">
+    <div class="tape tape--b"><div class="tape__track"><span>Pezzi singoli</span><span>Si prova prima</span><span>Ritiro a mano</span><span>Salerno</span><span>Pezzi singoli</span><span>Si prova prima</span><span>Ritiro a mano</span><span>Salerno</span></div><div class="tape__track"><span>Pezzi singoli</span><span>Si prova prima</span><span>Ritiro a mano</span><span>Salerno</span><span>Pezzi singoli</span><span>Si prova prima</span><span>Ritiro a mano</span><span>Salerno</span></div></div>
+    <div class="tape tape--a"><div class="tape__track"><span>KICKSLAB</span><span>Guarda poi scrivi</span><span>KICKSLAB</span><span>Taglie che finiscono</span><span>KICKSLAB</span><span>Guarda poi scrivi</span><span>KICKSLAB</span><span>Taglie che finiscono</span></div><div class="tape__track"><span>KICKSLAB</span><span>Guarda poi scrivi</span><span>KICKSLAB</span><span>Taglie che finiscono</span><span>KICKSLAB</span><span>Guarda poi scrivi</span><span>KICKSLAB</span><span>Taglie che finiscono</span></div></div>
+  </div>
+
+  <!-- ---------- 2.3 In evidenza ----------
        I prodotti si scelgono dall'array IN_EVIDENZA in fondo alla pagina.
        ---------------------------------------------------------------------- -->
   <section class="section" id="evidenza" aria-labelledby="evidenzaTitle">
-    <div class="section__head">
+    <div class="section__head reveal">
       <div>
-        <p class="kicker">In evidenza</p>
-        <h2 id="evidenzaTitle">Quelle<br>che girano.</h2>
+        <p class="kicker"><span class="section__num">01</span> &nbsp;In evidenza</p>
+        <h2 id="evidenzaTitle">Quelle<br><em>che girano.</em></h2>
       </div>
+      <p class="section__intro">Scelte a mano dal catalogo. Passaci sopra, toccale: sono qui, non in un magazzino.</p>
     </div>
 
-    <div class="grid grid--home" id="gridEvidenza"></div>
+    <div class="grid--home" id="gridEvidenza"></div>
 
-    <div class="hero__cta" style="margin-bottom:0">
+    <div class="cta section__more">
       <a class="btn btn--ghost" href="catalogo.html">Vedi tutto il catalogo <span aria-hidden="true">&rarr;</span></a>
     </div>
   </section>
 
-  <!-- ---------- 2.3 Marche ----------
-       Ogni voce apre il catalogo gia' filtrato: catalogo.html?marca=...
+  <!-- ---------- 2.4 Marche ----------
+       Il cilindro e' decorativo (fx.js lo costruisce dall'elenco sotto).
+       Ogni voce dell'elenco apre il catalogo gia' filtrato: catalogo.html?marca=...
        ---------------------------------------------------------------------- -->
   <section class="section" id="marche" aria-labelledby="marcheTitle">
-    <div class="section__head">
+    <div class="section__head reveal">
       <div>
-        <p class="kicker">Marche</p>
-        <h2 id="marcheTitle">Da dove<br>parti.</h2>
+        <p class="kicker"><span class="section__num">02</span> &nbsp;Marche</p>
+        <h2 id="marcheTitle">Da dove<br><em>parti.</em></h2>
       </div>
+      <p class="section__intro">Scegli la marca, il catalogo si apre gi&agrave; filtrato.</p>
     </div>
+
+    <div class="ring-stage" aria-hidden="true"><div class="ring" id="brandRing"></div></div>
 
     <div class="brandlist" id="marcheHome"></div>
 
-    <div class="hero__cta" style="margin-bottom:0">
+    <div class="cta section__more">
       <a class="btn btn--ghost" href="catalogo.html#marche">Tutte le marche <span aria-hidden="true">&rarr;</span></a>
     </div>
   </section>
 
-  <!-- ---------- 2.4 Manifesto ---------- -->
+  <!-- ---------- 2.5 Manifesto ---------- -->
   <section class="manifesto" aria-label="Manifesto">
-    <p>Quelle che hai<br><em>addosso</em><br>parlano di te.</p>
-    <p>Se le vedi addosso a un altro, &egrave; colpa tua.</p>
+    <p class="manifesto__big">
+      <span class="reveal">Quelle che hai</span>
+      <span class="reveal"><em>addosso</em></span>
+      <span class="reveal">parlano di te.</span>
+    </p>
+    <p class="manifesto__small reveal">Se le vedi addosso a un altro, &egrave; colpa tua.</p>
   </section>
 
-  <!-- ---------- 2.5 Dove ----------
-       Solo la citta': niente indirizzo, niente orari.
-       ---------------------------------------------------------------------- -->
-  <section class="info" id="dove" aria-labelledby="doveTitle">
-    <p class="kicker">Dove</p>
-    <h2 id="doveTitle">Salerno.</h2>
-    <p class="info__lead">Consegna a mano, si prova prima di pagare.<br>
-       Per il punto d'incontro e gli orari scrivimi su WhatsApp.</p>
-  </section>
-
-  <!-- ---------- 2.6 Contatti ----------
-       Un solo canale: WhatsApp.
+  <!-- ---------- 2.6 Dove + Contatti ----------
+       Solo la citta': niente indirizzo, niente orari. Un solo canale: WhatsApp.
        ---------------------------------------------------------------------- -->
   <section class="section" id="contatti" aria-labelledby="contattiTitle">
-    <div class="section__head">
-      <div>
-        <p class="kicker">Contatti</p>
-        <h2 id="contattiTitle">Scrivi.</h2>
+    <span id="dove" aria-hidden="true"></span>
+    <div class="contact">
+      <div class="reveal">
+        <p class="kicker"><span class="section__num">03</span> &nbsp;Dove &amp; contatti</p>
+        <h2 id="contattiTitle">Salerno<span>.</span></h2>
+        <p class="contact__lead">Consegna a mano, si prova prima di pagare. Scrivimi su WhatsApp il modello che ti interessa:
+           ti dico taglia, disponibilit&agrave; e dove ci vediamo.</p>
+        <div class="cta">
+          <a class="btn btn--primary btn--wa" id="ctaWhatsapp2" href="#" target="_blank" rel="noopener">
+            <span class="btn__wa" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.7 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1.1.1-1.8-.1-.4-.1-1-.3-1.7-.6-3-1.3-5-4.3-5.1-4.5-.1-.2-1.2-1.6-1.2-3.1s.8-2.2 1.1-2.5c.3-.3.6-.4.8-.4h.6c.2 0 .5 0 .7.5.2.6.8 2 .9 2.1.1.2.1.4 0 .6-.1.2-.2.3-.4.5-.2.2-.3.4-.5.5-.2.2-.4.4-.2.7.2.3.8 1.3 1.8 2.1 1.2 1.1 2.2 1.4 2.5 1.6.3.1.6.1.7-.1.2-.2.8-.9 1-1.2.2-.3.4-.3.7-.2.3.1 1.8.9 2.1 1 .3.2.5.2.6.4.1.1.1.8-.1 1.4z"/></svg>
+            </span>
+            <span id="ctaWhatsappLabel">Scrivimi su WhatsApp</span>
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
       </div>
-    </div>
 
-    <p class="section__intro">Rispondo su WhatsApp. Dimmi il modello che ti interessa e ti dico taglia e disponibilit&agrave;.</p>
-
-    <div class="hero__cta" style="margin-bottom:0">
-      <a class="btn btn--primary btn--wa" id="ctaWhatsapp2" href="#" target="_blank" rel="noopener">
-        <span class="btn__wa" aria-hidden="true">
-          <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.7 14.9L2 22l5.3-1.4A10 10 0 1 0 12 2zm5.8 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1.1.1-1.8-.1-.4-.1-1-.3-1.7-.6-3-1.3-5-4.3-5.1-4.5-.1-.2-1.2-1.6-1.2-3.1s.8-2.2 1.1-2.5c.3-.3.6-.4.8-.4h.6c.2 0 .5 0 .7.5.2.6.8 2 .9 2.1.1.2.1.4 0 .6-.1.2-.2.3-.4.5-.2.2-.3.4-.5.5-.2.2-.4.4-.2.7.2.3.8 1.3 1.8 2.1 1.2 1.1 2.2 1.4 2.5 1.6.3.1.6.1.7-.1.2-.2.8-.9 1-1.2.2-.3.4-.3.7-.2.3.1 1.8.9 2.1 1 .3.2.5.2.6.4.1.1.1.8-.1 1.4z"/></svg>
-        </span>
-        <span id="ctaWhatsappLabel">Scrivimi su WhatsApp</span>
-        <span aria-hidden="true">&rarr;</span>
-      </a>
+      <!-- Scatola da scarpe 3D: CSS puro, il coperchio si apre da solo -->
+      <div class="box-stage" aria-hidden="true">
+        <div class="box">
+          <div class="box__face box__face--inside"></div>
+          <div class="box__face box__face--bottom"></div>
+          <div class="box__face box__face--front">KICKSLAB</div>
+          <div class="box__face box__face--back">KICKSLAB</div>
+          <div class="box__face box__face--right"><span>Pezzo unico</span><span>Salerno</span></div>
+          <div class="box__face box__face--left"><span>Si prova</span><span>prima</span></div>
+          <img class="box__shoe" src="assets/hero/travis.webp" alt="">
+          <div class="box__lid">
+            <div class="box__face lid--top">K.LAB</div>
+            <div class="box__face lid--front">KICKSLAB &middot; SALERNO</div>
+            <div class="box__face lid--back">KICKSLAB &middot; SALERNO</div>
+            <div class="box__face lid--right"></div>
+            <div class="box__face lid--left"></div>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -195,9 +239,13 @@
      3 — FOOTER
      ========================================================================== -->
 <footer>
-  <a class="logo" href="#top">KICKSLAB<span>.</span></a>
-  <span>Salerno</span>
-  <span id="footerYear">2026</span>
+  <p class="footer__big" aria-hidden="true">KICKSLAB</p>
+  <div class="footer__row">
+    <a class="logo" href="#top">KICKSLAB<span>.</span></a>
+    <span>Salerno</span>
+    <a href="catalogo.html">Catalogo &rarr;</a>
+    <span id="footerYear">2026</span>
+  </div>
 </footer>
 
 <!-- =============================================================================
@@ -247,7 +295,11 @@
     { id: "187859060", marca: "Nike Air Force AF1",     nome: "Nike Air Force 1 Low",       foto: "catalogo/img-scontornate/Nike Air Force AF1/187859060_nike-af1-air-force-1-low-01.webp" },
     { id: "214881322", marca: "Louis Vuitton LV",       nome: "Louis Vuitton Skate",        foto: "catalogo/img-scontornate/Louis Vuitton LV/214881322_louis-vuitton-skate-01.webp" },
     { id: "244084744", marca: "Nike Air Jordan 4 AJ4",  nome: "Jordan 4 White Thunder GS",  foto: "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084744_jordanair-jordan-4-retro-white-thunder-gs-01.webp" },
-    { id: "245565811", marca: "Nike Air Jordan 1 AJ1",  nome: "Travis Scott Velvet Brown",  foto: "catalogo/img-scontornate/Nike Air Jordan 1 AJ1/245565811_jordan-x-travis-scott-air-jordan-1-low-9-0-velvet-brown-01.webp" }
+    { id: "245565811", marca: "Nike Air Jordan 1 AJ1",  nome: "Travis Scott Velvet Brown",  foto: "catalogo/img-scontornate/Nike Air Jordan 1 AJ1/245565811_jordan-x-travis-scott-air-jordan-1-low-9-0-velvet-brown-01.webp" },
+    { id: "221709069", marca: "Nike Air Jordan 1 AJ1",  nome: "Air Jordan 1 Chicago",       foto: "catalogo/img-scontornate/Nike Air Jordan 1 AJ1/221709069_jordan-air-jordan-1-chicago-01.webp" },
+    { id: "239423256", marca: "Nike DUNK SB",           nome: "Dunk SB Pro Clear Jade",     foto: "catalogo/img-scontornate/Nike DUNK SB/239423256_nike-dunk-sb-pro-clear-jade-01.webp" },
+    { id: "221594021", marca: "New Balance NB",         nome: "New Balance 1906R",          foto: "catalogo/img-scontornate/New Balance NB/221594021_new-balance-nb-1906r-01.webp" },
+    { id: "221557342", marca: "PRADA",                  nome: "Prada America's Cup 4cm",    foto: "catalogo/img-scontornate/PRADA/221557342_prada-america-s-cup-4cm-01.webp" }
   ];
 
   /* --- Scorciatoie ---------------------------------------------------------- */
@@ -257,6 +309,7 @@
       .replace(/&/g, '&amp;').replace(/</g, '&lt;')
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   };
+  var due = function (n) { return (n < 10 ? '0' : '') + n; };
 
   /* --- 2. Link -------------------------------------------------------------- */
   $('ctaWhatsappLabel').textContent = "Scrivimi su WhatsApp";
@@ -271,9 +324,10 @@
   /* --- 3. Render ------------------------------------------------------------ */
 
   // Prodotti in evidenza: la card apre la scheda sul catalogo (?p=id)
-  $('gridEvidenza').innerHTML = IN_EVIDENZA.map(function (p) {
+  $('gridEvidenza').innerHTML = IN_EVIDENZA.map(function (p, i) {
     return '<a class="card" href="catalogo.html?p=' + encodeURIComponent(p.id) + '">' +
       '<span class="card__media">' +
+        '<span class="card__idx">' + due(i + 1) + '</span>' +
         '<img src="' + esc(p.foto) + '" alt="' + esc(p.marca + ' ' + p.nome) + '" loading="lazy" decoding="async">' +
       '</span>' +
       '<span class="card__body">' +
@@ -315,6 +369,15 @@
   });
 })();
 </script>
+
+<!-- Effetti condivisi (tilt, reveal, cilindro marche, cursore) -->
+<script src="fx.js?v=20261102-6"></script>
+
+<!-- Scena 3D dell'hero: se il CDN non risponde resta il fallback CSS -->
+<script type="importmap">
+  { "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js" } }
+</script>
+<script type="module" src="hero3d.js?v=20261102-6"></script>
 
 </body>
 </html>
