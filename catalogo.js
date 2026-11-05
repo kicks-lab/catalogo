@@ -54951,4482 +54951,222 @@ window.CATALOGO = [
     "top": false
   },
   {
-    "id": "249079106",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/249079106_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "249078719",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/249078719_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "248905868",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/248905868_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221407463",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221407463_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "214881322",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/214881322_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221407476",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221407476_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229694872",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229694872_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229694906",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229694906_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221407471",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221407471_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221407467",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221407467_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229928017",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229928017_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229928011",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229928011_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229927996",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229927996_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229927992",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229927992_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229927986",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229927986_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229927976",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229927976_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229927969",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229927969_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229844359",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229844359_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434676",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434676_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434673",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434673_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434667",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434667_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434664",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434664_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434657",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434657_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434649",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434649_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "203292634",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/203292634_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434716",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434716_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434709",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434709_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434702",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434702_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434695",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434695_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434690",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434690_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434688",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434688_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658763",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658763_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658704",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658704_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658695",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658695_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658688",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658688_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658681",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658681_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658673",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658673_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658664",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658664_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658650",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658650_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658642",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658642_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658633",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658633_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658625",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658625_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658616",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658616_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658609",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658609_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658603",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658603_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658580",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658580_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658572",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658572_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658564",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658564_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658558",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658558_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658550",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658550_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658538",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658538_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658528",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658528_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658521",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658521_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658509",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658509_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658505",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658505_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658500",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658500_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658495",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658495_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658490",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658490_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658486",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658486_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244658479",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244658479_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244589792",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244589792_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501567",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501567_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501524",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501524_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501491",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501491_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501474",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501474_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501424",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501424_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501443",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501443_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501389",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501389_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501357",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501357_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501340",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501340_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501303",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501303_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501226",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501226_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501183",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501183_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501249",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501249_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501204",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501204_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501169",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501169_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501153",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501153_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501120",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501120_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501100",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501100_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501088",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501088_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501056",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501056_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501035",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501035_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501018",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501018_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244501000",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244501000_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500977",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500977_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500956",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500956_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500880",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500880_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500827",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500827_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500850",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500850_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500903",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500903_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500798",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500798_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500786",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500786_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500765",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500765_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500748",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500748_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500733",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500733_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500708",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500708_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500628",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500628_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500612",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500612_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500681",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500681_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500654",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500654_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500592",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500592_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500576",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500576_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500555",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500555_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500530",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500530_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500504",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500504_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500342",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500342_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244500316",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244500316_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244496018",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244496018_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243445351",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243445351_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202417",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202417_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202401",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202401_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202389",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202389_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202369",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202369_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202357",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202357_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202343",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202343_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202283",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202283_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243202258",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243202258_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201953",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201953_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201938",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201938_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201918",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201918_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201904",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201904_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201894",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201894_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201886",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201886_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201859",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201859_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907151",
-    "marca": "Louis Vuitton LV",
-    "nome": "DW LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907151_dw-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201660",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201660_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201644",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201644_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201632",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201632_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201617",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201617_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201600",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201600_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201578",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201578_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201557",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201557_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201544",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201544_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201355",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate ™",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201355_louis-vuitton-skate-tm-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201330",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate ™",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201330_louis-vuitton-skate-tm-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201285",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate ™",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201285_louis-vuitton-skate-tm-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243201009",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243201009_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200991",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200991_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200974",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200974_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200957",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200957_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200937",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200937_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200921",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200921_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200899",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200899_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200875",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200875_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200854",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200854_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200842",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200842_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200832",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200832_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200822",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200822_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200426",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200426_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200408",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200408_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200392",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200392_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200377",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200377_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200361",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200361_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200343",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200343_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200325",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200325_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200304",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200304_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200282",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200282_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200271",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200271_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200256",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200256_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200246",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200246_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200228",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200228_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200216",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200216_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200038",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200038_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200025",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200025_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200009",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200009_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243200002",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243200002_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199990",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199990_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199979",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199979_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199962",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199962_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199947",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199947_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199932",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199932_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199919",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199919_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243199911",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243199911_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907178",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate ™",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907178_louis-vuitton-skate-tm-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907162",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907162_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907133",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907133_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907196",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907196_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907215",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907215_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242907233",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242907233_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749727",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242749727_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749717",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242749717_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749703",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242749703_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749688",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242749688_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749672",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242749672_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749650",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242749650_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242537492",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/242537492_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240097706",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240097706_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240097701",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240097701_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240097689",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240097689_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240097685",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240097685_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240097680",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240097680_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240097671",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240097671_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "240075281",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted ZL",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/240075281_louis-vuitton-tilted-zl-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418104",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418104_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418091",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418091_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418078",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418078_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418069",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418069_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418059",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418059_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418028",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418028_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239418023",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239418023_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "236689529",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/236689529_louis-vuitton-rally-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "236689523",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/236689523_louis-vuitton-rally-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "236689517",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/236689517_louis-vuitton-rally-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "236689505",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/236689505_louis-vuitton-rally-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "236603249",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/236603249_louis-vuitton-rally-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239171419",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/239171419_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231690787",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231690787_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231690800",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231690800_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689959",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689959_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689951",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689951_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689939",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689939_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689929",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689929_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689915",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689915_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689908",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689908_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231689893",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231689893_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231652534",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231652534_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "231652516",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/231652516_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930402",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930402_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930390",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930390_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930382",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930382_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930376",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930376_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930365",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930365_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930359",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930359_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930348",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930348_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930331",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930331_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930320",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930320_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930311",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930311_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930302",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930302_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930292",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930292_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930277",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930277_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229930271",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229930271_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929947",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929947_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929937",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929937_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929931",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929931_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929921",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929921_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929908",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929908_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929902",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929902_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229929895",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229929895_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229844224",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/229844224_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447125",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447125_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447123",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447123_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447119",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447119_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447116",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447116_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447114",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447114_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447071",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447071_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447064",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447064_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447059",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447059_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447055",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447055_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221447051",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221447051_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "199237898",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/199237898_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "224231840",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/224231840_louis-vuitton-footprint-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "224231831",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/224231831_louis-vuitton-footprint-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "224231818",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/224231818_louis-vuitton-footprint-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "224231812",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/224231812_louis-vuitton-footprint-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "224226588",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/224226588_louis-vuitton-footprint-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222927048",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222927048_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222927033",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222927033_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222927025",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222927025_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222927016",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222927016_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222909003",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222909003_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222808622",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON SKI SS26 Cortina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222808622_louis-vuitton-ski-ss26-cortina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222808615",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON SKI SS26 Cortina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222808615_louis-vuitton-ski-ss26-cortina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222808605",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON SKI SS26 Cortina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222808605_louis-vuitton-ski-ss26-cortina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222808598",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON SKI SS26 Cortina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222808598_louis-vuitton-ski-ss26-cortina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222808589",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON SKI SS26 Cortina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222808589_louis-vuitton-ski-ss26-cortina-01.webp"
-    ],
-    "top": false
-  },
-  {
     "id": "222807941",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222807941_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222807924",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222807924_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222807909",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222807909_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222779973",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222779973_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402213",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402213_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402210",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402210_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402209",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402209_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402206",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402206_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402204",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402204_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402203",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402203_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402200",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402200_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402197",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402197_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402195",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402195_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402193",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402193_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402191",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402191_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402188",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402188_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "220618916",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/220618916_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222779925",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON SKI SS26 Cortina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222779925_louis-vuitton-ski-ss26-cortina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402543",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402543_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402541",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402541_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402539",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402539_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402538",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402538_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402536",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402536_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402532",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402532_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221402530",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221402530_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "219306761",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/219306761_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403392",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403392_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403387",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403387_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403383",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403383_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403378",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403378_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403375",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403375_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403373",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403373_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403370",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403370_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403367",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403367_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403361",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403361_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403356",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403356_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403352",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403352_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403350",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403350_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403347",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403347_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221403342",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221403342_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "219306747",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/219306747_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221404413",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221404413_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221404408",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221404408_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221404405",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221404405_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218929009",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218929009_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221405804",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Trainer FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221405804_louis-vuitton-x-nigo-trainer-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928981",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Trainer FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928981_louis-vuitton-x-nigo-trainer-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221405910",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221405910_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221405906",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221405906_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928960",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928960_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928943",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928943_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928920",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928920_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406019",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Trainer FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406019_louis-vuitton-x-nigo-trainer-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928900",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Trainer FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928900_louis-vuitton-x-nigo-trainer-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406126",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406126_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406124",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406124_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406117",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406117_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406110",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406110_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406108",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406108_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406105",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406105_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406101",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406101_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406100",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406100_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406098",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406098_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928823",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928823_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406767",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406767_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406760",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406760_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406753",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406753_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406748",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406748_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406745",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406745_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406740",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406740_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406738",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406738_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406733",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406733_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406729",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406729_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406728",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406728_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221406705",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221406705_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "218928813",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/218928813_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222232400",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/222232400_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221407309",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221407309_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "217410177",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/217410177_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408306",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408306_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408264",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408264_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408022",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408022_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408021",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408021_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408017",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408017_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408012",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408012_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408009",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408009_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408004",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408004_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221407998",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221407998_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "214330516",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/214330516_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221408542",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221408542_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "213585348",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/213585348_louis-vuitton-tilted-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409214",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409214_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409209",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409209_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409208",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409208_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409206",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409206_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409197",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409197_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409193",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409193_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409185",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409185_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "211938760",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/211938760_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409409",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409409_louis-vuitton-footprint-soccer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409402",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409402_louis-vuitton-footprint-soccer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "211938715",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/211938715_louis-vuitton-footprint-soccer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421775",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421775_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409628",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409628_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409622",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409622_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409619",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409619_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409611",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409611_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409605",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409605_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409602",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409602_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409598",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409598_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409591",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409591_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409587",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409587_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409582",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409582_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409578",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409578_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409574",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409574_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409570",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409570_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409565",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409565_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409562",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409562_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409557",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409557_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409553",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409553_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409549",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409549_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409547",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409547_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409632",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409632_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221409535",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221409535_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "211230543",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/211230543_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221420255",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221420255_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221420250",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221420250_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221420246",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221420246_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "209837830",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/209837830_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421943",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421943_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421938",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421938_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421934",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421934_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421931",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421931_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421928",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421928_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421923",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421923_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421920",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421920_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421910",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421910_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421908",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421908_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421907",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421907_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421903",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421903_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421901",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421901_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421900",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221421900_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "209837592",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/209837592_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221422420",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422420_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221422416",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422416_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "209837571",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/209837571_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221422696",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Yeti FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422696_louis-vuitton-x-nigo-yeti-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221422693",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Yeti FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422693_louis-vuitton-x-nigo-yeti-fw25-01.webp"
+      "catalogo/foto/Louis Vuitton LV/222807941_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
     "id": "209837504",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Yeti FW25",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/209837504_louis-vuitton-x-nigo-yeti-fw25-01.webp"
+      "catalogo/foto/Louis Vuitton LV/209837504_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "203489281",
+    "id": "211938760",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Trainer FW25",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/203489281_louis-vuitton-x-nigo-trainer-fw25-01.webp"
+      "catalogo/foto/Louis Vuitton LV/211938760_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221423137",
+    "id": "221430636",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221423137_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430636_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422997",
+    "id": "221409185",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422997_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409185_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422989",
+    "id": "221409193",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422989_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409193_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422986",
+    "id": "221409206",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422986_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409206_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422984",
+    "id": "222807924",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422984_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/222807924_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422981",
+    "id": "221409209",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422981_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409209_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422977",
+    "id": "221409214",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422977_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409214_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221422974",
+    "id": "221430621",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221422974_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430621_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "199736484",
+    "id": "221430639",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/199736484_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430639_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221423821",
+    "id": "222232400",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221423821_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/222232400_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221423810",
+    "id": "222779973",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221423810_louis-vuitton-trainer-2025-01.webp"
+      "catalogo/foto/Louis Vuitton LV/222779973_louis-vuitton-buttersoft.webp"
     ],
     "top": false
   },
   {
-    "id": "221423807",
+    "id": "221422693",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
+    "nome": "LOUIS VUITTON Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221423807_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "207913954",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/207913954_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424040",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer 2025",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424040_louis-vuitton-trainer-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424035",
-    "marca": "Louis Vuitton LV",
-    "nome": "Takashi Murakami x LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424035_takashi-murakami-x-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424028",
-    "marca": "Louis Vuitton LV",
-    "nome": "Takashi Murakami x LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424028_takashi-murakami-x-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "198621612",
-    "marca": "Louis Vuitton LV",
-    "nome": "Takashi Murakami x LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/198621612_takashi-murakami-x-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424542",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424542_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "198394138",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/198394138_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424849",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424849_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424847",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424847_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424842",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424842_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424839",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424839_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221424831",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221424831_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "207314564",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/207314564_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221425264",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221425264_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221425260",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221425260_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221425256",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221425256_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221425248",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221425248_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "203489245",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/203489245_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221427909",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221427909_louis-vuitton-footprint-soccer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221422693_louis-vuitton-footprint.webp"
     ],
     "top": false
   },
   {
     "id": "221427904",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "LOUIS VUITTON Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221427904_louis-vuitton-footprint-soccer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221427904_louis-vuitton-footprint.webp"
     ],
     "top": false
   },
   {
-    "id": "221427901",
+    "id": "222779925",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "LOUIS VUITTON Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221427901_louis-vuitton-footprint-soccer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/222779925_louis-vuitton-footprint.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222808598",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Footprint",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222808598_louis-vuitton-footprint.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "224226588",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Footprint",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/224226588_louis-vuitton-footprint.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "224231812",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Footprint",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/224231812_louis-vuitton-footprint.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "224231818",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Footprint",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/224231818_louis-vuitton-footprint.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "224231831",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Footprint",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/224231831_louis-vuitton-footprint.webp"
     ],
     "top": false
   },
@@ -59436,237 +55176,117 @@ window.CATALOGO = [
     "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/203489097_louis-vuitton-footprint-soccer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/203489097_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "221664187",
+    "id": "211938715",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221664187_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/211938715_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "221429751",
+    "id": "221409402",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221429751_louis-vuitton-sneakerina-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409402_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "221429746",
+    "id": "221409409",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221429746_louis-vuitton-sneakerina-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221409409_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "221429743",
+    "id": "221427901",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221429743_louis-vuitton-sneakerina-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221427901_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "221429738",
+    "id": "221427909",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221429738_louis-vuitton-sneakerina-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221427909_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "199093244",
+    "id": "224231840",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "LOUIS VUITTON Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/199093244_louis-vuitton-sneakerina-01.webp"
+      "catalogo/foto/Louis Vuitton LV/224231840_louis-vuitton-footprint-soccer.webp"
     ],
     "top": false
   },
   {
-    "id": "221430166",
+    "id": "236603249",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
+    "nome": "LOUIS VUITTON Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430166_louis-vuitton-01.webp"
+      "catalogo/foto/Louis Vuitton LV/236603249_louis-vuitton-rally.webp"
     ],
     "top": false
   },
   {
-    "id": "221430161",
+    "id": "236689505",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
+    "nome": "LOUIS VUITTON Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430161_louis-vuitton-01.webp"
+      "catalogo/foto/Louis Vuitton LV/236689505_louis-vuitton-rally.webp"
     ],
     "top": false
   },
   {
-    "id": "221430145",
+    "id": "236689517",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
+    "nome": "LOUIS VUITTON Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430145_louis-vuitton-01.webp"
+      "catalogo/foto/Louis Vuitton LV/236689517_louis-vuitton-rally.webp"
     ],
     "top": false
   },
   {
-    "id": "221430139",
+    "id": "236689523",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
+    "nome": "LOUIS VUITTON Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430139_louis-vuitton-01.webp"
+      "catalogo/foto/Louis Vuitton LV/236689523_louis-vuitton-rally.webp"
     ],
     "top": false
   },
   {
-    "id": "221430133",
+    "id": "236689529",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
+    "nome": "LOUIS VUITTON Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430133_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "207108649",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/207108649_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430468",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430468_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "208760251",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/208760251_louis-vuitton-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430639",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430639_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430636",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430636_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430621",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430621_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "207833160",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON x Nigo Buttersoft FW25",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/207833160_louis-vuitton-x-nigo-buttersoft-fw25-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430943",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430943_louis-vuitton-run-away-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430938",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430938_louis-vuitton-run-away-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430921",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430921_louis-vuitton-run-away-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430913",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430913_louis-vuitton-run-away-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221430906",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221430906_louis-vuitton-run-away-01.webp"
+      "catalogo/foto/Louis Vuitton LV/236689529_louis-vuitton-rally.webp"
     ],
     "top": false
   },
@@ -59676,447 +55296,7 @@ window.CATALOGO = [
     "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/200481918_louis-vuitton-run-away-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434216",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434216_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221434209",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221434209_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431673",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431673_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431665",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431665_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431653",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431653_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431632",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431632_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431625",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431625_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431615",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431615_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431537",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431537_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431530",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431530_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431528",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431528_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431518",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431518_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431510",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431510_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431508",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431508_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431502",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431502_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221431493",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221431493_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "198622383",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/198622383_louis-vuitton-runner-tatic-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436136",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436136_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436128",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436128_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436118",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436118_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436111",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436111_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436109",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436109_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436104",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436104_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436096",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436096_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436091",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221436091_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "208225798",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/208225798_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437197",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437197_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437191",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437191_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437181",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437181_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437177",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437177_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437174",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437174_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437170",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437170_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437165",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437165_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437161",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437161_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437158",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437158_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437156",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437156_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437150",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437150_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "204222065",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/204222065_louis-vuitton-trainer-maxi-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437777",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437777_louis-vuitton-sneakerina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437772",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437772_louis-vuitton-sneakerina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437768",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437768_louis-vuitton-sneakerina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437766",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437766_louis-vuitton-sneakerina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221437765",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221437765_louis-vuitton-sneakerina-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "198620639",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/198620639_louis-vuitton-sneakerina-01.webp"
+      "catalogo/foto/Louis Vuitton LV/200481918_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
@@ -60126,627 +55306,217 @@ window.CATALOGO = [
     "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/207507291_louis-vuitton-run-away-01.webp"
+      "catalogo/foto/Louis Vuitton LV/207507291_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
   {
-    "id": "199736436",
+    "id": "221430906",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/199736436_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430906_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
   {
-    "id": "221438810",
+    "id": "221430913",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221438810_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430913_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
   {
-    "id": "221438806",
+    "id": "221430921",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221438806_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430921_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
   {
-    "id": "206885817",
+    "id": "221430938",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/206885817_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430938_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
   {
-    "id": "221439163",
+    "id": "221430943",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439163_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221430943_louis-vuitton-run-away.webp"
     ],
     "top": false
   },
   {
-    "id": "221439159",
+    "id": "198622383",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439159_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/198622383_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439154",
+    "id": "221431493",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439154_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431493_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439150",
+    "id": "221431502",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439150_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431502_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439143",
+    "id": "221431508",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439143_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431508_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439139",
+    "id": "221431510",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439139_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431510_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439132",
+    "id": "221431518",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439132_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431518_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439128",
+    "id": "221431530",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439128_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431530_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439119",
+    "id": "221431537",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439119_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431537_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439112",
+    "id": "221431615",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439112_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431615_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439107",
+    "id": "221431625",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439107_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431625_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439101",
+    "id": "221431632",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439101_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431632_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221439083",
+    "id": "221431653",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221439083_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431653_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "199093305",
+    "id": "221431665",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/199093305_louis-vuitton-skate-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431665_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221446457",
+    "id": "221431673",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446457_louis-vuitton-trainer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221431673_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "221446455",
+    "id": "221434209",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446455_louis-vuitton-trainer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221434209_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
   {
-    "id": "201889083",
+    "id": "221434216",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/201889083_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446542",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446542_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446540",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Z LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446540_louis-vuitton-trainer-z-louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446537",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446537_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446532",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446532_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446529",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446529_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446528",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446528_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446526",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446526_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446524",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446524_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446522",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446522_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446519",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446519_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446517",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446517_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446516",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446516_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446515",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446515_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446514",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446514_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446513",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446513_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "205862686",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/205862686_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446863",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446863_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446860",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446860_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446858",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446858_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446856",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446856_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446852",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446852_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446850",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446850_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446848",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446848_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446844",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446844_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221446842",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/221446842_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "199506410",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/199506410_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "215632456",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/215632456_louis-vuitton-skate-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243805406",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243805406_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "243805372",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/243805372_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244668719",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244668719_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244668853",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244668853_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244668886",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/244668886_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "196810196",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/196810196_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245963664",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245963664_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245963681",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245963681_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245959348",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245959348_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245959321",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245959321_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245958872",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245958872_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245958853",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245958853_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245916967",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245916967_louis-vuitton-trainer-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245917057",
-    "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245917057_louis-vuitton-trainer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/221434216_louis-vuitton-runner-tatic.webp"
     ],
     "top": false
   },
@@ -60756,7 +55526,2277 @@ window.CATALOGO = [
     "nome": "LOUIS VUITTON Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245916990_louis-vuitton-runner-tatic-01.webp"
+      "catalogo/foto/Louis Vuitton LV/245916990_louis-vuitton-runner-tatic.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "199736436",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/199736436_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "206885817",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/206885817_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439101",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439101_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408264",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408264_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "215632456",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/215632456_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402188",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402188_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402191",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402191_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907178",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907178_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402195",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402195_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402197",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402197_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402200",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402200_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402204",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402204_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402206",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402206_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402209",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402209_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402210",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402210_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221402213",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221402213_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221407463",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221407463_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221407467",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221407467_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229927996",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229927996_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221407476",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221407476_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200392",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200392_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408004",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408004_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408009",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408009_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408021",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408021_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408022",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408022_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408306",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408306_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221438806",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221438806_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221438810",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221438810_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439107",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439107_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439112",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439112_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439119",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439119_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439128",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439128_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439132",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439132_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229694906",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229694906_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221439143",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221439143_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221664187",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221664187_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229694872",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229694872_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229927976",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229927976_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229927992",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229927992_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907133",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907133_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907215",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907215_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200216",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200216_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200228",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200228_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200246",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200246_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200256",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200256_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200271",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200271_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200282",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200282_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200304",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200304_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200361",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200361_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200377",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200377_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200408",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200408_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200426",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200426_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201285",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201285_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201330",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201330_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201355",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201355_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202258",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202258_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202283",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202283_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202343",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202343_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202357",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202357_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202369",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202369_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202389",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202389_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202401",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202401_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243202417",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243202417_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "198620639",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/198620639_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "199093244",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/199093244_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437777",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437777_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437772",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437772_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221429746",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221429746_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221429751",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221429751_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437765",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437765_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437766",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437766_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437768",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437768_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222808615",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Sneakerina",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222808615_louis-vuitton-sneakerina.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222808605",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Snowboot",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222808605_louis-vuitton-snowboot.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "213585348",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/213585348_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231652534",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231652534_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231689915",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231689915_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231689929",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231689929_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231689939",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231689939_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231689951",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231689951_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231689959",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231689959_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221408542",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221408542_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "249079106",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/249079106_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "240097671",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/240097671_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "240097680",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/240097680_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "240097685",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/240097685_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "240097689",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/240097689_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "240097701",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/240097701_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "240097706",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/240097706_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907162",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907162_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201557",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201557_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201578",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201578_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "248905868",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Tilted",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/248905868_louis-vuitton-tilted.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "199237898",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/199237898_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "199736484",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/199736484_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403342",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403342_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406105",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406105_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421907",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421907_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421923",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421923_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421928",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421928_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421931",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421931_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421938",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421938_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421943",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421943_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422696",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422696_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422974",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422974_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422977",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422977_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422981",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422981_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422984",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422984_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422989",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422989_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422997",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422997_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221423137",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221423137_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221423807",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221423807_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658695",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658695_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424028",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424028_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424035",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424035_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424040",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424040_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222927033",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222927033_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424842",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424842_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424847",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424847_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424849",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424849_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221425248",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221425248_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221425256",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221425256_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221425260",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221425260_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221425264",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221425264_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221430133",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221430133_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221430139",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221430139_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221430145",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221430145_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221430161",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221430161_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221430166",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221430166_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221430468",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221430468_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434649",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434649_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434657",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434657_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229929902",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229929902_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434667",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434667_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229929921",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229929921_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930402",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930402_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434688",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434688_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434690",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434690_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434695",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434695_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434702",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434702_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221434709",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221434709_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446455",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446455_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446457",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446457_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658490",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658490_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446514",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446514_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446515",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446515_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500592",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500592_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446856",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446856_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446519",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446519_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658633",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658633_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446526",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446526_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446528",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446528_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658521",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658521_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446532",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446532_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446540",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446540_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446542",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446542_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446842",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446842_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446844",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446844_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446848",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446848_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446850",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446850_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446852",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446852_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446858",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446858_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446860",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446860_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221446863",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221446863_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243199979",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243199979_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222909003",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222909003_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222927016",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222927016_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222927025",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222927025_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229928017",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229928017_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229929908",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229929908_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229929931",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229929931_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229929937",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229929937_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229929947",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229929947_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930271",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930271_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930277",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930277_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930292",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930292_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658650",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658650_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930311",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930311_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930331",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930331_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930365",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930365_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930376",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930376_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229930382",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229930382_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245963664",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245963664_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231690787",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231690787_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "231690800",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/231690800_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243199919",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243199919_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418023",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418023_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418028",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418028_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418059",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418059_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418069",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418069_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418078",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418078_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418091",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418091_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "239418104",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/239418104_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242537492",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242537492_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242749650",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242749650_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242749672",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242749672_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242749688",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242749688_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242749703",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242749703_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242749717",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242749717_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242749727",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242749727_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907151",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907151_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907196",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907196_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "242907233",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/242907233_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243199911",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243199911_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243199932",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243199932_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243199947",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243199947_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500612",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500612_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201904",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201904_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501035",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501035_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658479",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658479_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658486",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658486_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658500",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658500_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658509",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658509_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658528",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658528_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658550",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658550_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658558",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658558_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658572",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658572_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658580",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658580_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658603",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658603_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658616",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658616_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658625",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658625_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658642",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658642_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658664",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658664_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658681",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658681_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244668719",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244668719_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244668853",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244668853_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244668886",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244668886_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -60766,7 +57806,407 @@ window.CATALOGO = [
     "nome": "LOUIS VUITTON Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
-      "catalogo/img-scontornate/Louis Vuitton LV/245917014_louis-vuitton-trainer-01.webp"
+      "catalogo/foto/Louis Vuitton LV/245917014_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245917057",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245917057_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245958853",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245958853_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245958872",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245958872_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245959321",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245959321_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245959348",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245959348_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "245963681",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/245963681_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421775",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421775_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "207314564",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/207314564_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437158",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437158_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406108",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406108_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409535",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409535_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409547",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409547_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436111",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436111_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409553",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409553_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409557",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409557_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409562",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409562_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409565",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409565_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409570",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409570_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436118",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436118_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409578",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409578_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409582",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409582_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436136",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436136_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436104",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436104_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409598",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409598_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409602",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409602_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409605",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409605_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221409611",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221409611_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436128",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436128_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437197",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437197_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436109",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436109_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436091",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436091_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221424839",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221424839_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436096",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436096_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437161",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437161_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437170",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437170_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437174",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437174_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437177",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437177_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437181",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437181_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221437191",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221437191_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "222808622",
+    "marca": "Louis Vuitton LV",
+    "nome": "LOUIS VUITTON Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/222808622_louis-vuitton-trainer-maxi.webp"
     ],
     "top": false
   },
