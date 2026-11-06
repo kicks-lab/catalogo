@@ -55952,6 +55952,17 @@ window.CATALOGO = [
     "top": false
   },
   {
+    "id": "229694906",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Skate Bianco/Nero",
+    "modello": "Skate",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229694906_louis-vuitton-skate.webp"
+    ],
+    "top": false
+  },
+  {
     "id": "221439143",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Skate Nero/Argento",
@@ -56601,6 +56612,39 @@ window.CATALOGO = [
     "top": false
   },
   {
+    "id": "196810196",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Multicolor Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/196810196_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "198394138",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Beige Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/198394138_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "198621612",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Multicolor Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/198621612_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
     "id": "199237898",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
@@ -56608,6 +56652,17 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/199237898_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658505",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658505_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -56623,6 +56678,215 @@ window.CATALOGO = [
     "top": false
   },
   {
+    "id": "201889083",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/201889083_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "229844224",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/229844224_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "203489245",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Grigio/Bianco/Rosso",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/203489245_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221405906",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosa",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221405906_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "205862686",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/205862686_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "207108649",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/207108649_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "207913954",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Panna Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/207913954_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "208760251",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Kaki",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/208760251_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "209837571",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Blu",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/209837571_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "209837592",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/209837592_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "209837830",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Panna/Oro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/209837830_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "218928813",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/218928813_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "218928823",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Arancione/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/218928823_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "218928900",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/218928900_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "218928920",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Viola/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/218928920_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "218928960",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Azzurro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/218928960_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "218928981",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Navy Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/218928981_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422420",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422420_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "219306747",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/219306747_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
     "id": "221403342",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Trainer Bianco/Panna",
@@ -56630,6 +56894,237 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221403342_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403347",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403347_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403350",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero/Blu Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403350_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221422986",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221422986_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403356",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403356_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403361",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Beige",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403361_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403367",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403367_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403370",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403370_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403373",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Multicolor",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403373_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403375",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403375_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403378",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403378_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403383",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Antracite",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403383_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403387",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403387_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221403392",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Antracite",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221403392_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221404405",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221404405_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221404413",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Rosso/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221404413_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221405804",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu Navy/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221405804_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221405910",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Giallo",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221405910_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406019",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406019_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406098",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Blu",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406098_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406100",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Rosso",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406100_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406101",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Arancione/Blu",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406101_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -56645,6 +57140,237 @@ window.CATALOGO = [
     "top": false
   },
   {
+    "id": "221406110",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406110_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406117",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Beige Mesh",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406117_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406124",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Panna/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406124_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406126",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406126_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406705",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406705_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406728",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406728_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406729",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406729_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406733",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406733_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406738",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Beige",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406738_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406740",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406740_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406745",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Grigio/Blu",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406745_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406748",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406748_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406753",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406753_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406760",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Marrone/Bianco/Panna",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406760_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221406767",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Verde Menta/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221406767_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221420246",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Grigio/Beige/Lilla",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221420246_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221420250",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco Tessuto",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221420250_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221420255",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Verde Menta/Azzurro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221420255_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421900",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Grigio/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421900_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421901",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421901_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421903",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421903_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
     "id": "221421907",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Trainer Rosa/Bianco Tessuto",
@@ -56652,6 +57378,50 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421907_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421908",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Panna/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421908_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421910",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Argento/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421910_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421920",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Argento/Bianco/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421920_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221421923",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221421923_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -57844,6 +58614,215 @@ window.CATALOGO = [
     "top": false
   },
   {
+    "id": "243199990",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Verde/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243199990_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658704",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Azzurro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658704_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200009",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Rosa/Pesca",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200009_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200025",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Oro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200025_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658673",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosa",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658673_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200822",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200822_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200832",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Cristalli",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200832_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200842",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200842_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200854",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Rosa/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200854_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200875",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Blu",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200875_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200899",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Oro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200899_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200921",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200921_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200957",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Argento Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200957_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200974",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco Cristalli",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200974_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243200991",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Giallo Fluo",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243200991_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201009",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201009_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201859",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Grigio Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201859_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201886",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Mesh",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201886_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201894",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201894_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
     "id": "243201904",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Trainer Rosso/Bianco Denim",
@@ -57855,6 +58834,237 @@ window.CATALOGO = [
     "top": false
   },
   {
+    "id": "243201918",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201918_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201938",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Giallo/Oro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201938_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243201953",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Panna/Bianco/Beige",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243201953_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243445351",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Verde Scuro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243445351_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243805372",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Beige Mesh",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243805372_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "243805406",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Blu Navy/Bianco/Azzurro",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/243805406_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244496018",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244496018_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500316",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Oro Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500316_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500504",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500504_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500530",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Cammello",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500530_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500555",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500555_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500708",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500708_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500748",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero/Blu",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500748_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500765",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Panna/Multicolor",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500765_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500786",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Viola",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500786_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500798",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500798_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500827",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500827_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500880",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Fiori",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500880_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500956",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500956_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244500977",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244500977_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501018",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501018_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
     "id": "244501035",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Trainer Bianco/Oro Monogram",
@@ -57862,6 +59072,182 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244501035_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501056",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Rosso/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501056_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501088",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501088_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501153",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Multicolor Graffiti",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501153_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501183",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501183_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501204",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Giallo/Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501204_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501226",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501226_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501249",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Argento Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501249_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501303",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501303_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501340",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Damier",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501340_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658763",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658763_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501443",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501443_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501474",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501474_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658495",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658495_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501524",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Beige Mesh",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501524_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244501567",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Verde",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244501567_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244589792",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244589792_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -57939,6 +59325,17 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658558_louis-vuitton-trainer.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "244658572",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Bianco/Argento",
+    "modello": "Trainer",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/244658572_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -58379,6 +59776,17 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437197_louis-vuitton-trainer-maxi.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "221436109",
+    "marca": "Louis Vuitton LV",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Rosso",
+    "modello": "Trainer Maxi",
+    "categoria": "Louis Vuitton LV",
+    "foto": [
+      "catalogo/foto/Louis Vuitton LV/221436109_louis-vuitton-trainer-maxi.webp"
     ],
     "top": false
   },
