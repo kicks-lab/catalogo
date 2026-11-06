@@ -55952,17 +55952,6 @@ window.CATALOGO = [
     "top": false
   },
   {
-    "id": "229694906",
-    "marca": "Louis Vuitton LV",
-    "nome": "Louis Vuitton Skate Bianco/Nero",
-    "modello": "Skate",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/foto/Louis Vuitton LV/229694906_louis-vuitton-skate.webp"
-    ],
-    "top": false
-  },
-  {
     "id": "221439143",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Skate Nero/Argento",
@@ -56663,17 +56652,6 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421907_louis-vuitton-trainer.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221421923",
-    "marca": "Louis Vuitton LV",
-    "nome": "Louis Vuitton Trainer Bianco",
-    "modello": "Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/foto/Louis Vuitton LV/221421923_louis-vuitton-trainer.webp"
     ],
     "top": false
   },
@@ -57965,17 +57943,6 @@ window.CATALOGO = [
     "top": false
   },
   {
-    "id": "244658572",
-    "marca": "Louis Vuitton LV",
-    "nome": "Louis Vuitton Trainer Bianco/Argento",
-    "modello": "Trainer",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/foto/Louis Vuitton LV/244658572_louis-vuitton-trainer.webp"
-    ],
-    "top": false
-  },
-  {
     "id": "244658580",
     "marca": "Louis Vuitton LV",
     "nome": "Louis Vuitton Trainer Rosa/Bianco Monogram",
@@ -58412,17 +58379,6 @@ window.CATALOGO = [
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437197_louis-vuitton-trainer-maxi.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221436109",
-    "marca": "Louis Vuitton LV",
-    "nome": "Louis Vuitton Trainer Maxi Bianco/Rosso",
-    "modello": "Trainer Maxi",
-    "categoria": "Louis Vuitton LV",
-    "foto": [
-      "catalogo/foto/Louis Vuitton LV/221436109_louis-vuitton-trainer-maxi.webp"
     ],
     "top": false
   },
