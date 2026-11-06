@@ -40323,1010 +40323,858 @@ window.CATALOGO = [
   {
     "id": "190994714",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 Low AF1",
+    "nome": "Nike Air Force 1 Low Triple Black",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/190994714_1-1-nike-air-force-1-low-af1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/190994714_nike-air-force-1-low-triple-black.webp"
     ],
     "top": false
   },
   {
     "id": "187859060",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike AF1 Air Force 1 Low （ ， ）",
+    "nome": "Nike Air Force 1 Low Triple White",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/187859060_nike-af1-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/187859060_nike-air-force-1-low-triple-white.webp"
     ],
     "top": false
   },
   {
     "id": "205044084",
     "marca": "Nike Air Force AF1",
-    "nome": "Supreme x GOODENOUGH x Nike Air Force 1 Low SP",
+    "nome": "Supreme x GOODENOUGH x Nike Air Force 1 Low Bianco Leopardato",
+    "modello": "Air Force 1 Collab",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/205044084_supreme-x-goodenough-x-nike-air-force-1-low-sp-01.webp"
+      "catalogo/foto/Nike Air Force AF1/205044084_supreme-x-goodenough-x-nike-air-force-1-low-bianco-leopardat.webp"
     ],
     "top": false
   },
   {
     "id": "198831978",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1",
+    "nome": "Nike Air Force 1 Low Nero/Grigio/Bianco",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/198831978_nike-air-force-1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/198831978_nike-air-force-1-low-nero-grigio-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "221819356",
     "marca": "Nike Air Force AF1",
-    "nome": "Lil Yachty x Nike Air Force 1 Low",
+    "nome": "Lil Yachty x Nike Air Force 1 Low Giallo/Bordeaux",
+    "modello": "Air Force 1 Collab",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/221819356_lil-yachty-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/221819356_lil-yachty-x-nike-air-force-1-low-giallo-bordeaux.webp"
     ],
     "top": false
   },
   {
     "id": "193808292",
     "marca": "Nike Air Force AF1",
-    "nome": "Travis Scott x Nike Air Force 1 'Utopia'",
+    "nome": "Travis Scott x Nike Air Force 1 Low Utopia",
+    "modello": "Travis Scott x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/193808292_travis-scott-x-nike-air-force-1-utopia-01.webp"
+      "catalogo/foto/Nike Air Force AF1/193808292_travis-scott-x-nike-air-force-1-low-utopia.webp"
     ],
     "top": false
   },
   {
     "id": "187859358",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 Low AF1",
+    "nome": "Nike Air Force 1 Low Bianco Lacci Corda",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/187859358_1-1-nike-air-force-1-low-af1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/187859358_nike-air-force-1-low-bianco-lacci-corda.webp"
     ],
     "top": false
   },
   {
     "id": "187859253",
     "marca": "Nike Air Force AF1",
-    "nome": ":1 Nike Air Force 1 Low AF1 AF1",
+    "nome": "Nike Air Force 1 Low Triple Black Lacci Corda",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/187859253_1-1-nike-air-force-1-low-af1-af1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/187859253_nike-air-force-1-low-triple-black-lacci-corda.webp"
     ],
     "top": false
   },
   {
     "id": "187859571",
     "marca": "Nike Air Force AF1",
-    "nome": "21 :1 Nike Air Force 1 Low AF1 AF1",
+    "nome": "Nike Air Force 1 Low Bianco Mucca",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/187859571_21-1-1-nike-air-force-1-low-af1-af1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/187859571_nike-air-force-1-low-bianco-mucca.webp"
     ],
     "top": false
   },
   {
     "id": "187859761",
     "marca": "Nike Air Force AF1",
-    "nome": "21 :1 Nike Air Force 1 Low AF1 AF1",
+    "nome": "Nike Air Force 1 Low Nero/Bianco Grafica",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/187859761_21-1-1-nike-air-force-1-low-af1-af1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "186244848",
-    "marca": "Nike Air Force AF1",
-    "nome": "SupremexNike Air Force1\"box logo\" sup ：CU9225 100ZL",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/186244848_supremexnike-air-force1-box-logo-sup-cu9225-100zl-1-5-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "186713990",
-    "marca": "Nike Air Force AF1",
-    "nome": "SupremexNike Air Force1\"box logo\" sup ：CU9225 100ZL",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/186713990_supremexnike-air-force1-box-logo-sup-cu9225-100zl-1-5-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "197975829",
-    "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 certified lover boy Drake",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/197975829_nocta-x-nike-air-force-1-certified-lover-boy-drake-01.webp"
+      "catalogo/foto/Nike Air Force AF1/187859761_nike-air-force-1-low-nero-bianco-grafica.webp"
     ],
     "top": false
   },
   {
     "id": "194688787",
     "marca": "Nike Air Force AF1",
-    "nome": "CDG x Supreme x Nike Air Force 1 Supreme Comme des Garcons Shirt",
+    "nome": "Comme des Garcons SHIRT x Supreme x Nike Air Force 1 Low Bianco/Nero",
+    "modello": "Air Force 1 Collab",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/194688787_cdg-x-supreme-x-nike-air-force-1-supreme-comme-des-garcons-shirt-1-6-01.webp"
+      "catalogo/foto/Nike Air Force AF1/194688787_comme-des-garcons-shirt-x-supreme-x-nike-air-force-1-low-bia.webp"
     ],
     "top": false
   },
   {
     "id": "244661650",
     "marca": "Nike Air Force AF1",
-    "nome": "Supreme x Nike Air Force 1 Low SP",
+    "nome": "Supreme x Nike Air Force 1 Low Black",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244661650_supreme-x-nike-air-force-1-low-sp-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "213963381",
-    "marca": "Nike Air Force AF1",
-    "nome": "Supreme x Nike Air Force 1 Low SP",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/213963381_supreme-x-nike-air-force-1-low-sp-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242537443",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/242537443_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "242749524",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/242749524_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244660068",
-    "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 certified lover boy Drake",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244660068_nocta-x-nike-air-force-1-certified-lover-boy-drake-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244661650_supreme-x-nike-air-force-1-low-black.webp"
     ],
     "top": false
   },
   {
     "id": "238548511",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Peaceminusone Air Force 1 PMO",
+    "nome": "G-Dragon x Nike Air Force 1 Low Para-noise Nero/Bianco",
+    "modello": "G-Dragon x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238548511_nike-x-peaceminusone-air-force-1-pmo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238548511_g-dragon-x-nike-air-force-1-low-para-noise-nero-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "238705378",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Peaceminusone Air Force 1 PMO",
+    "nome": "G-Dragon x Nike Air Force 1 Low Para-noise Bianco/Nero Dipinto",
+    "modello": "G-Dragon x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238705378_nike-x-peaceminusone-air-force-1-pmo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238705378_g-dragon-x-nike-air-force-1-low-para-noise-bianco-nero-dipin.webp"
     ],
     "top": false
   },
   {
     "id": "238705388",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Peaceminusone Air Force 1 PMO",
+    "nome": "G-Dragon x Nike Air Force 1 Low Para-noise Nero/Verde Acqua/Rosa",
+    "modello": "G-Dragon x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238705388_nike-x-peaceminusone-air-force-1-pmo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238705388_g-dragon-x-nike-air-force-1-low-para-noise-nero-verde-acqua-.webp"
     ],
     "top": false
   },
   {
     "id": "238705362",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Peaceminusone Air Force 1 PMO",
+    "nome": "G-Dragon x Nike Air Force 1 Low Para-noise Bianco/Nero Ricamato",
+    "modello": "G-Dragon x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238705362_nike-x-peaceminusone-air-force-1-pmo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238705362_g-dragon-x-nike-air-force-1-low-para-noise-bianco-nero-ricam.webp"
     ],
     "top": false
   },
   {
     "id": "238705350",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Peaceminusone Air Force 1 PMO",
+    "nome": "G-Dragon x Nike Air Force 1 Low Para-noise Nero Multicolor",
+    "modello": "G-Dragon x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238705350_nike-x-peaceminusone-air-force-1-pmo-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238713646",
-    "marca": "Nike Air Force AF1",
-    "nome": "KZ Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238713646_kz-nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238548863",
-    "marca": "Nike Air Force AF1",
-    "nome": "KZ Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238548863_kz-nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238705350_g-dragon-x-nike-air-force-1-low-para-noise-nero-multicolor.webp"
     ],
     "top": false
   },
   {
     "id": "245387290",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1",
+    "nome": "Nike Air Force 1 Low Blu Stelle",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245387290_nike-air-force-1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245387290_nike-air-force-1-low-blu-stelle.webp"
     ],
     "top": false
   },
   {
     "id": "245387273",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1",
+    "nome": "Nike Air Force 1 Low Bianco Stelle",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245387273_nike-air-force-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "245387259",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245387259_nike-air-force-1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245387273_nike-air-force-1-low-bianco-stelle.webp"
     ],
     "top": false
   },
   {
     "id": "245387245",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1",
+    "nome": "Nike Air Force 1 Low Rosso Texture",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245387245_nike-air-force-1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245387245_nike-air-force-1-low-rosso-texture.webp"
     ],
     "top": false
   },
   {
     "id": "245384910",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07 LV8",
+    "nome": "Nike Air Force 1 Low Bianco/Nero Swoosh Contorno",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245384910_nike-air-force-1-07-lv8-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245384910_nike-air-force-1-low-bianco-nero-swoosh-contorno.webp"
     ],
     "top": false
   },
   {
     "id": "245384891",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07 LV8",
+    "nome": "Nike Air Force 1 Low Bianco/Grigio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245384891_nike-air-force-1-07-lv8-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245384891_nike-air-force-1-low-bianco-grigio.webp"
     ],
     "top": false
   },
   {
     "id": "245384882",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07 LV8",
+    "nome": "Nike Air Force 1 Low Blu/Viola Glow",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245384882_nike-air-force-1-07-lv8-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245384882_nike-air-force-1-low-blu-viola-glow.webp"
     ],
     "top": false
   },
   {
     "id": "245384864",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07 LV8",
+    "nome": "Nike Air Force 1 Low Nero Borchie",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245384864_nike-air-force-1-07-lv8-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245384864_nike-air-force-1-low-nero-borchie.webp"
     ],
     "top": false
   },
   {
     "id": "245219687",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1",
+    "nome": "Nike Air Force 1 Low Nero/Argento Stelle",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245219687_nike-air-force-1-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245219687_nike-air-force-1-low-nero-argento-stelle.webp"
     ],
     "top": false
   },
   {
     "id": "245199953",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07 LV8",
+    "nome": "Nike Air Force 1 Low Bianco/Nero Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/245199953_nike-air-force-1-07-lv8-01.webp"
+      "catalogo/foto/Nike Air Force AF1/245199953_nike-air-force-1-low-bianco-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "244817422",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Phantom",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817422_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817422_ambush-x-nike-air-force-1-low-phantom.webp"
     ],
     "top": false
   },
   {
     "id": "244817416",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Game Royal University Yellow",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817416_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817416_ambush-x-nike-air-force-1-low-game-royal-university-yellow.webp"
     ],
     "top": false
   },
   {
     "id": "244817406",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Game Royal Nero",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817406_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817406_ambush-x-nike-air-force-1-low-game-royal-nero.webp"
     ],
     "top": false
   },
   {
     "id": "244817397",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Volt Game Royal",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817397_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817397_ambush-x-nike-air-force-1-low-volt-game-royal.webp"
     ],
     "top": false
   },
   {
     "id": "244817389",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Pink",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817389_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817389_ambush-x-nike-air-force-1-low-pink.webp"
     ],
     "top": false
   },
   {
     "id": "244817382",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Rosa/Nero",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817382_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817382_ambush-x-nike-air-force-1-low-rosa-nero.webp"
     ],
     "top": false
   },
   {
     "id": "244817375",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Pine Green",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817375_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817375_ambush-x-nike-air-force-1-low-pine-green.webp"
     ],
     "top": false
   },
   {
     "id": "244817366",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Phantom Giallo/Menta",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817366_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817366_ambush-x-nike-air-force-1-low-phantom-giallo-menta.webp"
     ],
     "top": false
   },
   {
     "id": "197401872",
     "marca": "Nike Air Force AF1",
-    "nome": "AMBUSH x Nike Air Force 1 LOW",
+    "nome": "AMBUSH x Nike Air Force 1 Low Black",
+    "modello": "AMBUSH x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/197401872_ambush-x-nike-air-force-1-low-01.webp"
+      "catalogo/foto/Nike Air Force AF1/197401872_ambush-x-nike-air-force-1-low-black.webp"
     ],
     "top": false
   },
   {
     "id": "244663959",
     "marca": "Nike Air Force AF1",
-    "nome": "CPFM x Nike Air Force 1 Low 2024",
+    "nome": "CPFM x Nike Air Force 1 Low Black",
+    "modello": "CPFM x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244663959_cpfm-x-nike-air-force-1-low-2024-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244663959_cpfm-x-nike-air-force-1-low-black.webp"
     ],
     "top": false
   },
   {
     "id": "244663901",
     "marca": "Nike Air Force AF1",
-    "nome": "CPFM x Nike Air Force 1 Low 2024",
+    "nome": "CPFM x Nike Air Force 1 Low Moss",
+    "modello": "CPFM x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244663901_cpfm-x-nike-air-force-1-low-2024-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244663901_cpfm-x-nike-air-force-1-low-moss.webp"
     ],
     "top": false
   },
   {
     "id": "244663856",
     "marca": "Nike Air Force AF1",
-    "nome": "CPFM x Nike Air Force 1 Low 2024",
+    "nome": "CPFM x Nike Air Force 1 Low White Rosso",
+    "modello": "CPFM x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244663856_cpfm-x-nike-air-force-1-low-2024-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244663856_cpfm-x-nike-air-force-1-low-white-rosso.webp"
     ],
     "top": false
   },
   {
     "id": "244663843",
     "marca": "Nike Air Force AF1",
-    "nome": "CPFM x Nike Air Force 1 Low 2024",
+    "nome": "CPFM x Nike Air Force 1 Low Purple",
+    "modello": "CPFM x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244663843_cpfm-x-nike-air-force-1-low-2024-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244663843_cpfm-x-nike-air-force-1-low-purple.webp"
     ],
     "top": false
   },
   {
     "id": "189527648",
     "marca": "Nike Air Force AF1",
-    "nome": "CPFM x Nike Air Force 1 Low 2024",
+    "nome": "CPFM x Nike Air Force 1 Low White",
+    "modello": "CPFM x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/189527648_cpfm-x-nike-air-force-1-low-2024-01.webp"
+      "catalogo/foto/Nike Air Force AF1/189527648_cpfm-x-nike-air-force-1-low-white.webp"
     ],
     "top": false
   },
   {
     "id": "238801000",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 Patent \"Topaz Gold\"",
+    "nome": "Nike Air Force 1 Low Bianco/Turchese Vernice",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238801000_nike-air-force-1-patent-topaz-gold-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238801000_nike-air-force-1-low-bianco-turchese-vernice.webp"
     ],
     "top": false
   },
   {
     "id": "238548352",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Bianco/Verde Oliva Gomma",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238548352_nike-air-force-1-07-1-4-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238548352_nike-air-force-1-low-bianco-verde-oliva-gomma.webp"
     ],
     "top": false
   },
   {
     "id": "238022769",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 Low SE \"Valentine’s Day\"",
+    "nome": "Nike Air Force 1 Low Valentine's Day",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/238022769_nike-air-force-1-low-se-valentines-day-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "235940875",
-    "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 certified lover boy Drake",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/235940875_nocta-x-nike-air-force-1-certified-lover-boy-drake-01.webp"
+      "catalogo/foto/Nike Air Force AF1/238022769_nike-air-force-1-low-valentine-s-day.webp"
     ],
     "top": false
   },
   {
     "id": "235539948",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Triple White Classico",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/235539948_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/235539948_nike-air-force-1-low-triple-white-classico.webp"
     ],
     "top": false
   },
   {
     "id": "235539965",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Love You Forever",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/235539965_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "233635298",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/233635298_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "233635278",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/233635278_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229928706",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928706_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/235539965_nike-air-force-1-low-love-you-forever.webp"
     ],
     "top": false
   },
   {
     "id": "229928698",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Beige/Giallo Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928698_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928698_nike-air-force-1-low-beige-giallo-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "229928684",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Triple White Charm",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928684_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928684_nike-air-force-1-low-triple-white-charm.webp"
     ],
     "top": false
   },
   {
     "id": "229928584",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Supreme x Nike Air Force 1 Low Triple Black",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928584_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928584_supreme-x-nike-air-force-1-low-triple-black.webp"
     ],
     "top": false
   },
   {
     "id": "229928574",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Supreme x Nike Air Force 1 Low White Rosso",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928574_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928574_supreme-x-nike-air-force-1-low-white-rosso.webp"
     ],
     "top": false
   },
   {
     "id": "229928674",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Nero/Bianco Swoosh Bianco",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928674_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928674_nike-air-force-1-low-nero-bianco-swoosh-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "229928653",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Nero/Bianco Suola Nera",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928653_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928653_nike-air-force-1-low-nero-bianco-suola-nera.webp"
     ],
     "top": false
   },
   {
     "id": "229928661",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Triple White Suola Gomma",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928661_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928661_nike-air-force-1-low-triple-white-suola-gomma.webp"
     ],
     "top": false
   },
   {
     "id": "229928643",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Bianco/Nero Suola Nera",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928643_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928643_nike-air-force-1-low-bianco-nero-suola-nera.webp"
     ],
     "top": false
   },
   {
     "id": "229928633",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Triple White Swoosh Bianco",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928633_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928633_nike-air-force-1-low-triple-white-swoosh-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "229928622",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Bianco/Nero Dettagli",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928622_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928622_nike-air-force-1-low-bianco-nero-dettagli.webp"
     ],
     "top": false
   },
   {
     "id": "229928610",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Triple Black Argento",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928610_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229928595",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928595_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928610_nike-air-force-1-low-triple-black-argento.webp"
     ],
     "top": false
   },
   {
     "id": "229928565",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Supreme x Nike Air Force 1 Low White Nero",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928565_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229928555",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928555_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928565_supreme-x-nike-air-force-1-low-white-nero.webp"
     ],
     "top": false
   },
   {
     "id": "229928536",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
+    "nome": "Nike Air Force 1 Low Triple Red",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229928536_nike-air-force-1-triple-white-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "229844317",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 \"Triple White\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/229844317_nike-air-force-1-triple-white-01.webp"
+      "catalogo/foto/Nike Air Force AF1/229928536_nike-air-force-1-low-triple-red.webp"
     ],
     "top": false
   },
   {
     "id": "223840465",
     "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 “Love You Forever” AK",
+    "nome": "NOCTA x Nike Air Force 1 Low Love You Forever",
+    "modello": "NOCTA x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/223840465_nocta-x-nike-air-force-1-love-you-forever-ak-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "223840451",
-    "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 “Love You Forever” AK",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/223840451_nocta-x-nike-air-force-1-love-you-forever-ak-01.webp"
+      "catalogo/foto/Nike Air Force AF1/223840465_nocta-x-nike-air-force-1-low-love-you-forever.webp"
     ],
     "top": false
   },
   {
     "id": "223821381",
     "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 “Love You Forever” AK",
+    "nome": "NOCTA x Nike Air Force 1 Low Love You Forever",
+    "modello": "NOCTA x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/223821381_nocta-x-nike-air-force-1-love-you-forever-ak-01.webp"
+      "catalogo/foto/Nike Air Force AF1/223821381_nocta-x-nike-air-force-1-low-love-you-forever.webp"
     ],
     "top": false
   },
   {
     "id": "191649669",
     "marca": "Nike Air Force AF1",
-    "nome": "NOCTA x Nike Air Force 1 certified lover boy Drake",
+    "nome": "NOCTA x Nike Air Force 1 Low Certified Lover Boy",
+    "modello": "NOCTA x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/191649669_nocta-x-nike-air-force-1-certified-lover-boy-drake-01.webp"
+      "catalogo/foto/Nike Air Force AF1/191649669_nocta-x-nike-air-force-1-low-certified-lover-boy.webp"
     ],
     "top": false
   },
   {
     "id": "222595087",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
+    "nome": "Supreme x Nike Air Force 1 Low Black Cuciture Bianche",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595087_nike-x-supreme-air-force-1-box-logo-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222595071",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595071_nike-x-supreme-air-force-1-box-logo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/222595087_supreme-x-nike-air-force-1-low-black-cuciture-bianche.webp"
     ],
     "top": false
   },
   {
     "id": "222595056",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
+    "nome": "Supreme x Nike Air Force 1 Low Black Swoosh Bianchi",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595056_nike-x-supreme-air-force-1-box-logo-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222595047",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595047_nike-x-supreme-air-force-1-box-logo-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222595032",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595032_nike-x-supreme-air-force-1-box-logo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/222595056_supreme-x-nike-air-force-1-low-black-swoosh-bianchi.webp"
     ],
     "top": false
   },
   {
     "id": "222595016",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
+    "nome": "Supreme x Nike Air Force 1 Low Wheat",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595016_nike-x-supreme-air-force-1-box-logo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/222595016_supreme-x-nike-air-force-1-low-wheat.webp"
     ],
     "top": false
   },
   {
     "id": "222595006",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
+    "nome": "Supreme x Nike Air Force 1 Low Black Box Logo",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222595006_nike-x-supreme-air-force-1-box-logo-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222594984",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222594984_nike-x-supreme-air-force-1-box-logo-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222594974",
-    "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
-    "categoria": "Nike Air Force AF1",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222594974_nike-x-supreme-air-force-1-box-logo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/222595006_supreme-x-nike-air-force-1-low-black-box-logo.webp"
     ],
     "top": false
   },
   {
     "id": "222570518",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike x Supreme Air Force 1 \"box logo\"",
+    "nome": "Supreme x Nike Air Force 1 Low White Swoosh Nero",
+    "modello": "Supreme x Air Force 1",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/222570518_nike-x-supreme-air-force-1-box-logo-01.webp"
+      "catalogo/foto/Nike Air Force AF1/222570518_supreme-x-nike-air-force-1-low-white-swoosh-nero.webp"
     ],
     "top": false
   },
   {
     "id": "205111828",
     "marca": "Nike Air Force AF1",
-    "nome": "UNDEFEATED x Nike Air Force 1 \"Multi Patent\"",
+    "nome": "Nike Air Force 1 Low Multi Patent",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/205111828_undefeated-x-nike-air-force-1-multi-patent-01.webp"
+      "catalogo/foto/Nike Air Force AF1/205111828_nike-air-force-1-low-multi-patent.webp"
     ],
     "top": false
   },
   {
     "id": "203608055",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 '07 prm",
+    "nome": "Nike Air Force 1 Low Grigio Chiaro Tela",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/203608055_nike-air-force-1-07-prm-01.webp"
+      "catalogo/foto/Nike Air Force AF1/203608055_nike-air-force-1-low-grigio-chiaro-tela.webp"
     ],
     "top": false
   },
   {
     "id": "244817263",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 '07 prm",
+    "nome": "Nike Air Force 1 Low Sail/Crema Tessuto",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/244817263_nike-air-force-1-07-prm-01.webp"
+      "catalogo/foto/Nike Air Force AF1/244817263_nike-air-force-1-low-sail-crema-tessuto.webp"
     ],
     "top": false
   },
   {
     "id": "210940955",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 Low City Pack",
+    "nome": "Nike Air Force 1 Low Paris",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/210940955_nike-air-force-1-low-city-pack-01.webp"
+      "catalogo/foto/Nike Air Force AF1/210940955_nike-air-force-1-low-paris.webp"
     ],
     "top": false
   },
   {
     "id": "241439956",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Nero/Grigio Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241439956_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241439956_nike-air-force-1-low-nero-grigio-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "241613865",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Bianco/Azzurro Velluto",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613865_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613865_nike-air-force-1-low-bianco-azzurro-velluto.webp"
     ],
     "top": false
   },
   {
     "id": "241613875",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Triple White Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613875_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613875_nike-air-force-1-low-triple-white-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "241613880",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Viola Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613880_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613880_nike-air-force-1-low-viola-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "241613886",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Grigio Talpa Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613886_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613886_nike-air-force-1-low-grigio-talpa-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "241613892",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Bianco/Grigio Camoscio",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613892_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613892_nike-air-force-1-low-bianco-grigio-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "241613907",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Giallo/Lavanda/Rosa",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613907_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613907_nike-air-force-1-low-giallo-lavanda-rosa.webp"
     ],
     "top": false
   },
   {
     "id": "241613915",
     "marca": "Nike Air Force AF1",
-    "nome": "Nike Air Force 1 07",
+    "nome": "Nike Air Force 1 Low Bordeaux/Arancione",
+    "modello": "Air Force 1 Low",
     "categoria": "Nike Air Force AF1",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Force AF1/241613915_nike-air-force-1-07-01.webp"
+      "catalogo/foto/Nike Air Force AF1/241613915_nike-air-force-1-low-bordeaux-arancione.webp"
     ],
     "top": false
   },
@@ -68393,3130 +68241,1221 @@ window.CATALOGO = [
   {
     "id": "246111592",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "GD Jordan x Nigel Sylvester Air Jordan 4 \"Brick After Brick\"",
+    "nome": "Nike Air Jordan 4 SE Bianco/Rosa/Grigio scuro",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/246111592_gd-jordan-x-nigel-sylvester-air-jordan-4-brick-after-brick-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244084486",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084486_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244084456",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084456_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/246111592_nike-air-jordan-4-se-bianco-rosa-grigio-scuro.webp"
     ],
     "top": false
   },
   {
     "id": "244084442",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 Bianco/Rosso 1",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084442_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084442_nike-air-jordan-4-bianco-rosso-1.webp"
     ],
     "top": false
   },
   {
     "id": "244084430",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 Canyon Purple Viola/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084430_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084430_nike-air-jordan-4-canyon-purple-viola-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "244084413",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 Bianco/Nero/Rosso",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084413_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244084835",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084835_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084413_nike-air-jordan-4-bianco-nero-rosso.webp"
     ],
     "top": false
   },
   {
     "id": "244084819",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Black Canvas Nero/Bianco",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084819_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084819_nike-air-jordan-4-black-canvas-nero-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "244084800",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 White Cement Bianco/Grigio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084800_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084800_nike-air-jordan-4-white-cement-bianco-grigio.webp"
     ],
     "top": false
   },
   {
     "id": "244084791",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 University Blue Azzurro/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084791_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084791_nike-air-jordan-4-university-blue-azzurro-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "244084764",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Bianco/Grigio/Giallo chiaro",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084764_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084764_nike-air-jordan-4-bianco-grigio-giallo-chiaro.webp"
     ],
     "top": false
   },
   {
     "id": "244084744",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Bianco/Argento Pelle 1",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084744_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084744_nike-air-jordan-4-bianco-argento-pelle-1.webp"
     ],
     "top": false
   },
   {
     "id": "244084732",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 White Cement Bianco/Grigio/Nero",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084732_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084732_nike-air-jordan-4-white-cement-bianco-grigio-nero.webp"
     ],
     "top": false
   },
   {
     "id": "244084710",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Thunder Nero/Giallo",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084710_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084710_nike-air-jordan-4-thunder-nero-giallo.webp"
     ],
     "top": false
   },
   {
     "id": "244084690",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Military Black Bianco/Grigio/Nero",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084690_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084690_nike-air-jordan-4-military-black-bianco-grigio-nero.webp"
     ],
     "top": false
   },
   {
     "id": "244084669",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Bred Nero/Grigio/Rosso",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084669_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084669_nike-air-jordan-4-bred-nero-grigio-rosso.webp"
     ],
     "top": false
   },
   {
     "id": "244084651",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Photon Dust Grigio/Bianco Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084651_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084651_nike-air-jordan-4-photon-dust-grigio-bianco-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "244084640",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Metallic Purple Bianco/Viola",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084640_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084640_nike-air-jordan-4-metallic-purple-bianco-viola.webp"
     ],
     "top": false
   },
   {
     "id": "244084632",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Bianco/Grigio chiaro/Nero",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084632_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084632_nike-air-jordan-4-bianco-grigio-chiaro-nero.webp"
     ],
     "top": false
   },
   {
     "id": "244084618",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
+    "nome": "Nike Air Jordan 4 Cool Grey",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244084618_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244084618_nike-air-jordan-4-cool-grey.webp"
     ],
     "top": false
   },
   {
     "id": "244083357",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Brick by Brick",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244083357_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244083357_nigel-sylvester-x-nike-air-jordan-4-rm-brick-by-brick.webp"
     ],
     "top": false
   },
   {
     "id": "244083339",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Rosso mattone Camoscio",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244083339_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244083339_nigel-sylvester-x-nike-air-jordan-4-rm-rosso-mattone-camosci.webp"
     ],
     "top": false
   },
   {
     "id": "244083324",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Bianco/Rosso/Panna",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244083324_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244083324_nigel-sylvester-x-nike-air-jordan-4-rm-bianco-rosso-panna.webp"
     ],
     "top": false
   },
   {
     "id": "244083313",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Blu Camoscio",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244083313_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244083313_nigel-sylvester-x-nike-air-jordan-4-rm-blu-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "244083300",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Grigio Camoscio",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244083300_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244083300_nigel-sylvester-x-nike-air-jordan-4-rm-grigio-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "244083289",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nike Air Jordan 4 SE Bianco/Rosa/Multicolore",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244083289_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244082446",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 GS",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244082446_jordanair-jordan-4-gs-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244082432",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 GS",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244082432_jordanair-jordan-4-gs-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244082422",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 GS",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244082422_jordanair-jordan-4-gs-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244075410",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 GS",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244075410_jordanair-jordan-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244083289_nike-air-jordan-4-se-bianco-rosa-multicolore.webp"
     ],
     "top": false
   },
   {
     "id": "244075389",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 Retro SP",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Nero Camoscio",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244075389_nigel-sylvester-x-jordan-air-jordan-4-retro-sp-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244075288",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244075288_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "244075260",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanAir Jordan 4 Retro White Thunder GS",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/244075260_jordanair-jordan-4-retro-white-thunder-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/244075389_nigel-sylvester-x-nike-air-jordan-4-rm-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "243642226",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan x Union Air Jordan 4 （ 2）",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Bianco/Rosso/Blu navy 1",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/243642226_kz-jordan-x-union-air-jordan-4-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "239170078",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Nigel Sylvester Air Jordan 4 \"Brick After Brick\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/239170078_jordan-x-nigel-sylvester-air-jordan-4-brick-after-brick-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/243642226_nigel-sylvester-x-nike-air-jordan-4-rm-bianco-rosso-blu-navy.webp"
     ],
     "top": false
   },
   {
     "id": "239170369",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Nigel Sylvester Air Jordan 4 \"Brick After Brick\"",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Bianco/Rosso/Blu navy 2",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/239170369_jordan-x-nigel-sylvester-air-jordan-4-brick-after-brick-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/239170369_nigel-sylvester-x-nike-air-jordan-4-rm-bianco-rosso-blu-navy.webp"
     ],
     "top": false
   },
   {
     "id": "239146047",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 “Net”",
+    "nome": "Nike Air Jordan 4 SE Bianco/Oro",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/239146047_jordan-air-jordan-4-net-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238800949",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 “Net”",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238800949_jordan-air-jordan-4-net-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/239146047_nike-air-jordan-4-se-bianco-oro.webp"
     ],
     "top": false
   },
   {
     "id": "238713515",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 RM SP “Anthracite”",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Pine Green",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238713515_nigel-sylvester-x-jordan-air-jordan-4-rm-sp-anthracite-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238713515_nigel-sylvester-x-nike-air-jordan-4-rm-pine-green.webp"
     ],
     "top": false
   },
   {
     "id": "238713273",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 kaws black",
+    "nome": "KAWS x Nike Air Jordan 4 Cool Grey",
+    "modello": "KAWS x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238713273_jordan-air-jordan-4-kaws-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708051",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708051_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238713273_kaws-x-nike-air-jordan-4-cool-grey.webp"
     ],
     "top": false
   },
   {
     "id": "238708042",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Grigio/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708042_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708021",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708021_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708042_nike-air-jordan-4-grigio-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238709329",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 SE Grigio chiaro/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709329_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238709329_nike-air-jordan-4-se-grigio-chiaro-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238709317",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Bianco/Rosso 2",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709317_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238709304",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709304_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238709317_nike-air-jordan-4-bianco-rosso-2.webp"
     ],
     "top": false
   },
   {
     "id": "238709279",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Union x Nike Air Jordan 4 Guava Ice Sail/Blu/Rosa",
+    "modello": "Union x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709279_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238709260",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709260_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238709237",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709237_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238709229",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238709229_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708442",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708442_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708434",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708434_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708426",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708426_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708417",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708417_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238709279_union-x-nike-air-jordan-4-guava-ice-sail-blu-rosa.webp"
     ],
     "top": false
   },
   {
     "id": "238708405",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Union x Nike Air Jordan 4 Off Noir Blu navy/Blu/Panna",
+    "modello": "Union x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708405_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708405_union-x-nike-air-jordan-4-off-noir-blu-navy-blu-panna.webp"
     ],
     "top": false
   },
   {
     "id": "238708383",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Bianco/Rosso/Gomma 1",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708383_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708383_nike-air-jordan-4-bianco-rosso-gomma-1.webp"
     ],
     "top": false
   },
   {
     "id": "238708374",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Rosso Camoscio 1",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708374_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708340",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708340_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708374_nigel-sylvester-x-nike-air-jordan-4-rm-rosso-camoscio-1.webp"
     ],
     "top": false
   },
   {
     "id": "238708331",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Travis Scott x Nike Air Jordan 4 Cactus Jack Azzurro/Nero Camoscio",
+    "modello": "Travis Scott x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708331_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708316",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708316_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708306",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708306_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708294",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708294_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708331_travis-scott-x-nike-air-jordan-4-cactus-jack-azzurro-nero-ca.webp"
     ],
     "top": false
   },
   {
     "id": "238708273",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Black Cat Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708273_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708257",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708257_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708241",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708241_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708273_nike-air-jordan-4-black-cat-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238708230",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Midnight Navy Bianco/Blu navy/Gomma",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708230_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708230_nike-air-jordan-4-midnight-navy-bianco-blu-navy-gomma.webp"
     ],
     "top": false
   },
   {
     "id": "238708211",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Bianco/Grigio chiaro Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708211_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708211_nike-air-jordan-4-bianco-grigio-chiaro-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238708201",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Sail Bianco/Grigio/Gomma",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708201_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708201_nike-air-jordan-4-sail-bianco-grigio-gomma.webp"
     ],
     "top": false
   },
   {
     "id": "238708189",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Military Black Bianco/Nero",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708189_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708189_nike-air-jordan-4-military-black-bianco-nero.webp"
     ],
     "top": false
   },
   {
     "id": "238708174",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Lightning Giallo Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708174_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708162",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708162_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708174_nike-air-jordan-4-lightning-giallo-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238708151",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Toro Bravo",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708151_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708151_nike-air-jordan-4-toro-bravo.webp"
     ],
     "top": false
   },
   {
     "id": "238708143",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Bianco/Argento Pelle 2",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708143_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708143_nike-air-jordan-4-bianco-argento-pelle-2.webp"
     ],
     "top": false
   },
   {
     "id": "238708132",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Orchid Rosa/Bianco Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708132_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708132_nike-air-jordan-4-orchid-rosa-bianco-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238708119",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 SE Grigio Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708119_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708119_nike-air-jordan-4-se-grigio-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238708102",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 Fear Sail/Nero/Rosso",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708102_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708084",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708084_jordan-air-jordan-4-pony-hair-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238708074",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708074_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708102_nike-air-jordan-4-fear-sail-nero-rosso.webp"
     ],
     "top": false
   },
   {
     "id": "238708064",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
+    "nome": "Nike Air Jordan 4 What The Nero/Blu/Rosso Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238708064_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708064_nike-air-jordan-4-what-the-nero-blu-rosso-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238700141",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 3 Nero/Rosa/Bianco",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238700141_jordantatum-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238700141_jordan-tatum-3-nero-rosa-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "238700130",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 3 Grigio",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238700130_jordantatum-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238700130_jordan-tatum-3-grigio.webp"
     ],
     "top": false
   },
   {
     "id": "238700113",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 3 Rosso/Bianco Camoscio",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238700113_jordantatum-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238700113_jordan-tatum-3-rosso-bianco-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "238700104",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 1 Nero/Turchese",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238700104_jordantatum-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238700104_jordan-tatum-1-nero-turchese.webp"
     ],
     "top": false
   },
   {
     "id": "238700092",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 1 Nero/Verde neon",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238700092_jordantatum-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238700092_jordan-tatum-1-nero-verde-neon.webp"
     ],
     "top": false
   },
   {
     "id": "238700072",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 1 Nero/Rosso/Bianco",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238700072_jordantatum-4-gs-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238700072_jordan-tatum-1-nero-rosso-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "238548843",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 RM SP “Anthracite”",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 RM Anthracite",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238548843_nigel-sylvester-x-jordan-air-jordan-4-rm-sp-anthracite-1-8-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238548843_nigel-sylvester-x-nike-air-jordan-4-rm-anthracite.webp"
     ],
     "top": false
   },
   {
     "id": "238548808",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 kaws black",
+    "nome": "KAWS x Nike Air Jordan 4 Black",
+    "modello": "KAWS x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238548808_jordan-air-jordan-4-kaws-black-1-9-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238548665",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 pony hair",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238548665_jordan-air-jordan-4-pony-hair-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238548808_kaws-x-nike-air-jordan-4-black.webp"
     ],
     "top": false
   },
   {
     "id": "238548191",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "JordanTatum 4 GS",
+    "nome": "Jordan Tatum 4 Bianco/Nero/Rosso",
+    "modello": "Jordan Tatum",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238548191_jordantatum-4-gs-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "238022687",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"Imperial Purple\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/238022687_jordan-air-jordan-4-retro-imperial-purple-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238548191_jordan-tatum-4-bianco-nero-rosso.webp"
     ],
     "top": false
   },
   {
     "id": "237593426",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
+    "nome": "Union x Nike Air Jordan 4 Guava Ice Bianco/Grigio/Blu navy",
+    "modello": "Union x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593426_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593422",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593422_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593412",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593412_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593388",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593388_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/237593426_union-x-nike-air-jordan-4-guava-ice-bianco-grigio-blu-navy.webp"
     ],
     "top": false
   },
   {
     "id": "237593381",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
+    "nome": "Off-White x Nike Air Jordan 4 Sail Sail/Bianco",
+    "modello": "Off-White x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593381_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593374",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593374_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593364",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593364_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593353",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593353_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593878",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593878_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593868",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593868_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593458",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593458_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593444",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593444_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593342",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593342_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593311",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593311_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593235",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593235_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237593223",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237593223_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591095",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591095_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591086",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591086_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591076",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591076_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237592061",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237592061_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591344",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591344_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591331",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591331_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591324",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591324_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591311",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591311_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591301",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591301_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591175",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591175_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591137",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591137_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591124",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591124_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591058",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591058_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591045",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591045_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591034",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591034_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591022",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591022_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591014",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591014_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237591002",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237591002_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237590987",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237590987_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237590977",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237590977_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589390",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589390_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589377",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589377_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589496",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589496_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589478",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589478_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589454",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589454_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589444",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589444_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589435",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589435_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589428",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589428_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589422",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589422_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589414",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589414_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589402",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589402_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589393",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589393_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589373",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589373_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589367",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589367_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589358",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589358_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589352",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589352_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589346",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589346_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589338",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589338_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589331",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589331_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589326",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589326_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237589319",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237589319_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237280923",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "KZ Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237280923_kz-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237280816",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan x Union Air Jordan 4 retro sp \"guava ice\" （ 2）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237280816_jordan-x-union-air-jordan-4-retro-sp-guava-ice-2-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237280632",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\" （ 1）",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237280632_jordan-air-jordan-4-black-cat-1-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "237278837",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/237278837_nigel-sylvester-x-jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "224763852",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Black Cat\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/224763852_jordan-air-jordan-4-black-cat-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "222779899",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 \"Cave Stone and Black\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/222779899_jordan-air-jordan-4-cave-stone-and-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221819400",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro Flyknit Royal",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221819400_jordan-air-jordan-4-retro-flyknit-royal-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221725310",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 retro \"military black\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221725310_jordan-air-jordan-4-retro-military-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221725304",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 retro \"military black\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221725304_jordan-air-jordan-4-retro-military-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221725291",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 retro \"military black\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221725291_jordan-air-jordan-4-retro-military-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221725318",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 retro \"military black\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221725318_jordan-air-jordan-4-retro-military-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "197766708",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 retro \"military black\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/197766708_jordan-air-jordan-4-retro-military-black-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805363",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805363_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805358",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805358_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805353",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805353_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805349",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805349_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805345",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805345_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805340",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805340_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805331",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805331_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805325",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805325_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805317",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805317_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805313",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805313_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805298",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805298_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805293",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "LCX Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805293_lcx-jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805290",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805290_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805285",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805285_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805282",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805282_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805278",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805278_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805272",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805272_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805267",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805267_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805262",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805262_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805256",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805256_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805251",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805251_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805245",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805245_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805238",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805238_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805229",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805229_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805226",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805226_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805222",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805222_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805217",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805217_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221805213",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221805213_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "189813503",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 264",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/189813503_jordan-air-jordan-4-264-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221746315",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221746315_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744953",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744953_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744947",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744947_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744946",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744946_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744941",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744941_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744937",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744937_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744933",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744933_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744926",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744926_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744923",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744923_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744919",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744919_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744914",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744914_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744909",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744909_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744907",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744907_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/237593381_off-white-x-nike-air-jordan-4-sail-sail-bianco.webp"
     ],
     "top": false
   },
   {
     "id": "221744901",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "KAWS x Nike Air Jordan 4 Grigio chiaro Camoscio",
+    "modello": "KAWS x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744901_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744901_kaws-x-nike-air-jordan-4-grigio-chiaro-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744897",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Union x Nike Air Jordan 4 Guava Ice Lavanda/Giallo/Rosa Camoscio",
+    "modello": "Union x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744897_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744897_union-x-nike-air-jordan-4-guava-ice-lavanda-giallo-rosa-camo.webp"
     ],
     "top": false
   },
   {
     "id": "221744892",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Lightning Giallo/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744892_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744882",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744882_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744892_nike-air-jordan-4-lightning-giallo-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744879",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Viola/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744879_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744879_nike-air-jordan-4-viola-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744873",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Bred Nero/Grigio/Rosso Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744873_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744873_nike-air-jordan-4-bred-nero-grigio-rosso-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744870",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike SB x Nike Air Jordan 4 Navy",
+    "modello": "Nike SB x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744870_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744868",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744868_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744863",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744863_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744870_nike-sb-x-nike-air-jordan-4-navy.webp"
     ],
     "top": false
   },
   {
     "id": "221744858",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Orchid Rosa/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744858_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744858_nike-air-jordan-4-orchid-rosa-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744853",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 White Cement Bianco/Grigio/Nero Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744853_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744850",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744850_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744846",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744846_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744844",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744844_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744837",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744837_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744798",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744798_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744853_nike-air-jordan-4-white-cement-bianco-grigio-nero-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221744796",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Red Thunder",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744796_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744796_nike-air-jordan-4-red-thunder.webp"
     ],
     "top": false
   },
   {
     "id": "221744790",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 SE Bianco/Marrone Tessuto",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744790_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744790_nike-air-jordan-4-se-bianco-marrone-tessuto.webp"
     ],
     "top": false
   },
   {
     "id": "221744783",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Union x Nike Air Jordan 4 Off Noir Nero/Blu/Giallo Camoscio",
+    "modello": "Union x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744783_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744783_union-x-nike-air-jordan-4-off-noir-nero-blu-giallo-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744778",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Oxidized Green",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744778_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744778_nike-air-jordan-4-oxidized-green.webp"
     ],
     "top": false
   },
   {
     "id": "221744777",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 University Blue Azzurro/Grigio Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744777_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744777_nike-air-jordan-4-university-blue-azzurro-grigio-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744767",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Nero/Bianco Nabuk 1",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744767_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744767_nike-air-jordan-4-nero-bianco-nabuk-1.webp"
     ],
     "top": false
   },
   {
     "id": "221744766",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Travis Scott x Nike Air Jordan 4 Cactus Jack Azzurro/Nero/Rosso Camoscio",
+    "modello": "Travis Scott x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744766_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744766_travis-scott-x-nike-air-jordan-4-cactus-jack-azzurro-nero-ro.webp"
     ],
     "top": false
   },
   {
     "id": "221744762",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Bianco/Blu Navy Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744762_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744762_nike-air-jordan-4-bianco-blu-navy-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221744756",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Fire Red Bianco/Rosso/Nero Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744756_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744756_nike-air-jordan-4-fire-red-bianco-rosso-nero-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221744753",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Pure Money",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744753_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744753_nike-air-jordan-4-pure-money.webp"
     ],
     "top": false
   },
   {
     "id": "221744750",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Bred Nero/Grigio/Rosso Nabuk",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744750_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221744742",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744742_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744750_nike-air-jordan-4-bred-nero-grigio-rosso-nabuk.webp"
     ],
     "top": false
   },
   {
     "id": "221744738",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Fear Nero/Grigio Nabuk",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744738_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744738_nike-air-jordan-4-fear-nero-grigio-nabuk.webp"
     ],
     "top": false
   },
   {
     "id": "221744736",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Cave Stone Grigio/Blu Navy Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744736_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744736_nike-air-jordan-4-cave-stone-grigio-blu-navy-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221744732",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Military Blue Bianco/Blu/Grigio Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744732_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744732_nike-air-jordan-4-military-blue-bianco-blu-grigio-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221744728",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 SE Taupe Haze",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744728_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744728_nike-air-jordan-4-se-taupe-haze.webp"
     ],
     "top": false
   },
   {
     "id": "221744723",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Cave Stone Taupe/Nero Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221744723_59-air-jordan-4-aj4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "190060932",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "59 Air Jordan 4 AJ4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/190060932_59-air-jordan-4-aj4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221744723_nike-air-jordan-4-cave-stone-taupe-nero-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "191059001",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 \"Brick by Brick\"BIKE",
+    "nome": "Nigel Sylvester x Nike Air Jordan 4 Brick by Brick",
+    "modello": "Nigel Sylvester x Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/191059001_nigel-sylvester-x-jordan-air-jordan-4-brick-by-brick-bike-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "191452785",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Nigel Sylvester x Jordan Air Jordan 4 \"Brick by Brick\"BIKE",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/191452785_nigel-sylvester-x-jordan-air-jordan-4-brick-by-brick-bike-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "213585377",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/213585377_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/191059001_nigel-sylvester-x-nike-air-jordan-4-brick-by-brick.webp"
     ],
     "top": false
   },
   {
     "id": "221727436",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"White Cement\" 2025",
+    "nome": "Nike Air Jordan 4 White Cement Bianco/Grigio Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221727436_jordan-air-jordan-4-retro-white-cement-2025-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221727436_nike-air-jordan-4-white-cement-bianco-grigio-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221727427",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"White Cement\" 2025",
+    "nome": "Nike Air Jordan 4 Midnight Navy Bianco/Blu Navy/Grigio Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221727427_jordan-air-jordan-4-retro-white-cement-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221727421",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"White Cement\" 2025",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221727421_jordan-air-jordan-4-retro-white-cement-2025-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221727427_nike-air-jordan-4-midnight-navy-bianco-blu-navy-grigio-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221727416",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"White Cement\" 2025",
+    "nome": "Nike Air Jordan 4 What The Bianco/Blu/Rosso Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221727416_jordan-air-jordan-4-retro-white-cement-2025-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221727416_nike-air-jordan-4-what-the-bianco-blu-rosso-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221727406",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"White Cement\" 2025",
+    "nome": "Nike Air Jordan 4 White Oreo",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221727406_jordan-air-jordan-4-retro-white-cement-2025-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "213029142",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro \"White Cement\" 2025",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/213029142_jordan-air-jordan-4-retro-white-cement-2025-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221727406_nike-air-jordan-4-white-oreo.webp"
     ],
     "top": false
   },
   {
     "id": "211938825",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro Flyknit Royal",
+    "nome": "Nike Air Jordan 4 Flyknit Game Royal",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/211938825_jordan-air-jordan-4-retro-flyknit-royal-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/211938825_nike-air-jordan-4-flyknit-game-royal.webp"
     ],
     "top": false
   },
   {
     "id": "205863297",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 Retro",
+    "nome": "Nike Air Jordan 4 Sail Sail/Nero/Rosso Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/205863297_jordan-air-jordan-4-retro-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/205863297_nike-air-jordan-4-sail-sail-nero-rosso-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221728943",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Ship “Cave Stone”",
+    "nome": "Nike Air Jordan 4 Bianco/Bordeaux/Grigio Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221728943_jordan-air-ship-cave-stone-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221728943_nike-air-jordan-4-bianco-bordeaux-grigio-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221728939",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Ship “Cave Stone”",
+    "nome": "Nike Air Jordan 4 SE Frozen Moments",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221728939_jordan-air-ship-cave-stone-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221728939_nike-air-jordan-4-se-frozen-moments.webp"
     ],
     "top": false
   },
   {
     "id": "221728931",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Ship “Cave Stone”",
+    "nome": "Nike Air Jordan 4 Black Canvas Nero/Bianco Tessuto",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221728931_jordan-air-ship-cave-stone-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "198620960",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Ship “Cave Stone”",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/198620960_jordan-air-ship-cave-stone-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "189527129",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "65 Nike SB x Jordan Air Jordan 4 \"Navy\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/189527129_65-nike-sb-x-jordan-air-jordan-4-navy-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "189527237",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Union x Jordan Air Jordan 4 4 retro sp \"guava ice\"",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/189527237_union-x-jordan-air-jordan-4-4-retro-sp-guava-ice-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221728931_nike-air-jordan-4-black-canvas-nero-bianco-tessuto.webp"
     ],
     "top": false
   },
   {
     "id": "221783024",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 “Cave Stone”",
+    "nome": "Nike Air Jordan 4 Canyon Purple Lilla/Verde chiaro Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221783024_jordan-air-jordan-4-cave-stone-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221783024_nike-air-jordan-4-canyon-purple-lilla-verde-chiaro-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221782989",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 “Cave Stone”",
+    "nome": "Nike Air Jordan 4 Photon Dust Grigio chiaro/Bianco Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221782989_jordan-air-jordan-4-cave-stone-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221782984",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4 “Cave Stone”",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221782984_jordan-air-jordan-4-cave-stone-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787995",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787995_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787989",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787989_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787985",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787985_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787982",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787982_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787975",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787975_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787972",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787972_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787967",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787967_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787960",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787960_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787956",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787956_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787947",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787947_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221787943",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221787943_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "190249764",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/190249764_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221782989_nike-air-jordan-4-photon-dust-grigio-chiaro-bianco-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221789522",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 Red Cement Bianco/Rosso/Nero Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789522_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789516",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789516_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789509",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789509_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221789522_nike-air-jordan-4-red-cement-bianco-rosso-nero-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221789502",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 RM Bred Reimagined",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789502_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789496",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789496_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789490",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789490_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221789502_nike-air-jordan-4-rm-bred-reimagined.webp"
     ],
     "top": false
   },
   {
     "id": "221789481",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 Military Blue Bianco/Blu/Nero Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789481_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221789481_nike-air-jordan-4-military-blue-bianco-blu-nero-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221789476",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 Metallic Gold",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789476_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789468",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789468_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789459",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789459_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789450",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789450_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789435",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789435_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221789476_nike-air-jordan-4-metallic-gold.webp"
     ],
     "top": false
   },
   {
     "id": "221789427",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
+    "nome": "Nike Air Jordan 4 SE Sail/Bianco Camoscio",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789427_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789404",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789404_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789397",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789397_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789390",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789390_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789383",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789383_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789373",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789373_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221789369",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221789369_jordan-air-jordan-4-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "189469668",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 4",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/189469668_jordan-air-jordan-4-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221789427_nike-air-jordan-4-se-sail-bianco-camoscio.webp"
     ],
     "top": false
   },
   {
     "id": "221794684",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 3 Black Cement",
+    "modello": "Air Jordan 3",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794684_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794677",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794677_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794664",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794664_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794684_nike-air-jordan-3-black-cement.webp"
     ],
     "top": false
   },
   {
     "id": "221794652",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Military Black Bianco/Grigio/Nero Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794652_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794647",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794647_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794652_nike-air-jordan-4-military-black-bianco-grigio-nero-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221794629",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Thunder Nero/Giallo Nabuk",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794629_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794618",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794618_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794609",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794609_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794629_nike-air-jordan-4-thunder-nero-giallo-nabuk.webp"
     ],
     "top": false
   },
   {
     "id": "221794598",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Nero/Bianco Nabuk 2",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794598_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794591",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794591_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794585",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794585_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794582",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794582_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794598_nike-air-jordan-4-nero-bianco-nabuk-2.webp"
     ],
     "top": false
   },
   {
     "id": "221794578",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Infrared",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794578_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794574",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794574_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794570",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794570_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794562",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794562_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794557",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794557_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794551",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794551_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794548",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794548_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794578_nike-air-jordan-4-infrared.webp"
     ],
     "top": false
   },
   {
     "id": "221794538",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Red Cement Bianco/Rosso Pelle",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794538_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794538_nike-air-jordan-4-red-cement-bianco-rosso-pelle.webp"
     ],
     "top": false
   },
   {
     "id": "221794528",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Black Cat Nero Nabuk",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794528_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794522",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794522_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794528_nike-air-jordan-4-black-cat-nero-nabuk.webp"
     ],
     "top": false
   },
   {
     "id": "221794516",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Nero/Blu/Rosso Nabuk",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794516_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794511",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794511_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
-    ],
-    "top": false
-  },
-  {
-    "id": "221794506",
-    "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
-    "categoria": "Nike Air Jordan 4 AJ4",
-    "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/221794506_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/221794516_nike-air-jordan-4-nero-blu-rosso-nabuk.webp"
     ],
     "top": false
   },
   {
     "id": "191411315",
     "marca": "Nike Air Jordan 4 AJ4",
-    "nome": "Jordan Air Jordan 3/ Jordan 4\"Fear\" 255",
+    "nome": "Nike Air Jordan 4 Nero/Grigio Nabuk",
+    "modello": "Air Jordan 4",
     "categoria": "Nike Air Jordan 4 AJ4",
     "foto": [
-      "catalogo/img-scontornate/Nike Air Jordan 4 AJ4/191411315_jordan-air-jordan-3-jordan-4-fear-255-01.webp"
+      "catalogo/foto/Nike Air Jordan 4 AJ4/191411315_nike-air-jordan-4-nero-grigio-nabuk.webp"
+    ],
+    "top": false
+  },
+  {
+    "id": "238708442",
+    "marca": "Nike Air Jordan 4 AJ4",
+    "nome": "Nike Air Jordan 4 Fire Red",
+    "modello": "Air Jordan 4",
+    "categoria": "Nike Air Jordan 4 AJ4",
+    "foto": [
+      "catalogo/foto/Nike Air Jordan 4 AJ4/238708442_nike-air-jordan-4-fire-red.webp"
     ],
     "top": false
   },
