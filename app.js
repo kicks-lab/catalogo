@@ -3,7 +3,8 @@
    -----------------------------------------------------------------------------
    Legge window.CATALOGO da catalogo.js e costruisce: griglia filtrabile,
    chip marche, marche nel menu hamburger, elenco marche, scheda, ricerca.
-   Un prodotto = una voce. L'unico raggruppamento e' la marca.
+   Un prodotto = una voce. Raggruppamento per marca e, dove c'e' il campo
+   modello, per modello dentro la marca.
 
    Link diretti supportati:
      catalogo.html?marca=Nike     apre il catalogo gia' filtrato
@@ -42,7 +43,7 @@
   }
 
   /* --- Stato ---------------------------------------------------------------- */
-  var stato = { testo: '', marca: null, mostrati: PER_PAGINA };
+  var stato = { testo: '', marca: null, modello: null, mostrati: PER_PAGINA };
   var scrollLock = false;
   var infiniteObserver = null;
   var AUTO_SCROLL = 'IntersectionObserver' in window;
@@ -60,6 +61,30 @@
   }
 
   var MARCHE = costruisciMarche();
+
+  // Modelli della marca scelta (solo prodotti con il campo modello)
+  function modelliDi(marca) {
+    var m = {};
+    if (!marca) return [];
+    DATI.forEach(function (p) {
+      if (p.marca === marca && p.modello) m[p.modello] = (m[p.modello] || 0) + 1;
+    });
+    return Object.keys(m).sort().map(function (k) { return { nome: k, n: m[k] }; });
+  }
+
+  function aggiornaModelli() {
+    var modelli = modelliDi(stato.marca);
+    var nomi = modelli.map(function (m) { return m.nome; });
+    if (stato.modello && nomi.indexOf(stato.modello) === -1) stato.modello = null;
+    var wrap = $('#modelWrap'), sel = $('#modelSelect');
+    if (!wrap) return;
+    wrap.hidden = !modelli.length;
+    if (sel.dataset.marca !== String(stato.marca)) {
+      sel.dataset.marca = String(stato.marca);
+      sel.innerHTML = '<option value="">Tutti i modelli</option>' + modelli.map(marcaChip).join('');
+    }
+    sel.value = stato.modello || '';
+  }
 
   /* --- Pezzi di markup ------------------------------------------------------ */
   function media(p) {
@@ -98,6 +123,7 @@
     var parole = q ? q.split(' ') : [];
     return DATI.filter(function (p) {
       if (stato.marca && p.marca !== stato.marca) return false;
+      if (stato.modello && p.modello !== stato.modello) return false;
       // Tutte le parole devono comparire: cosi' "nike max" restringe davvero
       return parole.every(function (w) { return p._cerca.indexOf(w) !== -1; });
     });
@@ -115,6 +141,7 @@
 
   /* --- Rendering della griglia ---------------------------------------------- */
   function disegna() {
+    aggiornaModelli();
     var risultati = filtra();
     var visibili = risultati.slice(0, stato.mostrati);
 
@@ -127,7 +154,7 @@
 
     $('#loadMore').hidden = AUTO_SCROLL || risultati.length <= stato.mostrati;
     $('#loadMoreWrap').hidden = risultati.length <= stato.mostrati;
-    $('#resetFilters').hidden = !stato.marca && !stato.testo;
+    $('#resetFilters').hidden = !stato.marca && !stato.modello && !stato.testo;
 
     var brandSelect = $('#brandSelect');
     if (brandSelect) brandSelect.value = stato.marca || '';
@@ -146,6 +173,10 @@
           '<option value="">Tutte le marche</option>' +
           MARCHE.map(marcaChip).join('') +
         '</select>' +
+      '</label>' +
+      '<label class="brandSelect" for="modelSelect" id="modelWrap" hidden>' +
+        '<span>Scegli modello</span>' +
+        '<select id="modelSelect"></select>' +
       '</label>';
 
     $('#brandList').innerHTML = MARCHE.map(function (m) {
@@ -253,7 +284,7 @@
     document.addEventListener('click', function (e) {
       var chip = e.target.closest('.chip[data-marca]');
       if (chip) {
-        stato.marca = (stato.marca === chip.dataset.marca) ? null : chip.dataset.marca;
+        stato.marca = (stato.marca === chip.dataset.marca) ? null : chip.dataset.marca; stato.modello = null;
         stato.mostrati = PER_PAGINA;
         disegna();
         return;
@@ -261,7 +292,7 @@
 
       var voceDrawer = e.target.closest('#drawerBrands button[data-marca]');
       if (voceDrawer) {
-        stato.marca = voceDrawer.dataset.marca;
+        stato.marca = voceDrawer.dataset.marca; stato.modello = null;
         stato.mostrati = PER_PAGINA;
         disegna();
         statoDrawer(false);
@@ -271,7 +302,7 @@
 
       var voceMarca = e.target.closest('#brandList button[data-marca]');
       if (voceMarca) {
-        stato.marca = voceMarca.dataset.marca;
+        stato.marca = voceMarca.dataset.marca; stato.modello = null;
         stato.mostrati = PER_PAGINA;
         disegna();
         document.getElementById('catalogo').scrollIntoView({ behavior: 'smooth' });
@@ -301,12 +332,19 @@
 
     $('#brandSelect').addEventListener('change', function (e) {
       stato.marca = e.target.value || null;
+      stato.modello = null;
+      stato.mostrati = PER_PAGINA;
+      disegna();
+    });
+
+    $('#modelSelect').addEventListener('change', function (e) {
+      stato.modello = e.target.value || null;
       stato.mostrati = PER_PAGINA;
       disegna();
     });
 
     $('#resetFilters').addEventListener('click', function () {
-      stato.testo = ''; stato.marca = null; stato.mostrati = PER_PAGINA;
+      stato.testo = ''; stato.marca = null; stato.modello = null; stato.mostrati = PER_PAGINA;
       $('#filterInput').value = '';
       $('#brandSelect').value = '';
       disegna();
@@ -370,6 +408,14 @@
         return norm(m.nome) === norm(marca);
       })[0];
       if (trovata) stato.marca = trovata.nome;
+    }
+    // ...e opzionalmente &modello=Skate
+    var modello = par.get('modello');
+    if (modello && stato.marca) {
+      var mod = modelliDi(stato.marca).filter(function (m) {
+        return norm(m.nome) === norm(modello);
+      })[0];
+      if (mod) stato.modello = mod.nome;
     }
 
     disegna();

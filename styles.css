@@ -452,6 +452,8 @@ footer{padding:40px var(--pad) 30px;border-top:1px solid var(--line);overflow:hi
 .chiprow{display:flex;gap:7px;overflow-x:auto;padding:12px var(--pad);scrollbar-width:none}
 .chiprow::-webkit-scrollbar{display:none}
 .brandSelect{display:flex;flex-direction:column;gap:8px;width:100%}
+.brandSelect[hidden]{display:none}
+#brandChips{flex-wrap:wrap;gap:12px}
 .brandSelect span{font-size:9px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .brandSelect select{
   width:100%;height:46px;border:1.5px solid var(--line-strong);border-radius:12px;background:var(--bg-2);

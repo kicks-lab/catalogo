@@ -54953,7 +54953,8 @@ window.CATALOGO = [
   {
     "id": "222807941",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Marrone/Nero",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222807941_louis-vuitton-buttersoft.webp"
@@ -54963,7 +54964,8 @@ window.CATALOGO = [
   {
     "id": "209837504",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Bianco/Cammello",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/209837504_louis-vuitton-buttersoft.webp"
@@ -54973,7 +54975,8 @@ window.CATALOGO = [
   {
     "id": "211938760",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Nero/Bianco",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/211938760_louis-vuitton-buttersoft.webp"
@@ -54983,7 +54986,8 @@ window.CATALOGO = [
   {
     "id": "221430636",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Bianco/Panna",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430636_louis-vuitton-buttersoft.webp"
@@ -54993,7 +54997,8 @@ window.CATALOGO = [
   {
     "id": "221409185",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Kaki/Rosso",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409185_louis-vuitton-buttersoft.webp"
@@ -55003,7 +55008,8 @@ window.CATALOGO = [
   {
     "id": "221409193",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Rosa/Bianco",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409193_louis-vuitton-buttersoft.webp"
@@ -55013,7 +55019,8 @@ window.CATALOGO = [
   {
     "id": "221409206",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Panna/Multicolor",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409206_louis-vuitton-buttersoft.webp"
@@ -55023,7 +55030,8 @@ window.CATALOGO = [
   {
     "id": "222807924",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Nero/Antracite",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222807924_louis-vuitton-buttersoft.webp"
@@ -55033,7 +55041,8 @@ window.CATALOGO = [
   {
     "id": "221409209",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Bianco",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409209_louis-vuitton-buttersoft.webp"
@@ -55043,7 +55052,8 @@ window.CATALOGO = [
   {
     "id": "221409214",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Antracite",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409214_louis-vuitton-buttersoft.webp"
@@ -55053,7 +55063,8 @@ window.CATALOGO = [
   {
     "id": "221430621",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Beige/Bianco",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430621_louis-vuitton-buttersoft.webp"
@@ -55063,7 +55074,8 @@ window.CATALOGO = [
   {
     "id": "221430639",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Beige/Bianco",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430639_louis-vuitton-buttersoft.webp"
@@ -55073,7 +55085,8 @@ window.CATALOGO = [
   {
     "id": "222232400",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Ocra/Bianco",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222232400_louis-vuitton-buttersoft.webp"
@@ -55083,7 +55096,8 @@ window.CATALOGO = [
   {
     "id": "222779973",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Buttersoft",
+    "nome": "Louis Vuitton Buttersoft Beige/Panna",
+    "modello": "Buttersoft",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222779973_louis-vuitton-buttersoft.webp"
@@ -55093,7 +55107,8 @@ window.CATALOGO = [
   {
     "id": "221422693",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Marrone/Beige",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422693_louis-vuitton-footprint.webp"
@@ -55103,7 +55118,8 @@ window.CATALOGO = [
   {
     "id": "221427904",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Rosa/Bianco",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221427904_louis-vuitton-footprint.webp"
@@ -55113,7 +55129,8 @@ window.CATALOGO = [
   {
     "id": "222779925",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Beige/Bianco",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222779925_louis-vuitton-footprint.webp"
@@ -55123,7 +55140,8 @@ window.CATALOGO = [
   {
     "id": "222808598",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Nero",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222808598_louis-vuitton-footprint.webp"
@@ -55133,7 +55151,8 @@ window.CATALOGO = [
   {
     "id": "224226588",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Blu/Bianco",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/224226588_louis-vuitton-footprint.webp"
@@ -55143,7 +55162,8 @@ window.CATALOGO = [
   {
     "id": "224231812",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Verde Scuro/Bianco",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/224231812_louis-vuitton-footprint.webp"
@@ -55153,7 +55173,8 @@ window.CATALOGO = [
   {
     "id": "224231818",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Rosso/Bianco",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/224231818_louis-vuitton-footprint.webp"
@@ -55163,7 +55184,8 @@ window.CATALOGO = [
   {
     "id": "224231831",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint",
+    "nome": "Louis Vuitton Footprint Bianco/Argento",
+    "modello": "Footprint",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/224231831_louis-vuitton-footprint.webp"
@@ -55173,7 +55195,8 @@ window.CATALOGO = [
   {
     "id": "203489097",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Beige/Bianco",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/203489097_louis-vuitton-footprint-soccer.webp"
@@ -55183,7 +55206,8 @@ window.CATALOGO = [
   {
     "id": "211938715",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Antracite/Bianco",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/211938715_louis-vuitton-footprint-soccer.webp"
@@ -55193,7 +55217,8 @@ window.CATALOGO = [
   {
     "id": "221409402",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Blu/Bianco",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409402_louis-vuitton-footprint-soccer.webp"
@@ -55203,7 +55228,8 @@ window.CATALOGO = [
   {
     "id": "221409409",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Rosa/Lilla",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409409_louis-vuitton-footprint-soccer.webp"
@@ -55213,7 +55239,8 @@ window.CATALOGO = [
   {
     "id": "221427901",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Grigio/Bianco",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221427901_louis-vuitton-footprint-soccer.webp"
@@ -55223,7 +55250,8 @@ window.CATALOGO = [
   {
     "id": "221427909",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Marrone/Bianco",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221427909_louis-vuitton-footprint-soccer.webp"
@@ -55233,7 +55261,8 @@ window.CATALOGO = [
   {
     "id": "224231840",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Footprint Soccer",
+    "nome": "Louis Vuitton Footprint Soccer Nero/Bianco",
+    "modello": "Footprint Soccer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/224231840_louis-vuitton-footprint-soccer.webp"
@@ -55243,7 +55272,8 @@ window.CATALOGO = [
   {
     "id": "236603249",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
+    "nome": "Louis Vuitton Rally Grigio/Bianco",
+    "modello": "Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/236603249_louis-vuitton-rally.webp"
@@ -55253,7 +55283,8 @@ window.CATALOGO = [
   {
     "id": "236689505",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
+    "nome": "Louis Vuitton Rally Bianco/Panna",
+    "modello": "Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/236689505_louis-vuitton-rally.webp"
@@ -55263,7 +55294,8 @@ window.CATALOGO = [
   {
     "id": "236689517",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
+    "nome": "Louis Vuitton Rally Beige/Bianco",
+    "modello": "Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/236689517_louis-vuitton-rally.webp"
@@ -55273,7 +55305,8 @@ window.CATALOGO = [
   {
     "id": "236689523",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
+    "nome": "Louis Vuitton Rally Blu Navy/Bianco",
+    "modello": "Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/236689523_louis-vuitton-rally.webp"
@@ -55283,7 +55316,8 @@ window.CATALOGO = [
   {
     "id": "236689529",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Rally",
+    "nome": "Louis Vuitton Rally Blu/Argento",
+    "modello": "Rally",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/236689529_louis-vuitton-rally.webp"
@@ -55293,7 +55327,8 @@ window.CATALOGO = [
   {
     "id": "200481918",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Bianco/Nero/Grigio",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/200481918_louis-vuitton-run-away.webp"
@@ -55303,7 +55338,8 @@ window.CATALOGO = [
   {
     "id": "207507291",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Nero/Argento/Bianco",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/207507291_louis-vuitton-run-away.webp"
@@ -55313,7 +55349,8 @@ window.CATALOGO = [
   {
     "id": "221430906",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Grigio/Bianco Denim",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430906_louis-vuitton-run-away.webp"
@@ -55323,7 +55360,8 @@ window.CATALOGO = [
   {
     "id": "221430913",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Blu/Nero",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430913_louis-vuitton-run-away.webp"
@@ -55333,7 +55371,8 @@ window.CATALOGO = [
   {
     "id": "221430921",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Blu/Bianco",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430921_louis-vuitton-run-away.webp"
@@ -55343,7 +55382,8 @@ window.CATALOGO = [
   {
     "id": "221430938",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Grigio/Bianco",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430938_louis-vuitton-run-away.webp"
@@ -55353,7 +55393,8 @@ window.CATALOGO = [
   {
     "id": "221430943",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Run Away",
+    "nome": "Louis Vuitton Run Away Nero/Bianco",
+    "modello": "Run Away",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430943_louis-vuitton-run-away.webp"
@@ -55363,7 +55404,8 @@ window.CATALOGO = [
   {
     "id": "198622383",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Argento/Bianco/Nero",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/198622383_louis-vuitton-runner-tatic.webp"
@@ -55373,7 +55415,8 @@ window.CATALOGO = [
   {
     "id": "221431493",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Blu/Viola/Rosa",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431493_louis-vuitton-runner-tatic.webp"
@@ -55383,7 +55426,8 @@ window.CATALOGO = [
   {
     "id": "221431502",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Grigio/Bianco",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431502_louis-vuitton-runner-tatic.webp"
@@ -55393,7 +55437,8 @@ window.CATALOGO = [
   {
     "id": "221431508",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Bianco/Argento/Beige",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431508_louis-vuitton-runner-tatic.webp"
@@ -55403,7 +55448,8 @@ window.CATALOGO = [
   {
     "id": "221431510",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Marrone/Rosa",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431510_louis-vuitton-runner-tatic.webp"
@@ -55413,7 +55459,8 @@ window.CATALOGO = [
   {
     "id": "221431518",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Nero/Bianco/Grigio",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431518_louis-vuitton-runner-tatic.webp"
@@ -55423,7 +55470,8 @@ window.CATALOGO = [
   {
     "id": "221431530",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Nero/Grigio/Antracite",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431530_louis-vuitton-runner-tatic.webp"
@@ -55433,7 +55481,8 @@ window.CATALOGO = [
   {
     "id": "221431537",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Bianco/Grigio Camoscio",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431537_louis-vuitton-runner-tatic.webp"
@@ -55443,7 +55492,8 @@ window.CATALOGO = [
   {
     "id": "221431615",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Bianco/Grigio",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431615_louis-vuitton-runner-tatic.webp"
@@ -55453,7 +55503,8 @@ window.CATALOGO = [
   {
     "id": "221431625",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Marrone/Bianco",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431625_louis-vuitton-runner-tatic.webp"
@@ -55463,7 +55514,8 @@ window.CATALOGO = [
   {
     "id": "221431632",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Bianco/Blu",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431632_louis-vuitton-runner-tatic.webp"
@@ -55473,7 +55525,8 @@ window.CATALOGO = [
   {
     "id": "221431653",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Nero/Giallo",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431653_louis-vuitton-runner-tatic.webp"
@@ -55483,7 +55536,8 @@ window.CATALOGO = [
   {
     "id": "221431665",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Argento/Bianco/Rosso",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431665_louis-vuitton-runner-tatic.webp"
@@ -55493,7 +55547,8 @@ window.CATALOGO = [
   {
     "id": "221431673",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Bianco/Argento/Blu",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221431673_louis-vuitton-runner-tatic.webp"
@@ -55503,7 +55558,8 @@ window.CATALOGO = [
   {
     "id": "221434209",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Argento/Bianco",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434209_louis-vuitton-runner-tatic.webp"
@@ -55513,7 +55569,8 @@ window.CATALOGO = [
   {
     "id": "221434216",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Argento/Bianco/Giallo",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434216_louis-vuitton-runner-tatic.webp"
@@ -55523,7 +55580,8 @@ window.CATALOGO = [
   {
     "id": "245916990",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Runner Tatic",
+    "nome": "Louis Vuitton Runner Tatic Blu Navy/Bianco",
+    "modello": "Runner Tatic",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245916990_louis-vuitton-runner-tatic.webp"
@@ -55533,7 +55591,8 @@ window.CATALOGO = [
   {
     "id": "199736436",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Argento/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/199736436_louis-vuitton-skate.webp"
@@ -55543,7 +55602,8 @@ window.CATALOGO = [
   {
     "id": "206885817",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Rosso/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/206885817_louis-vuitton-skate.webp"
@@ -55553,7 +55613,8 @@ window.CATALOGO = [
   {
     "id": "221439101",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco/Viola",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439101_louis-vuitton-skate.webp"
@@ -55563,7 +55624,8 @@ window.CATALOGO = [
   {
     "id": "221408264",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408264_louis-vuitton-skate.webp"
@@ -55573,7 +55635,8 @@ window.CATALOGO = [
   {
     "id": "215632456",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu/Bianco Camoscio",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/215632456_louis-vuitton-skate.webp"
@@ -55583,7 +55646,8 @@ window.CATALOGO = [
   {
     "id": "221402188",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402188_louis-vuitton-skate.webp"
@@ -55593,7 +55657,8 @@ window.CATALOGO = [
   {
     "id": "221402191",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu Navy/Bianco Denim",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402191_louis-vuitton-skate.webp"
@@ -55603,7 +55668,8 @@ window.CATALOGO = [
   {
     "id": "242907178",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero Borchie",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907178_louis-vuitton-skate.webp"
@@ -55613,7 +55679,8 @@ window.CATALOGO = [
   {
     "id": "221402195",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Grigio Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402195_louis-vuitton-skate.webp"
@@ -55623,7 +55690,8 @@ window.CATALOGO = [
   {
     "id": "221402197",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco Monogram",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402197_louis-vuitton-skate.webp"
@@ -55633,7 +55701,8 @@ window.CATALOGO = [
   {
     "id": "221402200",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Panna/Beige",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402200_louis-vuitton-skate.webp"
@@ -55643,7 +55712,8 @@ window.CATALOGO = [
   {
     "id": "221402204",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Rosso/Bianco Fiori",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402204_louis-vuitton-skate.webp"
@@ -55653,7 +55723,8 @@ window.CATALOGO = [
   {
     "id": "221402206",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Grigio/Nero",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402206_louis-vuitton-skate.webp"
@@ -55663,7 +55734,8 @@ window.CATALOGO = [
   {
     "id": "221402209",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Verde Scuro",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402209_louis-vuitton-skate.webp"
@@ -55673,7 +55745,8 @@ window.CATALOGO = [
   {
     "id": "221402210",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Grigio",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402210_louis-vuitton-skate.webp"
@@ -55683,7 +55756,8 @@ window.CATALOGO = [
   {
     "id": "221402213",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Arancione/Nero",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221402213_louis-vuitton-skate.webp"
@@ -55693,7 +55767,8 @@ window.CATALOGO = [
   {
     "id": "221407463",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco/Grigio",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221407463_louis-vuitton-skate.webp"
@@ -55703,7 +55778,8 @@ window.CATALOGO = [
   {
     "id": "221407467",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Argento",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221407467_louis-vuitton-skate.webp"
@@ -55713,7 +55789,8 @@ window.CATALOGO = [
   {
     "id": "229927996",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Beige Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229927996_louis-vuitton-skate.webp"
@@ -55723,7 +55800,8 @@ window.CATALOGO = [
   {
     "id": "221407476",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu Navy/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221407476_louis-vuitton-skate.webp"
@@ -55733,7 +55811,8 @@ window.CATALOGO = [
   {
     "id": "243200392",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Antracite/Giallo Fluo",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200392_louis-vuitton-skate.webp"
@@ -55743,7 +55822,8 @@ window.CATALOGO = [
   {
     "id": "221408004",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero/Grigio",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408004_louis-vuitton-skate.webp"
@@ -55753,7 +55833,8 @@ window.CATALOGO = [
   {
     "id": "221408009",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Verde",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408009_louis-vuitton-skate.webp"
@@ -55763,7 +55844,8 @@ window.CATALOGO = [
   {
     "id": "221408021",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Rosso/Bianco Fiori",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408021_louis-vuitton-skate.webp"
@@ -55773,7 +55855,8 @@ window.CATALOGO = [
   {
     "id": "221408022",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Arancione/Giallo",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408022_louis-vuitton-skate.webp"
@@ -55783,7 +55866,8 @@ window.CATALOGO = [
   {
     "id": "221408306",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero/Rosa",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408306_louis-vuitton-skate.webp"
@@ -55793,7 +55877,8 @@ window.CATALOGO = [
   {
     "id": "221438806",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221438806_louis-vuitton-skate.webp"
@@ -55803,7 +55888,8 @@ window.CATALOGO = [
   {
     "id": "221438810",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Grigio",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221438810_louis-vuitton-skate.webp"
@@ -55813,7 +55899,8 @@ window.CATALOGO = [
   {
     "id": "221439107",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Lilla",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439107_louis-vuitton-skate.webp"
@@ -55823,7 +55910,8 @@ window.CATALOGO = [
   {
     "id": "221439112",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Argento",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439112_louis-vuitton-skate.webp"
@@ -55833,7 +55921,8 @@ window.CATALOGO = [
   {
     "id": "221439119",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Grigio Fiori",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439119_louis-vuitton-skate.webp"
@@ -55843,7 +55932,8 @@ window.CATALOGO = [
   {
     "id": "221439128",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Multicolor",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439128_louis-vuitton-skate.webp"
@@ -55853,7 +55943,8 @@ window.CATALOGO = [
   {
     "id": "221439132",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Viola/Blu",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439132_louis-vuitton-skate.webp"
@@ -55863,7 +55954,8 @@ window.CATALOGO = [
   {
     "id": "229694906",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229694906_louis-vuitton-skate.webp"
@@ -55873,7 +55965,8 @@ window.CATALOGO = [
   {
     "id": "221439143",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Argento",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221439143_louis-vuitton-skate.webp"
@@ -55883,7 +55976,8 @@ window.CATALOGO = [
   {
     "id": "221664187",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Grigio Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221664187_louis-vuitton-skate.webp"
@@ -55893,7 +55987,8 @@ window.CATALOGO = [
   {
     "id": "229694872",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229694872_louis-vuitton-skate.webp"
@@ -55903,7 +55998,8 @@ window.CATALOGO = [
   {
     "id": "229927976",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229927976_louis-vuitton-skate.webp"
@@ -55913,7 +56009,8 @@ window.CATALOGO = [
   {
     "id": "229927992",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero/Antracite",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229927992_louis-vuitton-skate.webp"
@@ -55923,7 +56020,8 @@ window.CATALOGO = [
   {
     "id": "242907133",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907133_louis-vuitton-skate.webp"
@@ -55933,7 +56031,8 @@ window.CATALOGO = [
   {
     "id": "242907215",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907215_louis-vuitton-skate.webp"
@@ -55943,7 +56042,8 @@ window.CATALOGO = [
   {
     "id": "243200216",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200216_louis-vuitton-skate.webp"
@@ -55953,7 +56053,8 @@ window.CATALOGO = [
   {
     "id": "243200228",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Antracite/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200228_louis-vuitton-skate.webp"
@@ -55963,7 +56064,8 @@ window.CATALOGO = [
   {
     "id": "243200246",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Verde Fiori",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200246_louis-vuitton-skate.webp"
@@ -55973,7 +56075,8 @@ window.CATALOGO = [
   {
     "id": "243200256",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200256_louis-vuitton-skate.webp"
@@ -55983,7 +56086,8 @@ window.CATALOGO = [
   {
     "id": "243200271",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu Navy/Bianco Camoscio",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200271_louis-vuitton-skate.webp"
@@ -55993,7 +56097,8 @@ window.CATALOGO = [
   {
     "id": "243200282",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Lilla/Viola",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200282_louis-vuitton-skate.webp"
@@ -56003,7 +56108,8 @@ window.CATALOGO = [
   {
     "id": "243200304",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero/Rosa",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200304_louis-vuitton-skate.webp"
@@ -56013,7 +56119,8 @@ window.CATALOGO = [
   {
     "id": "243200361",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Beige/Bianco/Nero",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200361_louis-vuitton-skate.webp"
@@ -56023,7 +56130,8 @@ window.CATALOGO = [
   {
     "id": "243200377",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Rosso/Bianco Fiori",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200377_louis-vuitton-skate.webp"
@@ -56033,7 +56141,8 @@ window.CATALOGO = [
   {
     "id": "243200408",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco/Lilla",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200408_louis-vuitton-skate.webp"
@@ -56043,7 +56152,8 @@ window.CATALOGO = [
   {
     "id": "243200426",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu/Argento",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243200426_louis-vuitton-skate.webp"
@@ -56053,7 +56163,8 @@ window.CATALOGO = [
   {
     "id": "243201285",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu/Argento Denim",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243201285_louis-vuitton-skate.webp"
@@ -56063,7 +56174,8 @@ window.CATALOGO = [
   {
     "id": "243201330",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Panna",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243201330_louis-vuitton-skate.webp"
@@ -56073,7 +56185,8 @@ window.CATALOGO = [
   {
     "id": "243201355",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco/Rosso",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243201355_louis-vuitton-skate.webp"
@@ -56083,7 +56196,8 @@ window.CATALOGO = [
   {
     "id": "243202258",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202258_louis-vuitton-skate.webp"
@@ -56093,7 +56207,8 @@ window.CATALOGO = [
   {
     "id": "243202283",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Beige",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202283_louis-vuitton-skate.webp"
@@ -56103,7 +56218,8 @@ window.CATALOGO = [
   {
     "id": "243202343",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202343_louis-vuitton-skate.webp"
@@ -56113,7 +56229,8 @@ window.CATALOGO = [
   {
     "id": "243202357",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Blu/Bianco Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202357_louis-vuitton-skate.webp"
@@ -56123,7 +56240,8 @@ window.CATALOGO = [
   {
     "id": "243202369",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Beige Mesh",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202369_louis-vuitton-skate.webp"
@@ -56133,7 +56251,8 @@ window.CATALOGO = [
   {
     "id": "243202389",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Bianco",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202389_louis-vuitton-skate.webp"
@@ -56143,7 +56262,8 @@ window.CATALOGO = [
   {
     "id": "243202401",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Bianco/Nero/Rosso",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202401_louis-vuitton-skate.webp"
@@ -56153,7 +56273,8 @@ window.CATALOGO = [
   {
     "id": "243202417",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Skate",
+    "nome": "Louis Vuitton Skate Nero/Multicolor",
+    "modello": "Skate",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243202417_louis-vuitton-skate.webp"
@@ -56163,7 +56284,8 @@ window.CATALOGO = [
   {
     "id": "198620639",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Blu Navy",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/198620639_louis-vuitton-sneakerina.webp"
@@ -56173,7 +56295,8 @@ window.CATALOGO = [
   {
     "id": "199093244",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Argento/Bianco",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/199093244_louis-vuitton-sneakerina.webp"
@@ -56183,7 +56306,8 @@ window.CATALOGO = [
   {
     "id": "221437777",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Bianco/Marrone",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437777_louis-vuitton-sneakerina.webp"
@@ -56193,7 +56317,8 @@ window.CATALOGO = [
   {
     "id": "221437772",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Beige/Bianco",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437772_louis-vuitton-sneakerina.webp"
@@ -56203,7 +56328,8 @@ window.CATALOGO = [
   {
     "id": "221429746",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Rosa/Oro/Viola",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221429746_louis-vuitton-sneakerina.webp"
@@ -56213,7 +56339,8 @@ window.CATALOGO = [
   {
     "id": "221429751",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Nero",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221429751_louis-vuitton-sneakerina.webp"
@@ -56223,7 +56350,8 @@ window.CATALOGO = [
   {
     "id": "221437765",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Argento/Bianco",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437765_louis-vuitton-sneakerina.webp"
@@ -56233,7 +56361,8 @@ window.CATALOGO = [
   {
     "id": "221437766",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Verde Acqua/Blu/Bianco",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437766_louis-vuitton-sneakerina.webp"
@@ -56243,7 +56372,8 @@ window.CATALOGO = [
   {
     "id": "221437768",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Rosa/Marrone",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437768_louis-vuitton-sneakerina.webp"
@@ -56253,7 +56383,8 @@ window.CATALOGO = [
   {
     "id": "222808615",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Sneakerina",
+    "nome": "Louis Vuitton Sneakerina Marrone/Bianco",
+    "modello": "Sneakerina",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222808615_louis-vuitton-sneakerina.webp"
@@ -56263,7 +56394,8 @@ window.CATALOGO = [
   {
     "id": "222808605",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Snowboot",
+    "nome": "Louis Vuitton Snowboot Marrone/Bianco",
+    "modello": "Snowboot",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222808605_louis-vuitton-snowboot.webp"
@@ -56273,7 +56405,8 @@ window.CATALOGO = [
   {
     "id": "213585348",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Grigio/Bianco Denim",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/213585348_louis-vuitton-tilted.webp"
@@ -56283,7 +56416,8 @@ window.CATALOGO = [
   {
     "id": "231652534",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Marrone/Bianco Camoscio",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231652534_louis-vuitton-tilted.webp"
@@ -56293,7 +56427,8 @@ window.CATALOGO = [
   {
     "id": "231689915",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Viola/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231689915_louis-vuitton-tilted.webp"
@@ -56303,7 +56438,8 @@ window.CATALOGO = [
   {
     "id": "231689929",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Kaki/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231689929_louis-vuitton-tilted.webp"
@@ -56313,7 +56449,8 @@ window.CATALOGO = [
   {
     "id": "231689939",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Marrone/Bianco Camoscio",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231689939_louis-vuitton-tilted.webp"
@@ -56323,7 +56460,8 @@ window.CATALOGO = [
   {
     "id": "231689951",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Nero/Bianco Camoscio",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231689951_louis-vuitton-tilted.webp"
@@ -56333,7 +56471,8 @@ window.CATALOGO = [
   {
     "id": "231689959",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Grigio/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231689959_louis-vuitton-tilted.webp"
@@ -56343,7 +56482,8 @@ window.CATALOGO = [
   {
     "id": "221408542",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Blu/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221408542_louis-vuitton-tilted.webp"
@@ -56353,7 +56493,8 @@ window.CATALOGO = [
   {
     "id": "249079106",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Nero/Bianco/Beige",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/249079106_louis-vuitton-tilted.webp"
@@ -56363,7 +56504,8 @@ window.CATALOGO = [
   {
     "id": "240097671",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Beige/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/240097671_louis-vuitton-tilted.webp"
@@ -56373,7 +56515,8 @@ window.CATALOGO = [
   {
     "id": "240097680",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Grigio/Bianco/Cammello",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/240097680_louis-vuitton-tilted.webp"
@@ -56383,7 +56526,8 @@ window.CATALOGO = [
   {
     "id": "240097685",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/240097685_louis-vuitton-tilted.webp"
@@ -56393,7 +56537,8 @@ window.CATALOGO = [
   {
     "id": "240097689",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Marrone/Bianco/Cammello",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/240097689_louis-vuitton-tilted.webp"
@@ -56403,7 +56548,8 @@ window.CATALOGO = [
   {
     "id": "240097701",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Blu Navy/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/240097701_louis-vuitton-tilted.webp"
@@ -56413,7 +56559,8 @@ window.CATALOGO = [
   {
     "id": "240097706",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Marrone/Bianco Camoscio",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/240097706_louis-vuitton-tilted.webp"
@@ -56423,7 +56570,8 @@ window.CATALOGO = [
   {
     "id": "242907162",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Bianco/Nero",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907162_louis-vuitton-tilted.webp"
@@ -56433,7 +56581,8 @@ window.CATALOGO = [
   {
     "id": "243201557",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Marrone/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243201557_louis-vuitton-tilted.webp"
@@ -56443,7 +56592,8 @@ window.CATALOGO = [
   {
     "id": "243201578",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Blu Navy/Viola",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243201578_louis-vuitton-tilted.webp"
@@ -56453,7 +56603,8 @@ window.CATALOGO = [
   {
     "id": "248905868",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Tilted",
+    "nome": "Louis Vuitton Tilted Nero/Bianco",
+    "modello": "Tilted",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/248905868_louis-vuitton-tilted.webp"
@@ -56463,7 +56614,8 @@ window.CATALOGO = [
   {
     "id": "199237898",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/199237898_louis-vuitton-trainer.webp"
@@ -56473,7 +56625,8 @@ window.CATALOGO = [
   {
     "id": "199736484",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/199736484_louis-vuitton-trainer.webp"
@@ -56483,7 +56636,8 @@ window.CATALOGO = [
   {
     "id": "221403342",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Panna",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221403342_louis-vuitton-trainer.webp"
@@ -56493,7 +56647,8 @@ window.CATALOGO = [
   {
     "id": "221406105",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221406105_louis-vuitton-trainer.webp"
@@ -56503,7 +56658,8 @@ window.CATALOGO = [
   {
     "id": "221421907",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco Tessuto",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421907_louis-vuitton-trainer.webp"
@@ -56513,7 +56669,8 @@ window.CATALOGO = [
   {
     "id": "221421923",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421923_louis-vuitton-trainer.webp"
@@ -56523,7 +56680,8 @@ window.CATALOGO = [
   {
     "id": "221421928",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosa",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421928_louis-vuitton-trainer.webp"
@@ -56533,7 +56691,8 @@ window.CATALOGO = [
   {
     "id": "221421931",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Verde Menta/Argento",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421931_louis-vuitton-trainer.webp"
@@ -56543,7 +56702,8 @@ window.CATALOGO = [
   {
     "id": "221421938",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Argento/Nero",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421938_louis-vuitton-trainer.webp"
@@ -56553,7 +56713,8 @@ window.CATALOGO = [
   {
     "id": "221421943",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco/Nero",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421943_louis-vuitton-trainer.webp"
@@ -56563,7 +56724,8 @@ window.CATALOGO = [
   {
     "id": "221422696",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Marrone/Beige",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422696_louis-vuitton-trainer.webp"
@@ -56573,7 +56735,8 @@ window.CATALOGO = [
   {
     "id": "221422974",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Beige",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422974_louis-vuitton-trainer.webp"
@@ -56583,7 +56746,8 @@ window.CATALOGO = [
   {
     "id": "221422977",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Cammello/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422977_louis-vuitton-trainer.webp"
@@ -56593,7 +56757,8 @@ window.CATALOGO = [
   {
     "id": "221422981",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Beige",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422981_louis-vuitton-trainer.webp"
@@ -56603,7 +56768,8 @@ window.CATALOGO = [
   {
     "id": "221422984",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Oro",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422984_louis-vuitton-trainer.webp"
@@ -56613,7 +56779,8 @@ window.CATALOGO = [
   {
     "id": "221422989",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco/Giallo",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422989_louis-vuitton-trainer.webp"
@@ -56623,7 +56790,8 @@ window.CATALOGO = [
   {
     "id": "221422997",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221422997_louis-vuitton-trainer.webp"
@@ -56633,7 +56801,8 @@ window.CATALOGO = [
   {
     "id": "221423137",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero/Rosa",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221423137_louis-vuitton-trainer.webp"
@@ -56643,7 +56812,8 @@ window.CATALOGO = [
   {
     "id": "221423807",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Talpa/Grigio Damier",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221423807_louis-vuitton-trainer.webp"
@@ -56653,7 +56823,8 @@ window.CATALOGO = [
   {
     "id": "244658695",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658695_louis-vuitton-trainer.webp"
@@ -56663,7 +56834,8 @@ window.CATALOGO = [
   {
     "id": "221424028",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Argento Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424028_louis-vuitton-trainer.webp"
@@ -56673,7 +56845,8 @@ window.CATALOGO = [
   {
     "id": "221424035",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Argento Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424035_louis-vuitton-trainer.webp"
@@ -56683,7 +56856,8 @@ window.CATALOGO = [
   {
     "id": "221424040",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Kaki/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424040_louis-vuitton-trainer.webp"
@@ -56693,7 +56867,8 @@ window.CATALOGO = [
   {
     "id": "222927033",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222927033_louis-vuitton-trainer.webp"
@@ -56703,7 +56878,8 @@ window.CATALOGO = [
   {
     "id": "221424842",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424842_louis-vuitton-trainer.webp"
@@ -56713,7 +56889,8 @@ window.CATALOGO = [
   {
     "id": "221424847",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero/Rosso",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424847_louis-vuitton-trainer.webp"
@@ -56723,7 +56900,8 @@ window.CATALOGO = [
   {
     "id": "221424849",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Panna/Rosso",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424849_louis-vuitton-trainer.webp"
@@ -56733,7 +56911,8 @@ window.CATALOGO = [
   {
     "id": "221425248",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Navy Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221425248_louis-vuitton-trainer.webp"
@@ -56743,7 +56922,8 @@ window.CATALOGO = [
   {
     "id": "221425256",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Grigio/Bianco/Rosso Mesh",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221425256_louis-vuitton-trainer.webp"
@@ -56753,7 +56933,8 @@ window.CATALOGO = [
   {
     "id": "221425260",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221425260_louis-vuitton-trainer.webp"
@@ -56763,7 +56944,8 @@ window.CATALOGO = [
   {
     "id": "221425264",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Mesh",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221425264_louis-vuitton-trainer.webp"
@@ -56773,7 +56955,8 @@ window.CATALOGO = [
   {
     "id": "221430133",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Viola/Bianco/Cammello",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430133_louis-vuitton-trainer.webp"
@@ -56783,7 +56966,8 @@ window.CATALOGO = [
   {
     "id": "221430139",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Verde/Bianco Camoscio",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430139_louis-vuitton-trainer.webp"
@@ -56793,7 +56977,8 @@ window.CATALOGO = [
   {
     "id": "221430145",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Cammello/Bianco Camoscio",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430145_louis-vuitton-trainer.webp"
@@ -56803,7 +56988,8 @@ window.CATALOGO = [
   {
     "id": "221430161",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Talpa/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430161_louis-vuitton-trainer.webp"
@@ -56813,7 +56999,8 @@ window.CATALOGO = [
   {
     "id": "221430166",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Marrone/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430166_louis-vuitton-trainer.webp"
@@ -56823,7 +57010,8 @@ window.CATALOGO = [
   {
     "id": "221430468",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Kaki",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221430468_louis-vuitton-trainer.webp"
@@ -56833,7 +57021,8 @@ window.CATALOGO = [
   {
     "id": "221434649",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Multicolor Graffiti",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434649_louis-vuitton-trainer.webp"
@@ -56843,7 +57032,8 @@ window.CATALOGO = [
   {
     "id": "221434657",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Multicolor Graffiti",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434657_louis-vuitton-trainer.webp"
@@ -56853,7 +57043,8 @@ window.CATALOGO = [
   {
     "id": "229929902",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Navy",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229929902_louis-vuitton-trainer.webp"
@@ -56863,7 +57054,8 @@ window.CATALOGO = [
   {
     "id": "221434667",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Beige/Rosso",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434667_louis-vuitton-trainer.webp"
@@ -56873,7 +57065,8 @@ window.CATALOGO = [
   {
     "id": "229929921",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Panna Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229929921_louis-vuitton-trainer.webp"
@@ -56883,7 +57076,8 @@ window.CATALOGO = [
   {
     "id": "229930402",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930402_louis-vuitton-trainer.webp"
@@ -56893,7 +57087,8 @@ window.CATALOGO = [
   {
     "id": "221434688",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434688_louis-vuitton-trainer.webp"
@@ -56903,7 +57098,8 @@ window.CATALOGO = [
   {
     "id": "221434690",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434690_louis-vuitton-trainer.webp"
@@ -56913,7 +57109,8 @@ window.CATALOGO = [
   {
     "id": "221434695",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu Navy/Multicolor",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434695_louis-vuitton-trainer.webp"
@@ -56923,7 +57120,8 @@ window.CATALOGO = [
   {
     "id": "221434702",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosa Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434702_louis-vuitton-trainer.webp"
@@ -56933,7 +57131,8 @@ window.CATALOGO = [
   {
     "id": "221434709",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221434709_louis-vuitton-trainer.webp"
@@ -56943,7 +57142,8 @@ window.CATALOGO = [
   {
     "id": "221446455",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Argento Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446455_louis-vuitton-trainer.webp"
@@ -56953,7 +57153,8 @@ window.CATALOGO = [
   {
     "id": "221446457",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446457_louis-vuitton-trainer.webp"
@@ -56963,7 +57164,8 @@ window.CATALOGO = [
   {
     "id": "244658490",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658490_louis-vuitton-trainer.webp"
@@ -56973,7 +57175,8 @@ window.CATALOGO = [
   {
     "id": "221446514",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Panna",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446514_louis-vuitton-trainer.webp"
@@ -56983,7 +57186,8 @@ window.CATALOGO = [
   {
     "id": "221446515",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446515_louis-vuitton-trainer.webp"
@@ -56993,7 +57197,8 @@ window.CATALOGO = [
   {
     "id": "244500592",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244500592_louis-vuitton-trainer.webp"
@@ -57003,7 +57208,8 @@ window.CATALOGO = [
   {
     "id": "221446856",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Kaki Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446856_louis-vuitton-trainer.webp"
@@ -57013,7 +57219,8 @@ window.CATALOGO = [
   {
     "id": "221446519",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446519_louis-vuitton-trainer.webp"
@@ -57023,7 +57230,8 @@ window.CATALOGO = [
   {
     "id": "244658633",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658633_louis-vuitton-trainer.webp"
@@ -57033,7 +57241,8 @@ window.CATALOGO = [
   {
     "id": "221446526",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosso/Bianco Tessuto",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446526_louis-vuitton-trainer.webp"
@@ -57043,7 +57252,8 @@ window.CATALOGO = [
   {
     "id": "221446528",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446528_louis-vuitton-trainer.webp"
@@ -57053,7 +57263,8 @@ window.CATALOGO = [
   {
     "id": "244658521",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Azzurro",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658521_louis-vuitton-trainer.webp"
@@ -57063,7 +57274,8 @@ window.CATALOGO = [
   {
     "id": "221446532",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446532_louis-vuitton-trainer.webp"
@@ -57073,7 +57285,8 @@ window.CATALOGO = [
   {
     "id": "221446540",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446540_louis-vuitton-trainer.webp"
@@ -57083,7 +57296,8 @@ window.CATALOGO = [
   {
     "id": "221446542",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Beige/Blu Navy",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446542_louis-vuitton-trainer.webp"
@@ -57093,7 +57307,8 @@ window.CATALOGO = [
   {
     "id": "221446842",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu Navy",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446842_louis-vuitton-trainer.webp"
@@ -57103,7 +57318,8 @@ window.CATALOGO = [
   {
     "id": "221446844",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446844_louis-vuitton-trainer.webp"
@@ -57113,7 +57329,8 @@ window.CATALOGO = [
   {
     "id": "221446848",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446848_louis-vuitton-trainer.webp"
@@ -57123,7 +57340,8 @@ window.CATALOGO = [
   {
     "id": "221446850",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Beige/Talpa",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446850_louis-vuitton-trainer.webp"
@@ -57133,7 +57351,8 @@ window.CATALOGO = [
   {
     "id": "221446852",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Multicolor",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446852_louis-vuitton-trainer.webp"
@@ -57143,7 +57362,8 @@ window.CATALOGO = [
   {
     "id": "221446858",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Grigio/Bianco Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446858_louis-vuitton-trainer.webp"
@@ -57153,7 +57373,8 @@ window.CATALOGO = [
   {
     "id": "221446860",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Talpa/Grigio",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446860_louis-vuitton-trainer.webp"
@@ -57163,7 +57384,8 @@ window.CATALOGO = [
   {
     "id": "221446863",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221446863_louis-vuitton-trainer.webp"
@@ -57173,7 +57395,8 @@ window.CATALOGO = [
   {
     "id": "243199979",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Multicolor",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243199979_louis-vuitton-trainer.webp"
@@ -57183,7 +57406,8 @@ window.CATALOGO = [
   {
     "id": "222909003",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Panna Mesh",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222909003_louis-vuitton-trainer.webp"
@@ -57193,7 +57417,8 @@ window.CATALOGO = [
   {
     "id": "222927016",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Beige Mesh",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222927016_louis-vuitton-trainer.webp"
@@ -57203,7 +57428,8 @@ window.CATALOGO = [
   {
     "id": "222927025",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero Mesh",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222927025_louis-vuitton-trainer.webp"
@@ -57213,7 +57439,8 @@ window.CATALOGO = [
   {
     "id": "229928017",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229928017_louis-vuitton-trainer.webp"
@@ -57223,7 +57450,8 @@ window.CATALOGO = [
   {
     "id": "229929908",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Grigio",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229929908_louis-vuitton-trainer.webp"
@@ -57233,7 +57461,8 @@ window.CATALOGO = [
   {
     "id": "229929931",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco/Grigio Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229929931_louis-vuitton-trainer.webp"
@@ -57243,7 +57472,8 @@ window.CATALOGO = [
   {
     "id": "229929937",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu/Viola",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229929937_louis-vuitton-trainer.webp"
@@ -57253,7 +57483,8 @@ window.CATALOGO = [
   {
     "id": "229929947",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Argento Borchie",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229929947_louis-vuitton-trainer.webp"
@@ -57263,7 +57494,8 @@ window.CATALOGO = [
   {
     "id": "229930271",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930271_louis-vuitton-trainer.webp"
@@ -57273,7 +57505,8 @@ window.CATALOGO = [
   {
     "id": "229930277",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Damier",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930277_louis-vuitton-trainer.webp"
@@ -57283,7 +57516,8 @@ window.CATALOGO = [
   {
     "id": "229930292",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930292_louis-vuitton-trainer.webp"
@@ -57293,7 +57527,8 @@ window.CATALOGO = [
   {
     "id": "244658650",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Beige Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658650_louis-vuitton-trainer.webp"
@@ -57303,7 +57538,8 @@ window.CATALOGO = [
   {
     "id": "229930311",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Marrone",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930311_louis-vuitton-trainer.webp"
@@ -57313,7 +57549,8 @@ window.CATALOGO = [
   {
     "id": "229930331",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930331_louis-vuitton-trainer.webp"
@@ -57323,7 +57560,8 @@ window.CATALOGO = [
   {
     "id": "229930365",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Damier",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930365_louis-vuitton-trainer.webp"
@@ -57333,7 +57571,8 @@ window.CATALOGO = [
   {
     "id": "229930376",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930376_louis-vuitton-trainer.webp"
@@ -57343,7 +57582,8 @@ window.CATALOGO = [
   {
     "id": "229930382",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/229930382_louis-vuitton-trainer.webp"
@@ -57353,7 +57593,8 @@ window.CATALOGO = [
   {
     "id": "245963664",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245963664_louis-vuitton-trainer.webp"
@@ -57363,7 +57604,8 @@ window.CATALOGO = [
   {
     "id": "231690787",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Pesca/Rosa/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231690787_louis-vuitton-trainer.webp"
@@ -57373,7 +57615,8 @@ window.CATALOGO = [
   {
     "id": "231690800",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Lilla/Bianco Tessuto",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/231690800_louis-vuitton-trainer.webp"
@@ -57383,7 +57626,8 @@ window.CATALOGO = [
   {
     "id": "243199919",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Viola/Bordeaux",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243199919_louis-vuitton-trainer.webp"
@@ -57393,7 +57637,8 @@ window.CATALOGO = [
   {
     "id": "239418023",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Argento/Bianco/Rosso",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418023_louis-vuitton-trainer.webp"
@@ -57403,7 +57648,8 @@ window.CATALOGO = [
   {
     "id": "239418028",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Panna Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418028_louis-vuitton-trainer.webp"
@@ -57413,7 +57659,8 @@ window.CATALOGO = [
   {
     "id": "239418059",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Beige/Multicolor",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418059_louis-vuitton-trainer.webp"
@@ -57423,7 +57670,8 @@ window.CATALOGO = [
   {
     "id": "239418069",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Beige/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418069_louis-vuitton-trainer.webp"
@@ -57433,7 +57681,8 @@ window.CATALOGO = [
   {
     "id": "239418078",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero/Marrone",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418078_louis-vuitton-trainer.webp"
@@ -57443,7 +57692,8 @@ window.CATALOGO = [
   {
     "id": "239418091",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu Navy/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418091_louis-vuitton-trainer.webp"
@@ -57453,7 +57703,8 @@ window.CATALOGO = [
   {
     "id": "239418104",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Nero/Cammello",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/239418104_louis-vuitton-trainer.webp"
@@ -57463,7 +57714,8 @@ window.CATALOGO = [
   {
     "id": "242537492",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Navy Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242537492_louis-vuitton-trainer.webp"
@@ -57473,7 +57725,8 @@ window.CATALOGO = [
   {
     "id": "242749650",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242749650_louis-vuitton-trainer.webp"
@@ -57483,7 +57736,8 @@ window.CATALOGO = [
   {
     "id": "242749672",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Verde",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242749672_louis-vuitton-trainer.webp"
@@ -57493,7 +57747,8 @@ window.CATALOGO = [
   {
     "id": "242749688",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242749688_louis-vuitton-trainer.webp"
@@ -57503,7 +57758,8 @@ window.CATALOGO = [
   {
     "id": "242749703",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242749703_louis-vuitton-trainer.webp"
@@ -57513,7 +57769,8 @@ window.CATALOGO = [
   {
     "id": "242749717",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242749717_louis-vuitton-trainer.webp"
@@ -57523,7 +57780,8 @@ window.CATALOGO = [
   {
     "id": "242749727",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Argento Mesh",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242749727_louis-vuitton-trainer.webp"
@@ -57533,7 +57791,8 @@ window.CATALOGO = [
   {
     "id": "242907151",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907151_louis-vuitton-trainer.webp"
@@ -57543,7 +57802,8 @@ window.CATALOGO = [
   {
     "id": "242907196",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Nero/Argento",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907196_louis-vuitton-trainer.webp"
@@ -57553,7 +57813,8 @@ window.CATALOGO = [
   {
     "id": "242907233",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Giallo Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/242907233_louis-vuitton-trainer.webp"
@@ -57563,7 +57824,8 @@ window.CATALOGO = [
   {
     "id": "243199911",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Lilla/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243199911_louis-vuitton-trainer.webp"
@@ -57573,7 +57835,8 @@ window.CATALOGO = [
   {
     "id": "243199932",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Giallo",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243199932_louis-vuitton-trainer.webp"
@@ -57583,7 +57846,8 @@ window.CATALOGO = [
   {
     "id": "243199947",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Lilla/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243199947_louis-vuitton-trainer.webp"
@@ -57593,7 +57857,8 @@ window.CATALOGO = [
   {
     "id": "244500612",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244500612_louis-vuitton-trainer.webp"
@@ -57603,7 +57868,8 @@ window.CATALOGO = [
   {
     "id": "243201904",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosso/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/243201904_louis-vuitton-trainer.webp"
@@ -57613,7 +57879,8 @@ window.CATALOGO = [
   {
     "id": "244501035",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Oro Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244501035_louis-vuitton-trainer.webp"
@@ -57623,7 +57890,8 @@ window.CATALOGO = [
   {
     "id": "244658479",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosso/Giallo",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658479_louis-vuitton-trainer.webp"
@@ -57633,7 +57901,8 @@ window.CATALOGO = [
   {
     "id": "244658486",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658486_louis-vuitton-trainer.webp"
@@ -57643,7 +57912,8 @@ window.CATALOGO = [
   {
     "id": "244658500",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu Navy",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658500_louis-vuitton-trainer.webp"
@@ -57653,7 +57923,8 @@ window.CATALOGO = [
   {
     "id": "244658509",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Giallo Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658509_louis-vuitton-trainer.webp"
@@ -57663,7 +57934,8 @@ window.CATALOGO = [
   {
     "id": "244658528",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Verde/Multicolor",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658528_louis-vuitton-trainer.webp"
@@ -57673,7 +57945,8 @@ window.CATALOGO = [
   {
     "id": "244658550",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658550_louis-vuitton-trainer.webp"
@@ -57683,7 +57956,8 @@ window.CATALOGO = [
   {
     "id": "244658558",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658558_louis-vuitton-trainer.webp"
@@ -57693,7 +57967,8 @@ window.CATALOGO = [
   {
     "id": "244658572",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Argento",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658572_louis-vuitton-trainer.webp"
@@ -57703,7 +57978,8 @@ window.CATALOGO = [
   {
     "id": "244658580",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Rosa/Bianco Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658580_louis-vuitton-trainer.webp"
@@ -57713,7 +57989,8 @@ window.CATALOGO = [
   {
     "id": "244658603",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658603_louis-vuitton-trainer.webp"
@@ -57723,7 +58000,8 @@ window.CATALOGO = [
   {
     "id": "244658616",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Beige/Bianco Denim",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658616_louis-vuitton-trainer.webp"
@@ -57733,7 +58011,8 @@ window.CATALOGO = [
   {
     "id": "244658625",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Blu",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658625_louis-vuitton-trainer.webp"
@@ -57743,7 +58022,8 @@ window.CATALOGO = [
   {
     "id": "244658642",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu Navy/Argento",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658642_louis-vuitton-trainer.webp"
@@ -57753,7 +58033,8 @@ window.CATALOGO = [
   {
     "id": "244658664",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Multicolor Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658664_louis-vuitton-trainer.webp"
@@ -57763,7 +58044,8 @@ window.CATALOGO = [
   {
     "id": "244658681",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244658681_louis-vuitton-trainer.webp"
@@ -57773,7 +58055,8 @@ window.CATALOGO = [
   {
     "id": "244668719",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Viola",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244668719_louis-vuitton-trainer.webp"
@@ -57783,7 +58066,8 @@ window.CATALOGO = [
   {
     "id": "244668853",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Multicolor Fiori",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244668853_louis-vuitton-trainer.webp"
@@ -57793,7 +58077,8 @@ window.CATALOGO = [
   {
     "id": "244668886",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Multicolor",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/244668886_louis-vuitton-trainer.webp"
@@ -57803,7 +58088,8 @@ window.CATALOGO = [
   {
     "id": "245917014",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Azzurro Vernice",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245917014_louis-vuitton-trainer.webp"
@@ -57813,7 +58099,8 @@ window.CATALOGO = [
   {
     "id": "245917057",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Pesca/Arancione",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245917057_louis-vuitton-trainer.webp"
@@ -57823,7 +58110,8 @@ window.CATALOGO = [
   {
     "id": "245958853",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Rosa Vernice",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245958853_louis-vuitton-trainer.webp"
@@ -57833,7 +58121,8 @@ window.CATALOGO = [
   {
     "id": "245958872",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Bianco/Grigio Monogram",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245958872_louis-vuitton-trainer.webp"
@@ -57843,7 +58132,8 @@ window.CATALOGO = [
   {
     "id": "245959321",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Blu/Bianco",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245959321_louis-vuitton-trainer.webp"
@@ -57853,7 +58143,8 @@ window.CATALOGO = [
   {
     "id": "245959348",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Giallo/Bianco Camoscio",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245959348_louis-vuitton-trainer.webp"
@@ -57863,7 +58154,8 @@ window.CATALOGO = [
   {
     "id": "245963681",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer",
+    "nome": "Louis Vuitton Trainer Viola/Lilla",
+    "modello": "Trainer",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/245963681_louis-vuitton-trainer.webp"
@@ -57873,7 +58165,8 @@ window.CATALOGO = [
   {
     "id": "221421775",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Nero/Bianco Denim",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221421775_louis-vuitton-trainer-maxi.webp"
@@ -57883,7 +58176,8 @@ window.CATALOGO = [
   {
     "id": "207314564",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Beige",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/207314564_louis-vuitton-trainer-maxi.webp"
@@ -57893,7 +58187,8 @@ window.CATALOGO = [
   {
     "id": "221437158",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Nero/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437158_louis-vuitton-trainer-maxi.webp"
@@ -57903,7 +58198,8 @@ window.CATALOGO = [
   {
     "id": "221406108",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Beige Fiori",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221406108_louis-vuitton-trainer-maxi.webp"
@@ -57913,7 +58209,8 @@ window.CATALOGO = [
   {
     "id": "221409535",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Viola",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409535_louis-vuitton-trainer-maxi.webp"
@@ -57923,7 +58220,8 @@ window.CATALOGO = [
   {
     "id": "221409547",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Blu/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409547_louis-vuitton-trainer-maxi.webp"
@@ -57933,7 +58231,8 @@ window.CATALOGO = [
   {
     "id": "221436111",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Grigio Monogram",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436111_louis-vuitton-trainer-maxi.webp"
@@ -57943,7 +58242,8 @@ window.CATALOGO = [
   {
     "id": "221409553",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Giallo",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409553_louis-vuitton-trainer-maxi.webp"
@@ -57953,7 +58253,8 @@ window.CATALOGO = [
   {
     "id": "221409557",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Nero/Argento",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409557_louis-vuitton-trainer-maxi.webp"
@@ -57963,7 +58264,8 @@ window.CATALOGO = [
   {
     "id": "221409562",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Grigio/Nero/Arancione",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409562_louis-vuitton-trainer-maxi.webp"
@@ -57973,7 +58275,8 @@ window.CATALOGO = [
   {
     "id": "221409565",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Grigio",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409565_louis-vuitton-trainer-maxi.webp"
@@ -57983,7 +58286,8 @@ window.CATALOGO = [
   {
     "id": "221409570",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Viola",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409570_louis-vuitton-trainer-maxi.webp"
@@ -57993,7 +58297,8 @@ window.CATALOGO = [
   {
     "id": "221436118",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Nero/Oro",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436118_louis-vuitton-trainer-maxi.webp"
@@ -58003,7 +58308,8 @@ window.CATALOGO = [
   {
     "id": "221409578",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Grigio/Giallo",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409578_louis-vuitton-trainer-maxi.webp"
@@ -58013,7 +58319,8 @@ window.CATALOGO = [
   {
     "id": "221409582",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Nero",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409582_louis-vuitton-trainer-maxi.webp"
@@ -58023,7 +58330,8 @@ window.CATALOGO = [
   {
     "id": "221436136",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Arancione/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436136_louis-vuitton-trainer-maxi.webp"
@@ -58033,7 +58341,8 @@ window.CATALOGO = [
   {
     "id": "221436104",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Blu",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436104_louis-vuitton-trainer-maxi.webp"
@@ -58043,7 +58352,8 @@ window.CATALOGO = [
   {
     "id": "221409598",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Verde Acqua",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409598_louis-vuitton-trainer-maxi.webp"
@@ -58053,7 +58363,8 @@ window.CATALOGO = [
   {
     "id": "221409602",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Viola/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409602_louis-vuitton-trainer-maxi.webp"
@@ -58063,7 +58374,8 @@ window.CATALOGO = [
   {
     "id": "221409605",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Argento/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409605_louis-vuitton-trainer-maxi.webp"
@@ -58073,7 +58385,8 @@ window.CATALOGO = [
   {
     "id": "221409611",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Blu/Bianco/Viola",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221409611_louis-vuitton-trainer-maxi.webp"
@@ -58083,7 +58396,8 @@ window.CATALOGO = [
   {
     "id": "221436128",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Beige",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436128_louis-vuitton-trainer-maxi.webp"
@@ -58093,7 +58407,8 @@ window.CATALOGO = [
   {
     "id": "221437197",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Blu Navy/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437197_louis-vuitton-trainer-maxi.webp"
@@ -58103,7 +58418,8 @@ window.CATALOGO = [
   {
     "id": "221436109",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Rosso",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436109_louis-vuitton-trainer-maxi.webp"
@@ -58113,7 +58429,8 @@ window.CATALOGO = [
   {
     "id": "221436091",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Rosa/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436091_louis-vuitton-trainer-maxi.webp"
@@ -58123,7 +58440,8 @@ window.CATALOGO = [
   {
     "id": "221424839",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Nero Fiori",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221424839_louis-vuitton-trainer-maxi.webp"
@@ -58133,7 +58451,8 @@ window.CATALOGO = [
   {
     "id": "221436096",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Viola Fiori",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221436096_louis-vuitton-trainer-maxi.webp"
@@ -58143,7 +58462,8 @@ window.CATALOGO = [
   {
     "id": "221437161",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Cammello/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437161_louis-vuitton-trainer-maxi.webp"
@@ -58153,7 +58473,8 @@ window.CATALOGO = [
   {
     "id": "221437170",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Rosa/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437170_louis-vuitton-trainer-maxi.webp"
@@ -58163,7 +58484,8 @@ window.CATALOGO = [
   {
     "id": "221437174",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Marrone/Antracite/Argento",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437174_louis-vuitton-trainer-maxi.webp"
@@ -58173,7 +58495,8 @@ window.CATALOGO = [
   {
     "id": "221437177",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Rosso",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437177_louis-vuitton-trainer-maxi.webp"
@@ -58183,7 +58506,8 @@ window.CATALOGO = [
   {
     "id": "221437181",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Blu/Bianco",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437181_louis-vuitton-trainer-maxi.webp"
@@ -58193,7 +58517,8 @@ window.CATALOGO = [
   {
     "id": "221437191",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Bianco/Nero",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/221437191_louis-vuitton-trainer-maxi.webp"
@@ -58203,7 +58528,8 @@ window.CATALOGO = [
   {
     "id": "222808622",
     "marca": "Louis Vuitton LV",
-    "nome": "LOUIS VUITTON Trainer Maxi",
+    "nome": "Louis Vuitton Trainer Maxi Nero Shearling",
+    "modello": "Trainer Maxi",
     "categoria": "Louis Vuitton LV",
     "foto": [
       "catalogo/foto/Louis Vuitton LV/222808622_louis-vuitton-trainer-maxi.webp"
